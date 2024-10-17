@@ -1,0 +1,24 @@
+name: Hello World Python
+
+# Run this action on pushes to the master branch
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  hello-world:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'  # This ensures Python 3.x is available
+
+    - name: Run Python Script
+      run: |
+        python -c "print('Hello, World!')"
