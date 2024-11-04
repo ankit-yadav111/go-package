@@ -1,259 +1,152 @@
-"Ticker","Name_","Type_","Period_","Measure_Code","Measure_Desc","UnitType","Curr","Value_"
-TCS,Tata Consultancy Services Ltd,Year,2025,OPREXP,Operating Expense,Currency,INR,1893693.5
-TCS,Tata Consultancy Services Ltd,Year,2025,BVPS,Book Value Per Share,Currency,INR,270.2365
-TCS,Tata Consultancy Services Ltd,Year,2025,INTEXP,Interest Expense,Currency,INR,7885.38462
-TCS,Tata Consultancy Services Ltd,Year,2025,EPSREP,As Reported EPS,Currency,INR,137.67923
-TCS,Tata Consultancy Services Ltd,Year,2025,NDEBT,Net Debt,Currency,INR,-332570.81773
-TCS,Tata Consultancy Services Ltd,Year,2025,NPROFIT,Net Income,Currency,INR,500862.47898
-TCS,Tata Consultancy Services Ltd,Year,2025,SEQUITY,Shareholders Equity,Currency,INR,1009193.59804
-TCS,Tata Consultancy Services Ltd,Year,2025,NAV,Net Assets Value,Currency,INR,1106818.82588
-TCS,Tata Consultancy Services Ltd,Year,2025,TBV,Tangible Book Value,Currency,INR,865197.1095
-TCS,Tata Consultancy Services Ltd,Year,2025,R&DEXP,R&D Expense,Currency,INR,37497.0
-TCS,Tata Consultancy Services Ltd,Year,2025,OPROFIT,Operating Profit,Currency,INR,2587627.0
-TCS,Tata Consultancy Services Ltd,Year,2025,NETREV,Net Revenue,Currency,INR,2581431.25
-TCS,Tata Consultancy Services Ltd,Year,2025,ROA,Return on Assets,Percentage,,33.23114
-TCS,Tata Consultancy Services Ltd,Year,2025,PPROFIT,Pretax Profit,Currency,INR,659163.82148
-TCS,Tata Consultancy Services Ltd,Year,2025,TA,Total Assets,Currency,INR,1486687.41667
-TCS,Tata Consultancy Services Ltd,Year,2025,ROE,Return On Equity,Percentage,,51.80218
-TCS,Tata Consultancy Services Ltd,Year,2025,AMORT,Amortization,Currency,INR,2250.0
-TCS,Tata Consultancy Services Ltd,Year,2025,SBC,Stock Based Compensation,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2025,SG&A,SG&A Expense,Currency,INR,380018.41667
-TCS,Tata Consultancy Services Ltd,Year,2025,CFPS,Cash Flow Per Share,Currency,INR,140.08886
-TCS,Tata Consultancy Services Ltd,Year,2025,COGS,Cost of Goods sold,Currency,INR,1537153.72092
-TCS,Tata Consultancy Services Ltd,Year,2025,NAVPS,NAV per Share,Currency,INR,268.984
-TCS,Tata Consultancy Services Ltd,Year,2025,REV,Sales,Currency,INR,2580589.18107
-TCS,Tata Consultancy Services Ltd,Year,2025,EV,Enterprise Value,Currency,INR,14881793.96586
-TCS,Tata Consultancy Services Ltd,Year,2025,FCFPS,Free Cash Flow Per Share,Currency,INR,124.13
-TCS,Tata Consultancy Services Ltd,Year,2025,DEPAMORT,Depreciation & Amortization,Currency,INR,51091.05056
-TCS,Tata Consultancy Services Ltd,Year,2025,TCOMPRATIO,Total Compensation Expense,Currency,INR,1529721.25
-TCS,Tata Consultancy Services Ltd,Year,2025,DEPREC,Depreciation,Currency,INR,50179.16174
-TCS,Tata Consultancy Services Ltd,Year,2025,CFFINANCE,Cash Flow from Financing,Currency,INR,-379777.78261
-TCS,Tata Consultancy Services Ltd,Year,2025,CFOPERAT,Cash Flow from Operations,Currency,INR,519545.41379
-TCS,Tata Consultancy Services Ltd,Year,2025,CAPEX,Capital Expenditures,Currency,INR,43411.28916
-TCS,Tata Consultancy Services Ltd,Year,2025,DEFREV,Deferred Revenue,Currency,INR,25445.0
-TCS,Tata Consultancy Services Ltd,Year,2025,CFINVEST,Cash Flow from Investing,Currency,INR,-70835.31579
-TCS,Tata Consultancy Services Ltd,Year,2025,SELLEXP,Selling & Marketing Expense,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2025,EBITA,EBITA,Currency,INR,658957.0
-TCS,Tata Consultancy Services Ltd,Year,2025,EBITDAPS,EBITDA Per Share,Currency,INR,192.29
-TCS,Tata Consultancy Services Ltd,Year,2025,PSR,Price/Sales Ratio,Percentage,,5.98
-TCS,Tata Consultancy Services Ltd,Year,2025,ORGANICSAL,Organic Sales Growth,Percentage,,5.455
-TCS,Tata Consultancy Services Ltd,Year,2025,GROSSINC,Gross Income,Currency,INR,1023653.18182
-TCS,Tata Consultancy Services Ltd,Year,2025,NOSHAREOUT,Number of Shares Outstanding,Shares,,3655.95
-TCS,Tata Consultancy Services Ltd,Year,2025,TOTDEBT,Total Debt,Currency,INR,67448.0
-TCS,Tata Consultancy Services Ltd,Year,2025,ROIC,Return on Invested Capital,Percentage,,76.91333
-TCS,Tata Consultancy Services Ltd,Year,2025,INVENTORY,Inventory,Currency,INR,382.0
-TCS,Tata Consultancy Services Ltd,Year,2025,TAXRATE,Tax Rate,Percentage,,25.43727
-TCS,Tata Consultancy Services Ltd,Year,2025,GOODWILL,Goodwill,Currency,INR,33170.66667
-TCS,Tata Consultancy Services Ltd,Year,2025,EBITDAREP,EBITDA Reported,Currency,INR,659037.63684
-TCS,Tata Consultancy Services Ltd,Year,2025,CURRASSETS,Current Assets,Currency,INR,1128695.70588
-TCS,Tata Consultancy Services Ltd,Year,2025,CURRLIAB,Current Liabilities,Currency,INR,504716.33333
-TCS,Tata Consultancy Services Ltd,Year,2025,NWC,Net Working Capital,Currency,INR,489598.0
-TCS,Tata Consultancy Services Ltd,Year,2025,FCF,Free Cash Flow,Currency,INR,464791.34254
-TCS,Tata Consultancy Services Ltd,Year,2025,TOTALLIAB,Total Liabilities ,Currency,INR,982829.2381
-TCS,Tata Consultancy Services Ltd,Year,2025,EPSCASH,Cash EPS,Currency,INR,152.95409
-TCS,Tata Consultancy Services Ltd,Year,2025,EPS,Earnings Per Share,Currency,INR,137.63214
-TCS,Tata Consultancy Services Ltd,Year,2025,NPROFITREP,Reported Net Profit,Currency,INR,502256.74573
-TCS,Tata Consultancy Services Ltd,Year,2025,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,690972.34638
-TCS,Tata Consultancy Services Ltd,Year,2025,INCTAX,Income Taxes Paid,Currency,INR,170290.14286
-TCS,Tata Consultancy Services Ltd,Year,2025,GPM,Gross Margin (Gross Profit Margin),Percentage,,40.37477
-TCS,Tata Consultancy Services Ltd,Year,2025,EBIT,Earnings Before Tax,Currency,INR,628317.14245
-TCS,Tata Consultancy Services Ltd,Year,2025,ROC,Return on Capital,Percentage,,55.93774
-TCS,Tata Consultancy Services Ltd,Year,2025,TOTDIV,Total Dividends,Currency,INR,367721.975
-TCS,Tata Consultancy Services Ltd,Year,2025,DPS,Dividend Per Share,Currency,INR,108.711
-TCS,Tata Consultancy Services Ltd,Year,2025,TAXPROV,Tax Provision,Currency,INR,166287.13793
-TCS,Tata Consultancy Services Ltd,Year,2025,PPROFITREP,Reported Pretax Profit,Currency,INR,658563.88659
-TCS,Tata Consultancy Services Ltd,Year,2025,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,281136.33333
-TCS,Tata Consultancy Services Ltd,Year,2026,TAXPROV,Tax Provision,Currency,INR,191423.13793
-TCS,Tata Consultancy Services Ltd,Year,2026,EBIT,Earnings Before Tax,Currency,INR,714486.61826
-TCS,Tata Consultancy Services Ltd,Year,2026,EPS,Earnings Per Share,Currency,INR,154.98407
-TCS,Tata Consultancy Services Ltd,Year,2026,ROC,Return on Capital,Percentage,,58.44844
-TCS,Tata Consultancy Services Ltd,Year,2026,TOTDIV,Total Dividends,Currency,INR,423248.16
-TCS,Tata Consultancy Services Ltd,Year,2026,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,373063.06667
-TCS,Tata Consultancy Services Ltd,Year,2026,DPS,Dividend Per Share,Currency,INR,118.73047
-TCS,Tata Consultancy Services Ltd,Year,2026,GPM,Gross Margin (Gross Profit Margin),Percentage,,40.7705
-TCS,Tata Consultancy Services Ltd,Year,2026,PPROFITREP,Reported Pretax Profit,Currency,INR,756912.84522
-TCS,Tata Consultancy Services Ltd,Year,2026,INCTAX,Income Taxes Paid,Currency,INR,190302.14286
-TCS,Tata Consultancy Services Ltd,Year,2026,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,768512.53969
-TCS,Tata Consultancy Services Ltd,Year,2026,NPROFITREP,Reported Net Profit,Currency,INR,563064.27635
-TCS,Tata Consultancy Services Ltd,Year,2026,EPSCASH,Cash EPS,Currency,INR,171.87764
-TCS,Tata Consultancy Services Ltd,Year,2026,TOTALLIAB,Total Liabilities ,Currency,INR,1116533.52381
-TCS,Tata Consultancy Services Ltd,Year,2026,FCF,Free Cash Flow,Currency,INR,518606.47263
-TCS,Tata Consultancy Services Ltd,Year,2026,NWC,Net Working Capital,Currency,INR,548765.71429
-TCS,Tata Consultancy Services Ltd,Year,2026,CURRLIAB,Current Liabilities,Currency,INR,550143.27778
-TCS,Tata Consultancy Services Ltd,Year,2026,CURRASSETS,Current Assets,Currency,INR,1252492.88235
-TCS,Tata Consultancy Services Ltd,Year,2026,EBITDAREP,EBITDA Reported,Currency,INR,775688.02778
-TCS,Tata Consultancy Services Ltd,Year,2026,GOODWILL,Goodwill,Currency,INR,33170.66667
-TCS,Tata Consultancy Services Ltd,Year,2026,INVENTORY,Inventory,Currency,INR,410.83333
-TCS,Tata Consultancy Services Ltd,Year,2026,ROIC,Return on Invested Capital,Percentage,,80.76
-TCS,Tata Consultancy Services Ltd,Year,2026,TAXRATE,Tax Rate,Percentage,,25.39636
-TCS,Tata Consultancy Services Ltd,Year,2026,TOTDEBT,Total Debt,Currency,INR,67818.0
-TCS,Tata Consultancy Services Ltd,Year,2026,GROSSINC,Gross Income,Currency,INR,1140871.27273
-TCS,Tata Consultancy Services Ltd,Year,2026,ORGANICSAL,Organic Sales Growth,Percentage,,7.45
-TCS,Tata Consultancy Services Ltd,Year,2026,PSR,Price/Sales Ratio,Percentage,,5.335
-TCS,Tata Consultancy Services Ltd,Year,2026,EBITDAPS,EBITDA Per Share,Currency,INR,220.46
-TCS,Tata Consultancy Services Ltd,Year,2026,NOSHAREOUT,Number of Shares Outstanding,Shares,,3599.23056
-TCS,Tata Consultancy Services Ltd,Year,2026,FCFPS,Free Cash Flow Per Share,Currency,INR,140.18667
-TCS,Tata Consultancy Services Ltd,Year,2026,EBITA,EBITA,Currency,INR,736871.5
-TCS,Tata Consultancy Services Ltd,Year,2026,SELLEXP,Selling & Marketing Expense,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2026,DEPREC,Depreciation,Currency,INR,53881.04983
-TCS,Tata Consultancy Services Ltd,Year,2026,CFOPERAT,Cash Flow from Operations,Currency,INR,574161.23333
-TCS,Tata Consultancy Services Ltd,Year,2026,DEFREV,Deferred Revenue,Currency,INR,26901.0
-TCS,Tata Consultancy Services Ltd,Year,2026,CAPEX,Capital Expenditures,Currency,INR,44882.25903
-TCS,Tata Consultancy Services Ltd,Year,2026,CFFINANCE,Cash Flow from Financing,Currency,INR,-431868.56522
-TCS,Tata Consultancy Services Ltd,Year,2026,CFINVEST,Cash Flow from Investing,Currency,INR,-58451.05
-TCS,Tata Consultancy Services Ltd,Year,2026,TCOMPRATIO,Total Compensation Expense,Currency,INR,1600286.125
-TCS,Tata Consultancy Services Ltd,Year,2026,DEPAMORT,Depreciation & Amortization,Currency,INR,57213.802
-TCS,Tata Consultancy Services Ltd,Year,2026,EV,Enterprise Value,Currency,INR,15059190.1525
-TCS,Tata Consultancy Services Ltd,Year,2026,REV,Sales,Currency,INR,2801308.67352
-TCS,Tata Consultancy Services Ltd,Year,2026,NAVPS,NAV per Share,Currency,INR,295.59575
-TCS,Tata Consultancy Services Ltd,Year,2026,COGS,Cost of Goods sold,Currency,INR,1660248.88708
-TCS,Tata Consultancy Services Ltd,Year,2026,CFPS,Cash Flow Per Share,Currency,INR,164.86214
-TCS,Tata Consultancy Services Ltd,Year,2026,SG&A,SG&A Expense,Currency,INR,490695.8
-TCS,Tata Consultancy Services Ltd,Year,2026,SBC,Stock Based Compensation,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2026,AMORT,Amortization,Currency,INR,6334.0
-TCS,Tata Consultancy Services Ltd,Year,2026,SEQUITY,Shareholders Equity,Currency,INR,1129579.1015
-TCS,Tata Consultancy Services Ltd,Year,2026,PPROFIT,Pretax Profit,Currency,INR,755153.22655
-TCS,Tata Consultancy Services Ltd,Year,2026,ROE,Return On Equity,Percentage,,53.04497
-TCS,Tata Consultancy Services Ltd,Year,2026,TA,Total Assets,Currency,INR,1666842.70833
-TCS,Tata Consultancy Services Ltd,Year,2026,ROA,Return on Assets,Percentage,,34.02557
-TCS,Tata Consultancy Services Ltd,Year,2026,NETREV,Net Revenue,Currency,INR,2809226.45455
-TCS,Tata Consultancy Services Ltd,Year,2026,OPROFIT,Operating Profit,Currency,INR,2837180.0
-TCS,Tata Consultancy Services Ltd,Year,2026,R&DEXP,R&D Expense,Currency,INR,23678.0
-TCS,Tata Consultancy Services Ltd,Year,2026,TBV,Tangible Book Value,Currency,INR,863428.4745
-TCS,Tata Consultancy Services Ltd,Year,2026,NAV,Net Assets Value,Currency,INR,1232486.74776
-TCS,Tata Consultancy Services Ltd,Year,2026,NPROFIT,Net Income,Currency,INR,561323.58114
-TCS,Tata Consultancy Services Ltd,Year,2026,NDEBT,Net Debt,Currency,INR,-396966.97691
-TCS,Tata Consultancy Services Ltd,Year,2026,EPSREP,As Reported EPS,Currency,INR,154.86923
-TCS,Tata Consultancy Services Ltd,Year,2026,INTEXP,Interest Expense,Currency,INR,7923.28571
-TCS,Tata Consultancy Services Ltd,Year,2026,BVPS,Book Value Per Share,Currency,INR,299.98519
-TCS,Tata Consultancy Services Ltd,Year,2026,OPREXP,Operating Expense,Currency,INR,2049427.83333
-TCS,Tata Consultancy Services Ltd,Year,2027,OPREXP,Operating Expense,Currency,INR,2251398.33333
-TCS,Tata Consultancy Services Ltd,Year,2027,BVPS,Book Value Per Share,Currency,INR,324.26945
-TCS,Tata Consultancy Services Ltd,Year,2027,INTEXP,Interest Expense,Currency,INR,9507.90909
-TCS,Tata Consultancy Services Ltd,Year,2027,EPSREP,As Reported EPS,Currency,INR,170.998
-TCS,Tata Consultancy Services Ltd,Year,2027,NDEBT,Net Debt,Currency,INR,-477282.78883
-TCS,Tata Consultancy Services Ltd,Year,2027,NPROFIT,Net Income,Currency,INR,619783.77674
-TCS,Tata Consultancy Services Ltd,Year,2027,TBV,Tangible Book Value,Currency,INR,976671.811
-TCS,Tata Consultancy Services Ltd,Year,2027,OPROFIT,Operating Profit,Currency,INR,3179574.0
-TCS,Tata Consultancy Services Ltd,Year,2027,NAV,Net Assets Value,Currency,INR,1386434.68559
-TCS,Tata Consultancy Services Ltd,Year,2027,NETREV,Net Revenue,Currency,INR,3061039.66667
-TCS,Tata Consultancy Services Ltd,Year,2027,ROA,Return on Assets,Percentage,,35.08686
-TCS,Tata Consultancy Services Ltd,Year,2027,TA,Total Assets,Currency,INR,1867796.94737
-TCS,Tata Consultancy Services Ltd,Year,2027,PPROFIT,Pretax Profit,Currency,INR,831782.07653
-TCS,Tata Consultancy Services Ltd,Year,2027,SEQUITY,Shareholders Equity,Currency,INR,1249791.53235
-TCS,Tata Consultancy Services Ltd,Year,2027,SBC,Stock Based Compensation,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2027,AMORT,Amortization,Currency,INR,9807.0
-TCS,Tata Consultancy Services Ltd,Year,2027,SG&A,SG&A Expense,Currency,INR,557402.57143
-TCS,Tata Consultancy Services Ltd,Year,2027,FCFPS,Free Cash Flow Per Share,Currency,INR,165.70667
-TCS,Tata Consultancy Services Ltd,Year,2027,CFPS,Cash Flow Per Share,Currency,INR,195.88717
-TCS,Tata Consultancy Services Ltd,Year,2027,CAPEX,Capital Expenditures,Currency,INR,47285.61577
-TCS,Tata Consultancy Services Ltd,Year,2027,CFINVEST,Cash Flow from Investing,Currency,INR,-37233.86667
-TCS,Tata Consultancy Services Ltd,Year,2027,CFOPERAT,Cash Flow from Operations,Currency,INR,631445.95652
-TCS,Tata Consultancy Services Ltd,Year,2027,DEPAMORT,Depreciation & Amortization,Currency,INR,61324.01979
-TCS,Tata Consultancy Services Ltd,Year,2027,ROE,Return On Equity,Percentage,,53.63218
-TCS,Tata Consultancy Services Ltd,Year,2027,COGS,Cost of Goods sold,Currency,INR,1812455.1634
-TCS,Tata Consultancy Services Ltd,Year,2027,TCOMPRATIO,Total Compensation Expense,Currency,INR,1756070.83333
-TCS,Tata Consultancy Services Ltd,Year,2027,DEPREC,Depreciation,Currency,INR,56246.93982
-TCS,Tata Consultancy Services Ltd,Year,2027,NAVPS,NAV per Share,Currency,INR,371.59067
-TCS,Tata Consultancy Services Ltd,Year,2027,REV,Sales,Currency,INR,3049126.21129
-TCS,Tata Consultancy Services Ltd,Year,2027,EV,Enterprise Value,Currency,INR,14960854.694
-TCS,Tata Consultancy Services Ltd,Year,2027,CFFINANCE,Cash Flow from Financing,Currency,INR,-502070.5
-TCS,Tata Consultancy Services Ltd,Year,2027,SELLEXP,Selling & Marketing Expense,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2027,EBITA,EBITA,Currency,INR,811343.5
-TCS,Tata Consultancy Services Ltd,Year,2027,INVENTORY,Inventory,Currency,INR,501.25
-TCS,Tata Consultancy Services Ltd,Year,2027,EBITDAPS,EBITDA Per Share,Currency,INR,247.87
-TCS,Tata Consultancy Services Ltd,Year,2027,PSR,Price/Sales Ratio,Percentage,,4.815
-TCS,Tata Consultancy Services Ltd,Year,2027,ORGANICSAL,Organic Sales Growth,Percentage,,10.25
-TCS,Tata Consultancy Services Ltd,Year,2027,GROSSINC,Gross Income,Currency,INR,1476693.44444
-TCS,Tata Consultancy Services Ltd,Year,2027,TOTDEBT,Total Debt,Currency,INR,58583.33333
-TCS,Tata Consultancy Services Ltd,Year,2027,INCTAX,Income Taxes Paid,Currency,INR,207528.90909
-TCS,Tata Consultancy Services Ltd,Year,2027,ROIC,Return on Invested Capital,Percentage,,82.4
-TCS,Tata Consultancy Services Ltd,Year,2027,EBITDAREP,EBITDA Reported,Currency,INR,853296.21667
-TCS,Tata Consultancy Services Ltd,Year,2027,GOODWILL,Goodwill,Currency,INR,35455.38462
-TCS,Tata Consultancy Services Ltd,Year,2027,NOSHAREOUT,Number of Shares Outstanding,Shares,,3659.65357
-TCS,Tata Consultancy Services Ltd,Year,2027,TAXRATE,Tax Rate,Percentage,,25.44235
-TCS,Tata Consultancy Services Ltd,Year,2027,CURRASSETS,Current Assets,Currency,INR,1380331.38462
-TCS,Tata Consultancy Services Ltd,Year,2027,CURRLIAB,Current Liabilities,Currency,INR,562867.66667
-TCS,Tata Consultancy Services Ltd,Year,2027,NWC,Net Working Capital,Currency,INR,600441.0
-TCS,Tata Consultancy Services Ltd,Year,2027,ROC,Return on Capital,Percentage,,58.56771
-TCS,Tata Consultancy Services Ltd,Year,2027,TAXPROV,Tax Provision,Currency,INR,210703.04348
-TCS,Tata Consultancy Services Ltd,Year,2027,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,486040.43478
-TCS,Tata Consultancy Services Ltd,Year,2027,TOTALLIAB,Total Liabilities ,Currency,INR,1225168.33333
-TCS,Tata Consultancy Services Ltd,Year,2027,EPSCASH,Cash EPS,Currency,INR,187.83278
-TCS,Tata Consultancy Services Ltd,Year,2027,DPS,Dividend Per Share,Currency,INR,130.01574
-TCS,Tata Consultancy Services Ltd,Year,2027,NPROFITREP,Reported Net Profit,Currency,INR,621812.03345
-TCS,Tata Consultancy Services Ltd,Year,2027,PPROFITREP,Reported Pretax Profit,Currency,INR,833131.62663
-TCS,Tata Consultancy Services Ltd,Year,2027,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,844542.83777
-TCS,Tata Consultancy Services Ltd,Year,2027,FCF,Free Cash Flow,Currency,INR,589861.28668
-TCS,Tata Consultancy Services Ltd,Year,2027,TOTDIV,Total Dividends,Currency,INR,481584.88571
-TCS,Tata Consultancy Services Ltd,Year,2027,GPM,Gross Margin (Gross Profit Margin),Percentage,,41.8543
-TCS,Tata Consultancy Services Ltd,Year,2027,EPS,Earnings Per Share,Currency,INR,171.16654
-TCS,Tata Consultancy Services Ltd,Year,2027,EBIT,Earnings Before Tax,Currency,INR,792639.54456
-TCS,Tata Consultancy Services Ltd,Year,2028,EPS,Earnings Per Share,Currency,INR,205.96
-TCS,Tata Consultancy Services Ltd,Year,2028,GROSSINC,Gross Income,Currency,INR,1409888.5
-TCS,Tata Consultancy Services Ltd,Year,2028,GOODWILL,Goodwill,Currency,INR,26505.0
-TCS,Tata Consultancy Services Ltd,Year,2028,NWC,Net Working Capital,Currency,INR,473132.0
-TCS,Tata Consultancy Services Ltd,Year,2028,ROC,Return on Capital,Percentage,,48.0
-TCS,Tata Consultancy Services Ltd,Year,2028,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,1226649.0
-TCS,Tata Consultancy Services Ltd,Year,2028,EBIT,Earnings Before Tax,Currency,INR,917112.5
-TCS,Tata Consultancy Services Ltd,Year,2028,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,968229.5
-TCS,Tata Consultancy Services Ltd,Year,2028,NPROFITREP,Reported Net Profit,Currency,INR,738159.0
-TCS,Tata Consultancy Services Ltd,Year,2028,GPM,Gross Margin (Gross Profit Margin),Percentage,,42.3
-TCS,Tata Consultancy Services Ltd,Year,2028,PPROFITREP,Reported Pretax Profit,Currency,INR,975044.0
-TCS,Tata Consultancy Services Ltd,Year,2028,DEPREC,Depreciation,Currency,INR,44697.5
-TCS,Tata Consultancy Services Ltd,Year,2028,EBITDAREP,EBITDA Reported,Currency,INR,968229.5
-TCS,Tata Consultancy Services Ltd,Year,2028,FCF,Free Cash Flow,Currency,INR,605330.0
-TCS,Tata Consultancy Services Ltd,Year,2028,PSR,Price/Sales Ratio,Percentage,,4.3
-TCS,Tata Consultancy Services Ltd,Year,2028,NOSHAREOUT,Number of Shares Outstanding,Shares,,3584.5
-TCS,Tata Consultancy Services Ltd,Year,2028,TOTALLIAB,Total Liabilities ,Currency,INR,701000.0
-TCS,Tata Consultancy Services Ltd,Year,2028,ROIC,Return on Invested Capital,Percentage,,121.8
-TCS,Tata Consultancy Services Ltd,Year,2028,TAXPROV,Tax Provision,Currency,INR,222000.0
-TCS,Tata Consultancy Services Ltd,Year,2028,SELLEXP,Selling & Marketing Expense,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2028,DPS,Dividend Per Share,Currency,INR,68.0
-TCS,Tata Consultancy Services Ltd,Year,2028,REV,Sales,Currency,INR,3426595.0
-TCS,Tata Consultancy Services Ltd,Year,2028,CAPEX,Capital Expenditures,Currency,INR,38462.0
-TCS,Tata Consultancy Services Ltd,Year,2028,CFFINANCE,Cash Flow from Financing,Currency,INR,-516900.0
-TCS,Tata Consultancy Services Ltd,Year,2028,CFOPERAT,Cash Flow from Operations,Currency,INR,649237.0
-TCS,Tata Consultancy Services Ltd,Year,2028,DEPAMORT,Depreciation & Amortization,Currency,INR,58233.0
-TCS,Tata Consultancy Services Ltd,Year,2028,COGS,Cost of Goods sold,Currency,INR,2132000.0
-TCS,Tata Consultancy Services Ltd,Year,2028,AMORT,Amortization,Currency,INR,12845.0
-TCS,Tata Consultancy Services Ltd,Year,2028,SG&A,SG&A Expense,Currency,INR,484000.0
-TCS,Tata Consultancy Services Ltd,Year,2028,ROE,Return On Equity,Percentage,,40.5
-TCS,Tata Consultancy Services Ltd,Year,2028,PPROFIT,Pretax Profit,Currency,INR,975044.0
-TCS,Tata Consultancy Services Ltd,Year,2028,TA,Total Assets,Currency,INR,2571561.0
-TCS,Tata Consultancy Services Ltd,Year,2028,NETREV,Net Revenue,Currency,INR,3295190.0
-TCS,Tata Consultancy Services Ltd,Year,2028,SEQUITY,Shareholders Equity,Currency,INR,2237000.0
-TCS,Tata Consultancy Services Ltd,Year,2028,ROA,Return on Assets,Percentage,,25.2
-TCS,Tata Consultancy Services Ltd,Year,2028,NAV,Net Assets Value,Currency,INR,1946692.5
-TCS,Tata Consultancy Services Ltd,Year,2028,NDEBT,Net Debt,Currency,INR,-1106698.0
-TCS,Tata Consultancy Services Ltd,Year,2028,NPROFIT,Net Income,Currency,INR,738159.0
-TCS,Tata Consultancy Services Ltd,Year,2028,EPSREP,As Reported EPS,Currency,INR,205.96
-TCS,Tata Consultancy Services Ltd,Year,2028,INTEXP,Interest Expense,Currency,INR,6480.0
-TCS,Tata Consultancy Services Ltd,Year,2029,EPSREP,As Reported EPS,Currency,INR,238.57
-TCS,Tata Consultancy Services Ltd,Year,2029,NAV,Net Assets Value,Currency,INR,2766000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,NPROFIT,Net Income,Currency,INR,842000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,ROA,Return on Assets,Percentage,,24.1
-TCS,Tata Consultancy Services Ltd,Year,2029,SEQUITY,Shareholders Equity,Currency,INR,2755000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,TA,Total Assets,Currency,INR,3501000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,ROE,Return On Equity,Percentage,,30.5
-TCS,Tata Consultancy Services Ltd,Year,2029,REV,Sales,Currency,INR,3861000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,CAPEX,Capital Expenditures,Currency,INR,42863.0
-TCS,Tata Consultancy Services Ltd,Year,2029,SG&A,SG&A Expense,Currency,INR,494000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,AMORT,Amortization,Currency,INR,15608.0
-TCS,Tata Consultancy Services Ltd,Year,2029,COGS,Cost of Goods sold,Currency,INR,2294000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,GOODWILL,Goodwill,Currency,INR,34000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,SELLEXP,Selling & Marketing Expense,Currency,INR,0.0
-TCS,Tata Consultancy Services Ltd,Year,2029,DPS,Dividend Per Share,Currency,INR,72.0
-TCS,Tata Consultancy Services Ltd,Year,2029,EBIT,Earnings Before Tax,Currency,INR,1096000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,1146000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,NPROFITREP,Reported Net Profit,Currency,INR,842000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,DEPREC,Depreciation,Currency,INR,34351.0
-TCS,Tata Consultancy Services Ltd,Year,2029,EBITDAREP,EBITDA Reported,Currency,INR,1146000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,GROSSINC,Gross Income,Currency,INR,1567000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,TAXPROV,Tax Provision,Currency,INR,252000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,2083000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,ROIC,Return on Invested Capital,Percentage,,138.7
-TCS,Tata Consultancy Services Ltd,Year,2029,TOTALLIAB,Total Liabilities ,Currency,INR,736000.0
-TCS,Tata Consultancy Services Ltd,Year,2029,NOSHAREOUT,Number of Shares Outstanding,Shares,,3531.0
-TCS,Tata Consultancy Services Ltd,Year,2029,PSR,Price/Sales Ratio,Percentage,,4.0
-TCS,Tata Consultancy Services Ltd,Year,2029,EPS,Earnings Per Share,Currency,INR,238.57
+"Name","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+ADF Foods Ltd,2,"2024-09-30",1,1,RNTS,1613.928,Net Sales,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,10,SREV,1613.928,Revenue,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,31,RTLR,1613.928,Total Revenue,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,34,ECOR,893.232,Cost of Revenue,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,36,SCOR,893.232,"Cost of Revenue, Total",M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,37,SGRP,720.696,Gross Profit,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,57,EDEP,45.296,Depreciation,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,60,SDPR,45.296,Depreciation/Amortization,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,80,EOOE,443.84,Other Operating Expense,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,82,SOOE,443.84,"Other Operating Expenses, Total",M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,83,ETOE,1382.368,Total Operating Expense,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,84,SOPI,231.56,Operating Income,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,89,NINV,4.97,Investment Income - Non-Operating,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,90,SIIN,4.97,Interest/Invest Income -  Non-Operating,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,126,NONT,24.773,Other Non-Operating Income (Expense),M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,127,SONT,24.773,"Other, Net",M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,128,EIBT,261.303,Net Income Before Taxes,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,129,TTAX,64.602,Provision for Income Taxes,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,130,TIAT,196.701,Net Income After Taxes,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,131,CMIN,0.0,Minority Interest,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,134,NIBX,196.701,Net Income Before Extra. Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,140,NINC,196.701,Net Income,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,147,CIAC,196.701,Income Available to Com Excl ExtraOrd,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,148,XNIC,196.701,Income Available to Com Incl ExtraOrd,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,149,SBAS,109.88883,Basic Weighted Average Shares,M,0,1
+ADF Foods Ltd,2,"2024-09-30",1,150,SBBF,1.79,Basic EPS Excluding Extraordinary Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,151,SBAI,1.79,Basic EPS Including Extraordinary Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,153,SDNI,196.701,Diluted Net Income,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,154,SDWS,109.88883,Diluted Weighted Average Shares,M,0,1
+ADF Foods Ltd,2,"2024-09-30",1,155,SDBF,1.79,Diluted EPS Excluding ExtraOrd Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,156,SDAI,1.79,Diluted EPS Including ExtraOrd Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,157,DDPS1,0.6,DPS - Common Stock Primary Issue,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,173,VDEP,45.296,"Depreciation, Supplemental",M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,176,VPTI,261.303,Normalized Income Before Taxes,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,178,VITN,64.602,Inc Tax Ex Impact of Sp Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,179,VIAT,196.701,Normalized Income After Taxes,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,180,VIAC,196.701,Normalized Inc. Avail to Com.,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,181,VBES,1.79,Basic Normalized EPS,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,182,VDES,1.79,Diluted Normalized EPS,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,189,VMIN,0.0,"Minority Interest, Supplemental",M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,209,SGPP,44.65478,Gross Margin,M,0,1
+ADF Foods Ltd,2,"2024-09-30",1,210,SOPP,14.3476,Operating Margin,M,0,1
+ADF Foods Ltd,2,"2024-09-30",1,211,SPTM,16.1905,Pretax Margin,M,0,1
+ADF Foods Ltd,2,"2024-09-30",1,212,SETR,24.72302,Effective Tax Rate,M,0,1
+ADF Foods Ltd,2,"2024-09-30",1,213,SNPM,12.18772,Net Profit Margin,M,0,1
+ADF Foods Ltd,2,"2024-09-30",1,214,SBIT,231.56,Normalized EBIT,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,215,SBDA,276.856,Normalized EBITDA,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,221,VCTR,68.172,Current Tax - Total,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,222,VCTC,68.172,Current Tax - Total,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,227,VDTR,-2.487,Deferred Tax - Total,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,228,VDTC,-2.487,Deferred Tax - Total,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,232,VOTO,-1.083,Other Tax,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,233,VITT,64.602,Income Tax - Total,M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,999,SNIN,4.97,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+ADF Foods Ltd,2,"2024-09-30",1,1068,VLAR,113.279,Labor & Related Expense Suppl.,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,834,ONET,456.916,Net Income/Starting Line,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,835,SDEP,89.427,Depreciation,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,837,SDED,89.427,Depreciation/Depletion,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,846,OUIE,-29.212,Unusual Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,849,ONCI,-3.33,Other Non-Cash Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,850,SNCI,-32.542,Non-Cash Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,853,SCTP,119.965,Cash Taxes Paid,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,854,SCIP,1.743,Cash Interest Paid,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,856,OACR,22.124,Accounts Receivable,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,857,OITL,-280.22,Inventories,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,859,OOAS,-68.647,Other Assets,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,860,OAPB,65.938,Accounts Payable,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,864,OOLB,41.147,Other Liabilities,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,866,OOCF,-119.965,Other Operating Cash Flow,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,880,SOCF,-339.623,Changes in Working Capital,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,881,OTLO,174.178,Cash from Operating Activities,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,882,ICEX,-107.962,Purchase of Fixed Assets,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,885,SCEX,-107.962,Capital Expenditures,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,888,ISFA,0.815,Sale of Fixed Assets,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,889,IINS,469.025,Sale/Maturity of Investment,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,890,IIVN,-436.859,"Investment, Net",M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,899,IICF,7.813,Other Investing Cash Flow,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,900,SICF,40.794,"Other Investing Cash Flow Items, Total",M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,901,ITLI,-67.168,Cash from Investing Activities,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,905,FFCF,-1.743,Other Financing Cash Flow,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,906,SFCF,-1.743,Financing Cash Flow Items,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,907,FDPC,-131.836,Cash Dividends Paid - Common,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,909,FCDP,-131.836,Total Cash Dividends Paid,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,926,FLDR,-46.18,Long Term Debt Reduction,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,927,FLDN,-46.18,"Long Term Debt, Net",M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,930,FPRD,-46.18,"Issuance (Retirement) of Debt, Net",M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,931,FTLF,-179.759,Cash from Financing Activities,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,932,SFEE,7.459,Foreign Exchange Effects,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,933,SNCC,-65.29,Net Change in Cash,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,934,SNCB,596.897,Net Cash - Beginning Balance,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,935,SNCE,531.607,Net Cash - Ending Balance,M,1,1
+ADF Foods Ltd,2,"2024-09-30",2,1140,SCWC,-219.658,Net Changes in Working Capital,M,1,1
+ADF Foods Ltd,2,"2024-09-30",3,436,ACSH,87.206,Cash, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,437,ACAE,531.607,Cash & Equivalents, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,438,ASTI,1121.903,Short Term Investments, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,439,SCSI,1740.716,Cash and Short Term Investments, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,440,AARG,1065.37,"Accounts Receivable - Trade, Gross", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,442,AACR,1065.37,"Accounts Receivable - Trade, Net", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,443,ASTR,1.117,Notes Receivable - Short Term, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,445,ATRC,1066.487,"Total Receivables, Net", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,453,AITL,810.386,Total Inventory, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,460,AOCA,148.393,Other Current Assets, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,461,SOCA,148.393,"Other Current Assets, Total", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,462,ATCA,3765.982,Total Current Assets, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,489,APPN,1477.706,"Property/Plant/Equipment, Total - Net", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,492,AGWI,217.518,"Goodwill, Net", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,495,AINT,204.632,"Intangibles, Net", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,503,ALTI,33.46,LT Investments - Other, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,504,SINV,33.46,Long Term Investments, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,506,ALTR,69.508,Note Receivable - Long Term, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,509,ADTA,78.014,Defered Income Tax - Long Term Asset, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,512,AOAS,16.624,Other Long Term Assets, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,513,SOLA,94.638,"Other Long Term Assets, Total", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,523,ATOT,5863.444,Total Assets, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,524,LAPB,356.338,Accounts Payable, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,547,LSTD,0.0,Notes Payable/Short Term Debt, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,548,LCLD,29.397,Current Port. of  LT Debt/Capital Leases, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,552,LTXP,24.614,Income Taxes Payable, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,556,LOCL,182.796,Other Current Liabilities, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,557,SOCL,207.41,"Other Current liabilities, Total", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,558,LTCL,593.145,Total Current Liabilities, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,560,LCLO,504.957,Capital Lease Obligations, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,561,LTTD,504.957,Total Long Term Debt, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,562,STLD,534.354,Total Debt, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,563,LBDT,118.898,Deferred Income Tax - LT Liability, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,565,SBDT,118.898,Deferred Income Tax, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,566,LMIN,0.0,Minority Interest, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,567,LRSV,14.871,Reserves, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,572,SLTL,14.871,"Other Liabilities, Total", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,573,LTLL,1231.871,Total Liabilities, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,582,QCMS,223.51,Common Stock, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,584,SCMS,223.51,"Common Stock, Total", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,586,QRED,4408.063,Retained Earnings (Accumulated Deficit), ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,595,QTLE,4631.573,Total Equity, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,596,QTEL,5863.444,Total Liabilities & Shareholders' Equity, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,597,QCSO1,109.8636,Shares Outs - Common Stock Primary Issue, ,0,1
+ADF Foods Ltd,2,"2024-09-30",3,601,QTCO,109.8636,Total Common Shares Outstanding, ,0,1
+ADF Foods Ltd,2,"2024-09-30",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+ADF Foods Ltd,2,"2024-09-30",3,633,SCUI,2955.596,Total Current Assets less Inventory, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,634,SQCK,4.98292,Quick Ratio, ,0,1
+ADF Foods Ltd,2,"2024-09-30",3,635,SCUR,6.34918,Current Ratio, ,0,1
+ADF Foods Ltd,2,"2024-09-30",3,636,SNTD,-1206.362,Net Debt, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,637,STBV,4209.423,Tangible Book Value, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,638,STBP,38.31499,Tangible Book Value per Share, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,1056,QTLL,4631.573,Total Equity & Minority Interest, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,1057,VMNR,0.0,Minority Interest - Non Redeemable, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,1059,VGWI,217.518,Goodwill - Net, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,1060,VINT,204.632,Intangibles - Net, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,1061,VPPN,1477.706,Other Property/Plant/Equipment - Net, ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,1123,VLCC,29.397,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
+ADF Foods Ltd,2,"2024-09-30",3,1126,VUCN,654.952,"Right-of-Use Assets-Cap.Lease,Net-Suppl.", ,1,1
