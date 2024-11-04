@@ -1,183 +1,134 @@
-"Ticker","Name_","Type_","Period_","Measure_Code","Measure_Desc","UnitType","Curr","Value_"
-BATAINDIA,Bata India Ltd,Year,2025,BVPS,Book Value Per Share,Currency,INR,122.96667
-BATAINDIA,Bata India Ltd,Year,2025,OPREXP,Operating Expense,Currency,INR,24563.66667
-BATAINDIA,Bata India Ltd,Year,2025,INTEXP,Interest Expense,Currency,INR,1281.16667
-BATAINDIA,Bata India Ltd,Year,2025,EPSREP,As Reported EPS,Currency,INR,26.23333
-BATAINDIA,Bata India Ltd,Year,2025,NAV,Net Assets Value,Currency,INR,17890.44444
-BATAINDIA,Bata India Ltd,Year,2025,NDEBT,Net Debt,Currency,INR,2374.2935
-BATAINDIA,Bata India Ltd,Year,2025,NPROFIT,Net Income,Currency,INR,3411.64957
-BATAINDIA,Bata India Ltd,Year,2025,SEQUITY,Shareholders Equity,Currency,INR,18320.0
-BATAINDIA,Bata India Ltd,Year,2025,FS,Floor space,Square Feet,,3.6
-BATAINDIA,Bata India Ltd,Year,2025,TSTORES,No: of Stores (By Total),Stores,,1975.0
-BATAINDIA,Bata India Ltd,Year,2025,CFPS,Cash Flow Per Share,Currency,INR,47.4
-BATAINDIA,Bata India Ltd,Year,2025,ROA,Return on Assets,Percentage,,16.75
-BATAINDIA,Bata India Ltd,Year,2025,NAVPS,NAV per Share,Currency,INR,135.5
-BATAINDIA,Bata India Ltd,Year,2025,CAPEX,Capital Expenditures,Currency,INR,1903.1
-BATAINDIA,Bata India Ltd,Year,2025,TA,Total Assets,Currency,INR,35476.2
-BATAINDIA,Bata India Ltd,Year,2025,ROE,Return On Equity,Percentage,,20.12436
-BATAINDIA,Bata India Ltd,Year,2025,FCFPS,Free Cash Flow Per Share,Currency,INR,61.8
-BATAINDIA,Bata India Ltd,Year,2025,PPROFIT,Pretax Profit,Currency,INR,4757.85167
-BATAINDIA,Bata India Ltd,Year,2025,REV,Sales,Currency,INR,37204.81613
-BATAINDIA,Bata India Ltd,Year,2025,RENTEXP,Rent expense,Currency,INR,0.0
-BATAINDIA,Bata India Ltd,Year,2025,COGS,Cost of Goods sold,Currency,INR,15867.75
-BATAINDIA,Bata India Ltd,Year,2025,DEPREC,Depreciation,Currency,INR,3610.5
-BATAINDIA,Bata India Ltd,Year,2025,FCF,Free Cash Flow,Currency,INR,5435.33333
-BATAINDIA,Bata India Ltd,Year,2025,EBITDAREP,EBITDA Reported,Currency,INR,9095.5
-BATAINDIA,Bata India Ltd,Year,2025,CFFINANCE,Cash Flow from Financing,Currency,INR,-3535.71429
-BATAINDIA,Bata India Ltd,Year,2025,CFINVEST,Cash Flow from Investing,Currency,INR,-2194.28571
-BATAINDIA,Bata India Ltd,Year,2025,CFOPERAT,Cash Flow from Operations,Currency,INR,7145.5
-BATAINDIA,Bata India Ltd,Year,2025,DEPAMORT,Depreciation & Amortization,Currency,INR,3661.25
-BATAINDIA,Bata India Ltd,Year,2025,INVENTORY,Inventory,Currency,INR,10494.14286
-BATAINDIA,Bata India Ltd,Year,2025,NWC,Net Working Capital,Currency,INR,9177.25
-BATAINDIA,Bata India Ltd,Year,2025,NWC,Net Working Capital,Currency,INR,10903.5
-BATAINDIA,Bata India Ltd,Year,2025,INCTAX,Income Taxes Paid,Currency,INR,1191.16667
-BATAINDIA,Bata India Ltd,Year,2025,ROIC,Return on Invested Capital,Percentage,,24.42
-BATAINDIA,Bata India Ltd,Year,2025,GROSSINC,Gross Income,Currency,INR,21195.0
-BATAINDIA,Bata India Ltd,Year,2025,TCOMPRATIO,Total Compensation Expense,Currency,INR,4421.66667
-BATAINDIA,Bata India Ltd,Year,2025,NPROFITREP,Reported Net Profit,Currency,INR,3473.0
-BATAINDIA,Bata India Ltd,Year,2025,NOSHAREOUT,Number of Shares Outstanding,Shares,,78.3
-BATAINDIA,Bata India Ltd,Year,2025,TOTDEBT,Total Debt,Currency,INR,11986.0
-BATAINDIA,Bata India Ltd,Year,2025,SELLEXP,Selling & Marketing Expense,Currency,INR,1039.0
-BATAINDIA,Bata India Ltd,Year,2025,TOTDIV,Total Dividends,Currency,INR,1657.9
-BATAINDIA,Bata India Ltd,Year,2025,ROC,Return on Capital,Percentage,,19.06667
-BATAINDIA,Bata India Ltd,Year,2025,CURRLIAB,Current Liabilities,Currency,INR,8919.42857
-BATAINDIA,Bata India Ltd,Year,2025,CURRASSETS,Current Assets,Currency,INR,20330.42857
-BATAINDIA,Bata India Ltd,Year,2025,EPSCASH,Cash EPS,Currency,INR,55.88
-BATAINDIA,Bata India Ltd,Year,2025,GPM,Gross Margin (Gross Profit Margin),Percentage,,56.66667
-BATAINDIA,Bata India Ltd,Year,2025,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,6004.22222
-BATAINDIA,Bata India Ltd,Year,2025,TAXRATE,Tax Rate,Percentage,,24.53333
-BATAINDIA,Bata India Ltd,Year,2025,EBIT,Earnings Before Tax,Currency,INR,5057.97786
-BATAINDIA,Bata India Ltd,Year,2025,EPS,Earnings Per Share,Currency,INR,24.66571
-BATAINDIA,Bata India Ltd,Year,2025,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,8031.49913
-BATAINDIA,Bata India Ltd,Year,2025,PPROFITREP,Reported Pretax Profit,Currency,INR,4757.66667
-BATAINDIA,Bata India Ltd,Year,2025,TAXPROV,Tax Provision,Currency,INR,1180.2
-BATAINDIA,Bata India Ltd,Year,2025,DPS,Dividend Per Share,Currency,INR,13.11992
-BATAINDIA,Bata India Ltd,Year,2025,TOTALLIAB,Total Liabilities ,Currency,INR,30648.83333
-BATAINDIA,Bata India Ltd,Year,2026,TOTALLIAB,Total Liabilities ,Currency,INR,33793.83333
-BATAINDIA,Bata India Ltd,Year,2026,DPS,Dividend Per Share,Currency,INR,14.91483
-BATAINDIA,Bata India Ltd,Year,2026,TAXRATE,Tax Rate,Percentage,,25.2
-BATAINDIA,Bata India Ltd,Year,2026,EPS,Earnings Per Share,Currency,INR,32.03
-BATAINDIA,Bata India Ltd,Year,2026,EBIT,Earnings Before Tax,Currency,INR,6319.53529
-BATAINDIA,Bata India Ltd,Year,2026,TAXPROV,Tax Provision,Currency,INR,1431.5
-BATAINDIA,Bata India Ltd,Year,2026,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,9576.20622
-BATAINDIA,Bata India Ltd,Year,2026,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,7308.55556
-BATAINDIA,Bata India Ltd,Year,2026,GPM,Gross Margin (Gross Profit Margin),Percentage,,56.73333
-BATAINDIA,Bata India Ltd,Year,2026,PPROFITREP,Reported Pretax Profit,Currency,INR,5521.77778
-BATAINDIA,Bata India Ltd,Year,2026,EPSCASH,Cash EPS,Currency,INR,62.9
-BATAINDIA,Bata India Ltd,Year,2026,CURRASSETS,Current Assets,Currency,INR,22802.42857
-BATAINDIA,Bata India Ltd,Year,2026,CURRLIAB,Current Liabilities,Currency,INR,9614.0
-BATAINDIA,Bata India Ltd,Year,2026,ROC,Return on Capital,Percentage,,21.53333
-BATAINDIA,Bata India Ltd,Year,2026,TOTDIV,Total Dividends,Currency,INR,1935.4
-BATAINDIA,Bata India Ltd,Year,2026,SELLEXP,Selling & Marketing Expense,Currency,INR,1155.0
-BATAINDIA,Bata India Ltd,Year,2026,TOTDEBT,Total Debt,Currency,INR,11518.0
-BATAINDIA,Bata India Ltd,Year,2026,TCOMPRATIO,Total Compensation Expense,Currency,INR,4727.33333
-BATAINDIA,Bata India Ltd,Year,2026,GROSSINC,Gross Income,Currency,INR,23596.0
-BATAINDIA,Bata India Ltd,Year,2026,NPROFITREP,Reported Net Profit,Currency,INR,4183.125
-BATAINDIA,Bata India Ltd,Year,2026,NOSHAREOUT,Number of Shares Outstanding,Shares,,97.63333
-BATAINDIA,Bata India Ltd,Year,2026,ROIC,Return on Invested Capital,Percentage,,29.1
-BATAINDIA,Bata India Ltd,Year,2026,INCTAX,Income Taxes Paid,Currency,INR,1392.16667
-BATAINDIA,Bata India Ltd,Year,2026,NWC,Net Working Capital,Currency,INR,11874.75
-BATAINDIA,Bata India Ltd,Year,2026,NWC,Net Working Capital,Currency,INR,12189.5
-BATAINDIA,Bata India Ltd,Year,2026,INVENTORY,Inventory,Currency,INR,11253.28571
-BATAINDIA,Bata India Ltd,Year,2026,DEPAMORT,Depreciation & Amortization,Currency,INR,3858.25
-BATAINDIA,Bata India Ltd,Year,2026,CFOPERAT,Cash Flow from Operations,Currency,INR,7681.9
-BATAINDIA,Bata India Ltd,Year,2026,CFINVEST,Cash Flow from Investing,Currency,INR,-2323.14286
-BATAINDIA,Bata India Ltd,Year,2026,CFFINANCE,Cash Flow from Financing,Currency,INR,-4231.125
-BATAINDIA,Bata India Ltd,Year,2026,OPREXP,Operating Expense,Currency,INR,27173.6
-BATAINDIA,Bata India Ltd,Year,2026,CAPEX,Capital Expenditures,Currency,INR,2048.9
-BATAINDIA,Bata India Ltd,Year,2026,EBITDAREP,EBITDA Reported,Currency,INR,10544.0
-BATAINDIA,Bata India Ltd,Year,2026,FCF,Free Cash Flow,Currency,INR,5611.16667
-BATAINDIA,Bata India Ltd,Year,2026,DEPREC,Depreciation,Currency,INR,3785.75
-BATAINDIA,Bata India Ltd,Year,2026,COGS,Cost of Goods sold,Currency,INR,17691.25
-BATAINDIA,Bata India Ltd,Year,2026,REV,Sales,Currency,INR,41526.33956
-BATAINDIA,Bata India Ltd,Year,2026,PPROFIT,Pretax Profit,Currency,INR,5588.13071
-BATAINDIA,Bata India Ltd,Year,2026,FCFPS,Free Cash Flow Per Share,Currency,INR,60.2
-BATAINDIA,Bata India Ltd,Year,2026,ROE,Return On Equity,Percentage,,21.96118
-BATAINDIA,Bata India Ltd,Year,2026,TA,Total Assets,Currency,INR,38741.1
-BATAINDIA,Bata India Ltd,Year,2026,NAVPS,NAV per Share,Currency,INR,149.7
-BATAINDIA,Bata India Ltd,Year,2026,ROA,Return on Assets,Percentage,,18.95
-BATAINDIA,Bata India Ltd,Year,2026,CFPS,Cash Flow Per Share,Currency,INR,53.6
-BATAINDIA,Bata India Ltd,Year,2026,TSTORES,No: of Stores (By Total),Stores,,2075.0
-BATAINDIA,Bata India Ltd,Year,2026,RENTEXP,Rent expense,Currency,INR,0.0
-BATAINDIA,Bata India Ltd,Year,2026,FS,Floor space,Square Feet,,3.8
-BATAINDIA,Bata India Ltd,Year,2026,SEQUITY,Shareholders Equity,Currency,INR,20861.66667
-BATAINDIA,Bata India Ltd,Year,2026,NPROFIT,Net Income,Currency,INR,4107.40956
-BATAINDIA,Bata India Ltd,Year,2026,NDEBT,Net Debt,Currency,INR,1462.167
-BATAINDIA,Bata India Ltd,Year,2026,NAV,Net Assets Value,Currency,INR,20068.66667
-BATAINDIA,Bata India Ltd,Year,2026,INTEXP,Interest Expense,Currency,INR,1342.57143
-BATAINDIA,Bata India Ltd,Year,2026,EPSREP,As Reported EPS,Currency,INR,33.45714
-BATAINDIA,Bata India Ltd,Year,2026,BVPS,Book Value Per Share,Currency,INR,140.31667
-BATAINDIA,Bata India Ltd,Year,2027,OPREXP,Operating Expense,Currency,INR,14737.0
-BATAINDIA,Bata India Ltd,Year,2027,BVPS,Book Value Per Share,Currency,INR,182.5
-BATAINDIA,Bata India Ltd,Year,2027,EPSREP,As Reported EPS,Currency,INR,39.575
-BATAINDIA,Bata India Ltd,Year,2027,INTEXP,Interest Expense,Currency,INR,1300.33333
-BATAINDIA,Bata India Ltd,Year,2027,NAV,Net Assets Value,Currency,INR,21493.8
-BATAINDIA,Bata India Ltd,Year,2027,SEQUITY,Shareholders Equity,Currency,INR,22581.0
-BATAINDIA,Bata India Ltd,Year,2027,NDEBT,Net Debt,Currency,INR,-35.803
-BATAINDIA,Bata India Ltd,Year,2027,NPROFIT,Net Income,Currency,INR,5139.21371
-BATAINDIA,Bata India Ltd,Year,2027,RENTEXP,Rent expense,Currency,INR,0.0
-BATAINDIA,Bata India Ltd,Year,2027,ROA,Return on Assets,Percentage,,21.3
-BATAINDIA,Bata India Ltd,Year,2027,NAVPS,NAV per Share,Currency,INR,168.7
-BATAINDIA,Bata India Ltd,Year,2027,PPROFIT,Pretax Profit,Currency,INR,6883.45529
-BATAINDIA,Bata India Ltd,Year,2027,ROE,Return On Equity,Percentage,,25.105
-BATAINDIA,Bata India Ltd,Year,2027,REV,Sales,Currency,INR,45665.69143
-BATAINDIA,Bata India Ltd,Year,2027,FCF,Free Cash Flow,Currency,INR,6780.33333
-BATAINDIA,Bata India Ltd,Year,2027,GROSSINC,Gross Income,Currency,INR,26549.0
-BATAINDIA,Bata India Ltd,Year,2027,NOSHAREOUT,Number of Shares Outstanding,Shares,,128.83333
-BATAINDIA,Bata India Ltd,Year,2027,TCOMPRATIO,Total Compensation Expense,Currency,INR,5465.0
-BATAINDIA,Bata India Ltd,Year,2027,COGS,Cost of Goods sold,Currency,INR,19776.25
-BATAINDIA,Bata India Ltd,Year,2027,TA,Total Assets,Currency,INR,35473.66667
-BATAINDIA,Bata India Ltd,Year,2027,DEPREC,Depreciation,Currency,INR,3948.0
-BATAINDIA,Bata India Ltd,Year,2027,INVENTORY,Inventory,Currency,INR,12324.0
-BATAINDIA,Bata India Ltd,Year,2027,INCTAX,Income Taxes Paid,Currency,INR,1867.66667
-BATAINDIA,Bata India Ltd,Year,2027,ROIC,Return on Invested Capital,Percentage,,26.9
-BATAINDIA,Bata India Ltd,Year,2027,CAPEX,Capital Expenditures,Currency,INR,658.33333
-BATAINDIA,Bata India Ltd,Year,2027,NPROFITREP,Reported Net Profit,Currency,INR,5016.0
-BATAINDIA,Bata India Ltd,Year,2027,CFFINANCE,Cash Flow from Financing,Currency,INR,-6370.0
-BATAINDIA,Bata India Ltd,Year,2027,CFINVEST,Cash Flow from Investing,Currency,INR,169.66667
-BATAINDIA,Bata India Ltd,Year,2027,CFOPERAT,Cash Flow from Operations,Currency,INR,8340.33333
-BATAINDIA,Bata India Ltd,Year,2027,DEPAMORT,Depreciation & Amortization,Currency,INR,3671.0
-BATAINDIA,Bata India Ltd,Year,2027,EBITDAREP,EBITDA Reported,Currency,INR,11899.5
-BATAINDIA,Bata India Ltd,Year,2027,ROC,Return on Capital,Percentage,,25.5
-BATAINDIA,Bata India Ltd,Year,2027,NWC,Net Working Capital,Currency,INR,7472.0
-BATAINDIA,Bata India Ltd,Year,2027,EPSCASH,Cash EPS,Currency,INR,76.5
-BATAINDIA,Bata India Ltd,Year,2027,TOTDEBT,Total Debt,Currency,INR,11065.0
-BATAINDIA,Bata India Ltd,Year,2027,TAXRATE,Tax Rate,Percentage,,25.1
-BATAINDIA,Bata India Ltd,Year,2027,TOTDIV,Total Dividends,Currency,INR,3013.33333
-BATAINDIA,Bata India Ltd,Year,2027,SELLEXP,Selling & Marketing Expense,Currency,INR,1268.0
-BATAINDIA,Bata India Ltd,Year,2027,CURRASSETS,Current Assets,Currency,INR,23574.33333
-BATAINDIA,Bata India Ltd,Year,2027,CURRLIAB,Current Liabilities,Currency,INR,14047.33333
-BATAINDIA,Bata India Ltd,Year,2027,GPM,Gross Margin (Gross Profit Margin),Percentage,,56.43333
-BATAINDIA,Bata India Ltd,Year,2027,PPROFITREP,Reported Pretax Profit,Currency,INR,6721.66667
-BATAINDIA,Bata India Ltd,Year,2027,TAXPROV,Tax Provision,Currency,INR,1729.0
-BATAINDIA,Bata India Ltd,Year,2027,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,10678.66667
-BATAINDIA,Bata India Ltd,Year,2027,TOTALLIAB,Total Liabilities ,Currency,INR,26283.5
-BATAINDIA,Bata India Ltd,Year,2027,DPS,Dividend Per Share,Currency,INR,19.59471
-BATAINDIA,Bata India Ltd,Year,2027,EBIT,Earnings Before Tax,Currency,INR,7202.13286
-BATAINDIA,Bata India Ltd,Year,2027,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,11432.78286
-BATAINDIA,Bata India Ltd,Year,2027,EPS,Earnings Per Share,Currency,INR,39.98871
-BATAINDIA,Bata India Ltd,Year,2028,EBIT,Earnings Before Tax,Currency,INR,7985.0
-BATAINDIA,Bata India Ltd,Year,2028,EBITDA,Earnings Before Interest Taxes and Depreciation,Currency,INR,11858.0
-BATAINDIA,Bata India Ltd,Year,2028,GPM,Gross Margin (Gross Profit Margin),Percentage,,57.5
-BATAINDIA,Bata India Ltd,Year,2028,PPROFITREP,Reported Pretax Profit,Currency,INR,7337.0
-BATAINDIA,Bata India Ltd,Year,2028,ROC,Return on Capital,Percentage,,29.0
-BATAINDIA,Bata India Ltd,Year,2028,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,15567.0
-BATAINDIA,Bata India Ltd,Year,2028,CAPEX,Capital Expenditures,Currency,INR,800.0
-BATAINDIA,Bata India Ltd,Year,2028,NOSHAREOUT,Number of Shares Outstanding,Shares,,129.0
-BATAINDIA,Bata India Ltd,Year,2028,NPROFITREP,Reported Net Profit,Currency,INR,5488.0
-BATAINDIA,Bata India Ltd,Year,2028,CFFINANCE,Cash Flow from Financing,Currency,INR,-5957.0
-BATAINDIA,Bata India Ltd,Year,2028,CFINVEST,Cash Flow from Investing,Currency,INR,-35.0
-BATAINDIA,Bata India Ltd,Year,2028,CFOPERAT,Cash Flow from Operations,Currency,INR,9315.0
-BATAINDIA,Bata India Ltd,Year,2028,DEPREC,Depreciation,Currency,INR,3873.0
-BATAINDIA,Bata India Ltd,Year,2028,FCF,Free Cash Flow,Currency,INR,8515.0
-BATAINDIA,Bata India Ltd,Year,2028,GROSSINC,Gross Income,Currency,INR,27354.0
-BATAINDIA,Bata India Ltd,Year,2028,PPROFIT,Pretax Profit,Currency,INR,7337.0
-BATAINDIA,Bata India Ltd,Year,2028,ROE,Return On Equity,Percentage,,24.0
-BATAINDIA,Bata India Ltd,Year,2028,REV,Sales,Currency,INR,47599.0
-BATAINDIA,Bata India Ltd,Year,2028,TA,Total Assets,Currency,INR,34951.0
-BATAINDIA,Bata India Ltd,Year,2028,EPSREP,As Reported EPS,Currency,INR,42.0
-BATAINDIA,Bata India Ltd,Year,2028,INTEXP,Interest Expense,Currency,INR,1413.0
-BATAINDIA,Bata India Ltd,Year,2028,NAV,Net Assets Value,Currency,INR,24262.0
-BATAINDIA,Bata India Ltd,Year,2028,NDEBT,Net Debt,Currency,INR,-15567.0
-BATAINDIA,Bata India Ltd,Year,2028,NPROFIT,Net Income,Currency,INR,5488.0
-BATAINDIA,Bata India Ltd,Year,2028,SEQUITY,Shareholders Equity,Currency,INR,24262.0
+"Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+26006,2,"2024-09-30",1,18,RFLI,627073.5,Interest & Fees on Loans,M,1,1
+26006,2,"2024-09-30",1,19,RISI,178266.8,Interest & Dividends on Investment Secs.,M,1,1
+26006,2,"2024-09-30",1,21,RDPT,8491.0,Interest on Deposits,M,1,1
+26006,2,"2024-09-30",1,22,ROII,16185.9,Other Interest Income,M,1,1
+26006,2,"2024-09-30",1,25,SIIB,830017.2,"Interest Income, Bank",M,1,1
+26006,2,"2024-09-30",1,40,EIOD,454142.1,Interest on Deposit,M,1,1
+26006,2,"2024-09-30",1,43,STIE,454142.1,Total Interest Expense,M,1,1
+26006,2,"2024-09-30",1,44,ENII,375875.1,Net Interest Income,M,1,1
+26006,2,"2024-09-30",1,45,ELLP,32698.7,Loan Loss Provision,M,1,1
+26006,2,"2024-09-30",1,46,SIAP,343176.4,Net Interest Inc. After Loan Loss Prov.,M,1,1
+26006,2,"2024-09-30",1,106,NORU,384550.2,Other Revenue,M,1,1
+26006,2,"2024-09-30",1,107,SNII,384550.2,"Non-Interest Income, Bank",M,1,1
+26006,2,"2024-09-30",1,108,NLAR,-85193.4,Labor & Related Expenses,M,1,1
+26006,2,"2024-09-30",1,121,NOEX,-402849.0,Other Expense,M,1,1
+26006,2,"2024-09-30",1,122,SNIE,-488042.4,"Non-Interest Expense, Bank",M,1,1
+26006,2,"2024-09-30",1,128,EIBT,239684.2,Net Income Before Taxes,M,1,1
+26006,2,"2024-09-30",1,129,TTAX,53409.8,Provision for Income Taxes,M,1,1
+26006,2,"2024-09-30",1,130,TIAT,186274.4,Net Income After Taxes,M,1,1
+26006,2,"2024-09-30",1,131,CMIN,-8015.3,Minority Interest,M,1,1
+26006,2,"2024-09-30",1,134,NIBX,178259.1,Net Income Before Extra. Items,M,1,1
+26006,2,"2024-09-30",1,140,NINC,178259.1,Net Income,M,1,1
+26006,2,"2024-09-30",1,147,CIAC,178259.1,Income Available to Com Excl ExtraOrd,M,1,1
+26006,2,"2024-09-30",1,148,XNIC,178259.1,Income Available to Com Incl ExtraOrd,M,1,1
+26006,2,"2024-09-30",1,149,SBAS,7617.91026,Basic Weighted Average Shares,M,0,1
+26006,2,"2024-09-30",1,150,SBBF,23.4,Basic EPS Excluding Extraordinary Items,M,1,1
+26006,2,"2024-09-30",1,151,SBAI,23.4,Basic EPS Including Extraordinary Items,M,1,1
+26006,2,"2024-09-30",1,153,SDNI,178259.1,Diluted Net Income,M,1,1
+26006,2,"2024-09-30",1,154,SDWS,7653.89008,Diluted Weighted Average Shares,M,0,1
+26006,2,"2024-09-30",1,155,SDBF,23.29,Diluted EPS Excluding ExtraOrd Items,M,1,1
+26006,2,"2024-09-30",1,156,SDAI,23.29,Diluted EPS Including ExtraOrd Items,M,1,1
+26006,2,"2024-09-30",1,157,DDPS1,0.0,DPS - Common Stock Primary Issue,M,1,1
+26006,2,"2024-09-30",1,161,DSPS1,0.0,Special DPS - Common Stock Primary Issue,M,1,1
+26006,2,"2024-09-30",1,176,VPTI,239684.2,Normalized Income Before Taxes,M,1,1
+26006,2,"2024-09-30",1,178,VITN,53409.8,Inc Tax Ex Impact of Sp Items,M,1,1
+26006,2,"2024-09-30",1,179,VIAT,186274.4,Normalized Income After Taxes,M,1,1
+26006,2,"2024-09-30",1,180,VIAC,178259.1,Normalized Inc. Avail to Com.,M,1,1
+26006,2,"2024-09-30",1,181,VBES,23.4,Basic Normalized EPS,M,1,1
+26006,2,"2024-09-30",1,182,VDES,23.29,Diluted Normalized EPS,M,1,1
+26006,2,"2024-09-30",1,189,VMIN,-8015.3,"Minority Interest, Supplemental",M,1,1
+26006,2,"2024-09-30",1,211,SPTM,28.87702,Pretax Margin,M,0,1
+26006,2,"2024-09-30",1,212,SETR,22.2834,Effective Tax Rate,M,0,1
+26006,2,"2024-09-30",1,213,SNPM,21.47655,Net Profit Margin,M,0,1
+26006,2,"2024-09-30",1,216,SBTR,760425.3,Bank Total Revenue,M,1,1
+26006,2,"2024-09-30",1,311,MNIO,3.46,"Net Interest Margin, Total -%",M,0,1
+26006,2,"2024-09-30",2,834,ONET,451810.6,Net Income/Starting Line,M,1,1
+26006,2,"2024-09-30",2,835,SDEP,18880.4,Depreciation,M,1,1
+26006,2,"2024-09-30",2,837,SDED,18880.4,Depreciation/Depletion,M,1,1
+26006,2,"2024-09-30",2,846,OUIE,-105.2,Unusual Items,M,1,1
+26006,2,"2024-09-30",2,849,ONCI,-3526.7,Other Non-Cash Items,M,1,1
+26006,2,"2024-09-30",2,850,SNCI,-3631.9,Non-Cash Items,M,1,1
+26006,2,"2024-09-30",2,853,SCTP,123031.6,Cash Taxes Paid,M,1,1
+26006,2,"2024-09-30",2,855,OLLP,76489.5,Loan Loss Provision,M,1,1
+26006,2,"2024-09-30",2,859,OOAS,-71993.9,Other Assets,M,1,1
+26006,2,"2024-09-30",2,864,OOLB,1555277.4,Other Liabilities,M,1,1
+26006,2,"2024-09-30",2,866,OOCF,-123031.6,Other Operating Cash Flow,M,1,1
+26006,2,"2024-09-30",2,867,OINV,-486726.1,"Investment Securities, Gains/Losses",M,1,1
+26006,2,"2024-09-30",2,868,OLOA,-279077.2,"Loans, Gains/Losses",M,1,1
+26006,2,"2024-09-30",2,880,SOCF,670938.1,Changes in Working Capital,M,1,1
+26006,2,"2024-09-30",2,881,OTLO,1137997.2,Cash from Operating Activities,M,1,1
+26006,2,"2024-09-30",2,882,ICEX,-17920.3,Purchase of Fixed Assets,M,1,1
+26006,2,"2024-09-30",2,885,SCEX,-17920.3,Capital Expenditures,M,1,1
+26006,2,"2024-09-30",2,888,ISFA,422.6,Sale of Fixed Assets,M,1,1
+26006,2,"2024-09-30",2,891,IINP,-674.7,Purchase of Investments,M,1,1
+26006,2,"2024-09-30",2,900,SICF,-252.1,"Other Investing Cash Flow Items, Total",M,1,1
+26006,2,"2024-09-30",2,901,ITLI,-18172.4,Cash from Investing Activities,M,1,1
+26006,2,"2024-09-30",2,905,FFCF,10543.2,Other Financing Cash Flow,M,1,1
+26006,2,"2024-09-30",2,906,SFCF,10543.2,Financing Cash Flow Items,M,1,1
+26006,2,"2024-09-30",2,907,FDPC,-148261.9,Cash Dividends Paid - Common,M,1,1
+26006,2,"2024-09-30",2,909,FCDP,-148261.9,Total Cash Dividends Paid,M,1,1
+26006,2,"2024-09-30",2,910,FSIC,39184.0,Sale/Issuance of Common,M,1,1
+26006,2,"2024-09-30",2,912,FCSN,39184.0,"Common Stock, Net",M,1,1
+26006,2,"2024-09-30",2,919,FWCV,0.0,Warrants Converted,M,1,1
+26006,2,"2024-09-30",2,921,FPSS,39184.0,"Issuance (Retirement) of Stock, Net",M,1,1
+26006,2,"2024-09-30",2,925,FLDI,5000.0,Long Term Debt Issued,M,1,1
+26006,2,"2024-09-30",2,926,FLDR,-2000.0,Long Term Debt Reduction,M,1,1
+26006,2,"2024-09-30",2,927,FLDN,3000.0,"Long Term Debt, Net",M,1,1
+26006,2,"2024-09-30",2,929,FTDR,-649199.6,Total Debt Reduction,M,1,1
+26006,2,"2024-09-30",2,930,FPRD,-646199.6,"Issuance (Retirement) of Debt, Net",M,1,1
+26006,2,"2024-09-30",2,931,FTLF,-744734.3,Cash from Financing Activities,M,1,1
+26006,2,"2024-09-30",2,932,SFEE,418.3,Foreign Exchange Effects,M,1,1
+26006,2,"2024-09-30",2,933,SNCC,375508.8,Net Change in Cash,M,1,1
+26006,2,"2024-09-30",2,934,SNCB,2288345.1,Net Cash - Beginning Balance,M,1,1
+26006,2,"2024-09-30",2,935,SNCE,2663853.9,Net Cash - Ending Balance,M,1,1
+26006,2,"2024-09-30",2,1140,SCWC,793969.7,Net Changes in Working Capital,M,1,1
+26006,2,"2024-09-30",2,1174,VSPY,10521.3,"Share Based Payments,  Supplemental",M,1,1
+26006,2,"2024-09-30",3,463,ACDB,2663853.9,Cash & Due from Banks, ,1,1
+26006,2,"2024-09-30",3,471,ASEC,10615849.6,Total Investment Securities, ,1,1
+26006,2,"2024-09-30",3,475,SOEA,10615849.6,"Other Earning Assets, Total", ,1,1
+26006,2,"2024-09-30",3,479,ANTL,25857100.3,Net Loans, ,1,1
+26006,2,"2024-09-30",3,489,APPN,141706.3,"Property/Plant/Equipment, Total - Net", ,1,1
+26006,2,"2024-09-30",3,521,AOAT,2239369.2,Other Assets, ,1,1
+26006,2,"2024-09-30",3,522,SOAT,2239369.2,"Other Assets, Total", ,1,1
+26006,2,"2024-09-30",3,523,ATOT,41517879.3,Total Assets, ,1,1
+26006,2,"2024-09-30",3,538,LDBT,24963249.2,Total Deposits, ,1,1
+26006,2,"2024-09-30",3,559,LLTD,6660388.8,Long Term Debt, ,1,1
+26006,2,"2024-09-30",3,561,LTTD,6660388.8,Total Long Term Debt, ,1,1
+26006,2,"2024-09-30",3,562,STLD,6660388.8,Total Debt, ,1,1
+26006,2,"2024-09-30",3,566,LMIN,154495.9,Minority Interest, ,1,1
+26006,2,"2024-09-30",3,571,LOLB,4921893.8,Other Liabilities, ,1,1
+26006,2,"2024-09-30",3,572,SLTL,4921893.8,"Other Liabilities, Total", ,1,1
+26006,2,"2024-09-30",3,573,LTLL,36700027.7,Total Liabilities, ,1,1
+26006,2,"2024-09-30",3,582,QCMS,7630.8,Common Stock, ,1,1
+26006,2,"2024-09-30",3,584,SCMS,7630.8,"Common Stock, Total", ,1,1
+26006,2,"2024-09-30",3,586,QRED,4777940.4,Retained Earnings (Accumulated Deficit), ,1,1
+26006,2,"2024-09-30",3,588,QEDG,32280.4,ESOP Debt Guarantee, ,1,1
+26006,2,"2024-09-30",3,595,QTLE,4817851.6,Total Equity, ,1,1
+26006,2,"2024-09-30",3,596,QTEL,41517879.3,Total Liabilities & Shareholders' Equity, ,1,1
+26006,2,"2024-09-30",3,597,QCSO1,7630.77831,Shares Outs - Common Stock Primary Issue, ,0,1
+26006,2,"2024-09-30",3,601,QTCO,7630.77831,Total Common Shares Outstanding, ,0,1
+26006,2,"2024-09-30",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+26006,2,"2024-09-30",3,619,METL,206758.0,Employees, ,0,1
+26006,2,"2024-09-30",3,626,VRWC,26276401.8,Total Risk-Weighted Capital, ,1,1
+26006,2,"2024-09-30",3,627,VRTO,17.61,Capital Adequacy-Tier 1 Capital %, ,0,1
+26006,2,"2024-09-30",3,628,VRTC,19.5,Total Capital %, ,0,1
+26006,2,"2024-09-30",3,630,VRUF,30507732.7,Credit Exposure, ,1,1
+26006,2,"2024-09-30",3,631,VRUQ,362071.5,Non-Performing Loans, ,1,1
+26006,2,"2024-09-30",3,637,STBV,4817851.6,Tangible Book Value, ,1,1
+26006,2,"2024-09-30",3,638,STBP,631.37093,Tangible Book Value per Share, ,1,1
+26006,2,"2024-09-30",3,1056,QTLL,4972347.5,Total Equity & Minority Interest, ,1,1
+26006,2,"2024-09-30",3,1057,VMNR,154495.9,Minority Interest - Non Redeemable, ,1,1
+26006,2,"2024-09-30",3,1061,VPPN,141706.3,Other Property/Plant/Equipment - Net, ,1,1
+26006,2,"2024-09-30",3,1088,VRT2,1.89,Capital Adequacy - Tier 2 Capital %, ,1,1
+26006,2,"2024-09-30",3,1089,VRV1,4627065.6,Capital Adequacy -Tier 1 Capital (Value), ,1,1
+26006,2,"2024-09-30",3,1090,VRV2,496254.7,Capital Adequacy -Tier 2 Capital (Value), ,1,1
+26006,2,"2024-09-30",3,1091,VRVT,5123320.3,Capital Adequacy - Total Capital (Value), ,1,1
+26006,2,"2024-09-30",3,1094,VRVC,4506178.1,Capital Adequacy - Core Tier 1 (Value), ,1,1
+26006,2,"2024-09-30",3,1096,VRLR,11.02,Leverage Ratio (Basel 3), ,1,1
+26006,2,"2024-09-30",3,1098,VRC1,17.15,Capital Adequacy - Core Tier 1 Capital %, ,1,1
+26006,2,"2024-09-30",3,1100,VRLC,127.67,Liquidity Coverage Ratio (Basel 3), ,1,1
+26006,2,"2024-09-30",3,1104,VRVH,120887.5,Capital Adequacy - Hybrid Tier 1 (Value), ,1,1
+26006,2,"2024-09-30",3,1106,VRSF,119.25,Net Stable Funding Ratio (Basel 3), ,1,1
+26006,2,"2024-09-30",3,1178,VGNR,362071.5,Loans - Gross Non-Performing-As Reported, ,1,1
+26006,2,"2024-09-30",3,1179,VGRT,362071.5,Non-Perform Asst-Oth than Loans- As Rep , ,1,1
