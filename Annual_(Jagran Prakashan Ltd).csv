@@ -1,0 +1,414 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,1,RNTS,19339.145,Net Sales,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,10,SREV,19339.145,Revenue,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,31,RTLR,19339.145,Total Revenue,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,34,ECOR,7987.549,Cost of Revenue,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,36,SCOR,7987.549,"Cost of Revenue, Total",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,37,SGRP,11351.596,Gross Profit,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,52,ESGA,2385.429,Selling/General/Administrative Expense,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,53,ELAR,4108.015,Labor & Related Expense,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,54,EADV,743.847,Advertising Expense,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,55,SSGA,7237.291,"Selling/General/Admin. Expenses, Total",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,57,EDEP,714.742,Depreciation,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,58,EAMI,394.512,Amortization of Intangibles,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,60,SDPR,1109.254,Depreciation/Amortization,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,65,EINV,4.337,Investment Income - Operating,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,66,SIIO,4.337,Interest/Investment Income - Operating,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,71,EIAU,967.007,Impairment-Assets Held for Use,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,73,EUIE,0.0,Other Unusual Expense (Income),M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,74,SUIE,967.007,Unusual Expense (Income),M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,80,EOOE,447.451,Other Operating Expense,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,81,EONT,-13.529,"Other, Net",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,82,SOOE,433.922,"Other Operating Expenses, Total",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,83,ETOE,17739.36,Total Operating Expense,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,84,SOPI,1599.785,Operating Income,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,85,NIEN,-243.358,Interest Expense - Non-Operating,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,87,SIEN,-243.358,"Interest Expense, Net Non-Operating",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,88,NIIN,447.785,Interest Income - Non-Operating,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,89,NINV,288.219,Investment Income - Non-Operating,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,90,SIIN,736.004,Interest/Invest Income -  Non-Operating,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,92,NGLA,87.758,Gain (Loss) on Sale of Assets,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,126,NONT,48.629,Other Non-Operating Income (Expense),M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,127,SONT,48.629,"Other, Net",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,128,EIBT,2228.818,Net Income Before Taxes,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,129,TTAX,579.658,Provision for Income Taxes,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,130,TIAT,1649.16,Net Income After Taxes,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,131,CMIN,188.211,Minority Interest,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,134,NIBX,1837.371,Net Income Before Extra. Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,140,NINC,1837.371,Net Income,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,147,CIAC,1837.371,Income Available to Com Excl ExtraOrd,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,148,XNIC,1837.371,Income Available to Com Incl ExtraOrd,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,149,SBAS,217.65427,Basic Weighted Average Shares,M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,150,SBBF,8.4417,Basic EPS Excluding Extraordinary Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,151,SBAI,8.4417,Basic EPS Including Extraordinary Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,153,SDNI,1837.371,Diluted Net Income,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,154,SDWS,217.65427,Diluted Weighted Average Shares,M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,155,SDBF,8.4417,Diluted EPS Excluding ExtraOrd Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,156,SDAI,8.4417,Diluted EPS Including ExtraOrd Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,157,DDPS1,5.0,DPS - Common Stock Primary Issue,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,171,VIEX,243.358,"Interest Expense, Supplemental",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,173,VDEP,714.742,"Depreciation, Supplemental",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,175,STSI,879.249,Total Special Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,176,VPTI,3108.067,Normalized Income Before Taxes,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,177,STEC,228.66996,Effect of Special Items on Income Taxes,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,178,VITN,808.32796,Inc Tax Ex Impact of Sp Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,179,VIAT,2299.73904,Normalized Income After Taxes,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,180,VIAC,2487.95004,Normalized Inc. Avail to Com.,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,181,VBES,11.43074,Basic Normalized EPS,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,182,VDES,11.43074,Diluted Normalized EPS,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,184,VAMI,394.512,"Amort of Intangibles, Supplemental",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,187,VADV,743.847,"Advertising Expense, Supplemental",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,188,VEIA,4.604,"Equity in Affiliates, Supplemental",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,189,VMIN,188.211,"Minority Interest, Supplemental",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,191,VTAU,20.039,Audit Fees,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,192,VTAR,0.75,Audit-Related Fees,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,209,SGPP,58.69751,Gross Margin,M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,210,SOPP,8.27226,Operating Margin,M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,211,SPTM,11.5249,Pretax Margin,M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,212,SETR,26.00742,Effective Tax Rate,M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,213,SNPM,9.50079,Net Profit Margin,M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,214,SBIT,2571.129,Normalized EBIT,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,215,SBDA,3680.383,Normalized EBITDA,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,221,VCTR,697.311,Current Tax - Total,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,222,VCTC,697.311,Current Tax - Total,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,227,VDTR,-117.653,Deferred Tax - Total,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,228,VDTC,-117.653,Deferred Tax - Total,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,233,VITT,579.658,Income Tax - Total,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,240,VSCD,79.21,Service Cost - Domestic,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,247,VDPP,87.041,Domestic Pension Plan Expense,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,266,VDCD,274.812,Defined Contribution Expense - Domestic,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,269,VTPE,361.853,Total Pension Expense,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,283,STPS,79.21,Total Plan Service Cost,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,354,MIKE,97600000,Number of Page Views (User Traffic),M,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,998,SINN,4.337,"Interest Exp.(Inc.),Net-Operating, Total",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,999,SNIN,492.646,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,1068,VLAR,4108.015,Labor & Related Expense Suppl.,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,1078,VDNI,7.831,Net Interest Cost - Domestic,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,1130,VDRU,219.572,"Depreciation of Right-of-Use Assets,Sup.",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",1,1132,VIEL,49.019,"Interest Expense on Lease Liabs., Suppl.",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,834,ONET,2228.818,Net Income/Starting Line,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,835,SDEP,1113.591,Depreciation,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,837,SDED,1113.591,Depreciation/Depletion,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,846,OUIE,589.067,Unusual Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,848,OEIA,-4.604,Equity in Net Earnings (Loss),M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,849,ONCI,84.846,Other Non-Cash Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,850,SNCI,669.309,Non-Cash Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,853,SCTP,761.314,Cash Taxes Paid,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,854,SCIP,317.925,Cash Interest Paid,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,856,OACR,-657.962,Accounts Receivable,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,857,OITL,405.272,Inventories,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,859,OOAS,-102.394,Other Assets,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,860,OAPB,15.557,Accounts Payable,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,864,OOLB,57.811,Other Liabilities,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,866,OOCF,-761.314,Other Operating Cash Flow,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,880,SOCF,-1043.03,Changes in Working Capital,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,881,OTLO,2968.688,Cash from Operating Activities,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,882,ICEX,-348.82,Purchase of Fixed Assets,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,883,IIAQ,-60.185,Purchase/Acquisition of Intangibles,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,885,SCEX,-409.005,Capital Expenditures,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,888,ISFA,172.679,Sale of Fixed Assets,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,889,IINS,5349.104,Sale/Maturity of Investment,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,890,IIVN,-1141.558,"Investment, Net",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,891,IINP,-4111.14,Purchase of Investments,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,899,IICF,424.861,Other Investing Cash Flow,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,900,SICF,693.946,"Other Investing Cash Flow Items, Total",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,901,ITLI,284.941,Cash from Investing Activities,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,905,FFCF,-1034.794,Other Financing Cash Flow,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,906,SFCF,-1034.794,Financing Cash Flow Items,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,923,FSDR,-64.023,Short Term Debt Reduction,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,924,FSDN,-89.966,"Short Term Debt, Net",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,926,FLDR,-1947.164,Long Term Debt Reduction,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,927,FLDN,-1947.164,"Long Term Debt, Net",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,930,FPRD,-2037.13,"Issuance (Retirement) of Debt, Net",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,931,FTLF,-3071.924,Cash from Financing Activities,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,933,SNCC,181.705,Net Change in Cash,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,934,SNCB,485.08,Net Cash - Beginning Balance,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,935,SNCE,666.785,Net Cash - Ending Balance,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,1140,SCWC,-281.716,Net Changes in Working Capital,M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",2,1172,VLLR,-197.164,"Lease liability Reduced, Supplemental",M,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,436,ACSH,647.6,Cash, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,437,ACAE,19.185,Cash & Equivalents, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,438,ASTI,4476.193,Short Term Investments, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,439,SCSI,5142.978,Cash and Short Term Investments, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,440,AARG,6452.702,"Accounts Receivable - Trade, Gross", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,441,APDA,-1308.334,Provision for Doubtful Accounts, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,442,AACR,5144.368,"Accounts Receivable - Trade, Net", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,443,ASTR,286.981,Notes Receivable - Short Term, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,444,AORC,149.818,Receivables - Other, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,445,ATRC,5581.167,"Total Receivables, Net", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,448,AIRM,504.58,Inventories - Raw Materials, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,453,AITL,504.58,Total Inventory, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,454,APPY,310.016,Prepaid Expenses, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,455,ARCA,5.57,Restricted Cash - Current, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,459,ADCA,46.94,Discontinued Operations - Current Asset, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,460,AOCA,167.553,Other Current Assets, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,461,SOCA,220.063,"Other Current Assets, Total", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,462,ATCA,11758.804,Total Current Assets, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,480,APBC,1633.908,Buildings - Gross, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,481,ALIC,101.138,Land/Improvements - Gross, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,482,AMEC,5982.38,Machinery/Equipment - Gross, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,483,ACPC,24.713,Construction in Progress - Gross, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,486,AOPC,2545.943,Other Property/Plant/Equipment - Gross, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,487,APTC,10288.082,"Property/Plant/Equipment, Total - Gross", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,488,ADEP,-6154.986,"Accumulated Depreciation, Total", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,489,APPN,4133.096,"Property/Plant/Equipment, Total - Net", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,490,AGWG,3380.859,Goodwill - Gross, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,491,AAGA,-776.665,Accumulated Goodwill Amortization, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,492,AGWI,2604.194,"Goodwill, Net", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,493,AING,6499.166,Intangibles - Gross, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,494,AAMT,-4296.811,Accumulated Intangible Amortization, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,495,AINT,2202.355,"Intangibles, Net", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,502,AEQI,69.571,LT Investment - Affiliate Companies, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,503,ALTI,6616.325,LT Investments - Other, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,504,SINV,6685.896,Long Term Investments, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,506,ALTR,223.543,Note Receivable - Long Term, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,507,ADFC,44.231,Deferred Charges, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,509,ADTA,240.361,Defered Income Tax - Long Term Asset, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,511,ARCL,241.383,Restricted Cash - Long Term, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,512,AOAS,374.817,Other Long Term Assets, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,513,SOLA,900.792,"Other Long Term Assets, Total", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,523,ATOT,28508.68,Total Assets, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,524,LAPB,1695.081,Accounts Payable, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,526,LAEX,315.883,Accrued Expenses, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,547,LSTD,50.697,Notes Payable/Short Term Debt, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,548,LCLD,954.373,Current Port. of  LT Debt/Capital Leases, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,549,LDPB,2.154,Dividends Payable, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,550,LCAV,477.07,Customer Advances, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,551,LSDP,885.765,Security Deposits, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,552,LTXP,89.913,Income Taxes Payable, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,553,LOPB,74.997,Other Payables, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,556,LOCL,611.099,Other Current Liabilities, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,557,SOCL,2140.998,"Other Current liabilities, Total", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,558,LTCL,5157.032,Total Current Liabilities, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,559,LLTD,931.667,Long Term Debt, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,560,LCLO,531.495,Capital Lease Obligations, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,561,LTTD,1463.162,Total Long Term Debt, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,562,STLD,2468.232,Total Debt, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,563,LBDT,754.697,Deferred Income Tax - LT Liability, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,565,SBDT,754.697,Deferred Income Tax, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,566,LMIN,1643.763,Minority Interest, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,567,LRSV,175.515,Reserves, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,568,LPBL,32.782,Pension Benefits - Underfunded, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,572,SLTL,208.297,"Other Liabilities, Total", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,573,LTLL,9226.951,Total Liabilities, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,582,QCMS,435.309,Common Stock, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,584,SCMS,435.309,"Common Stock, Total", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,585,QPIC,2825.556,Additional Paid-In Capital, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,586,QRED,15926.277,Retained Earnings (Accumulated Deficit), ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,587,QTSC,0.0,Treasury Stock - Common, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,591,QOTE,94.587,Other Equity, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,594,SOTE,94.587,"Other Equity, Total", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,595,QTLE,19281.729,Total Equity, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,596,QTEL,28508.68,Total Liabilities & Shareholders' Equity, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,597,QCSO1,217.65427,Shares Outs - Common Stock Primary Issue, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,601,QTCO,217.65427,Total Common Shares Outstanding, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,619,METL,4780.0,Employees, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,621,MNOS,48726.0,Number of Common Shareholders, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,622,VAGA,776.665,Accumulated Goodwill Amortization Suppl., ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,623,VAIA,4296.811,"Accumulated Intangible Amort, Suppl.", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,624,VADC,477.07,Deferred Revenue - Current, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,633,SCUI,11254.224,Total Current Assets less Inventory, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,634,SQCK,2.18231,Quick Ratio, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,635,SCUR,2.28015,Current Ratio, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,636,SNTD,-1030.983,Net Debt, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,637,STBV,14475.18,Tangible Book Value, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,638,STBP,66.50538,Tangible Book Value per Share, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,647,VTLD,1740.283,"Total Long Term Debt, Supplemental", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,648,SLD1,808.616,Long Term Debt Maturing within 1 Year, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,649,SLD2,931.667,Long Term Debt Maturing in Year 2, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,658,SLD23,931.667,Long Term Debt Maturing in 2-3 Years, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,660,SLD6B,0.0,Long Term Debt Matur. in Year 6 & Beyond, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,663,VTCL,808.623,"Total Capital Leases, Supplemental", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,664,SCL1,189.341,Capital Lease Payments Due in Year 1, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,665,SCL2,150.315,Capital Lease Payments Due in Year 2, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,666,SCL3,87.69067,Capital Lease Payments Due in Year 3, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,667,SCL4,87.69067,Capital Lease Payments Due in Year 4, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,668,SCL5,87.69067,Capital Lease Payments Due in Year 5, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,674,SCL23,238.00567,Capital Lease Payments Due in 2-3 Years, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,675,SCL45,175.38134,Capital Lease Payments Due in 4-5 Years, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,676,SCL6B,205.895,Cap. Lease Pymts. Due in Year 6 & Beyond, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,691,VAPD,1098.12,Pension Obligation - Domestic, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,694,VPAD,969.481,Plan Assets - Domestic, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,697,VPPD,-128.639,Funded Status - Domestic, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,704,VFSS,-128.639,Total Funded Status, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,705,VDRD,7.09,Discount Rate - Domestic, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,711,VRCD,5.0,Compensation Rate - Domestic, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,723,VALD,-128.639,Accrued Liabilities - Domestic, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,732,VARS,-128.639,Net Assets Recognized on Balance Sheet, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,745,VXID,100.0,Other Investments % - Domestic, ,0,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,749,STPO,1098.12,Total Plan Obligations, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,750,STPA,969.481,Total Plan Assets, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,1056,QTLL,20925.492,Total Equity & Minority Interest, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,1057,VMNR,1643.763,Minority Interest - Non Redeemable, ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,1123,VLCC,145.757,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
+Jagran Prakashan Ltd,51354,1,"2024-03-31",3,1128,VUCG,827.849,"Right-of-Use Assets-Cap.Lease,Gross-Sup.", ,1,1
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,1,RNTS,16406.731,Net Sales,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,10,SREV,16406.731,Revenue,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,31,RTLR,16406.731,Total Revenue,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,34,ECOR,4702.371,Cost of Revenue,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,36,SCOR,4702.371,"Cost of Revenue, Total",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,37,SGRP,11704.36,Gross Profit,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,53,ELAR,3102.319,Labor & Related Expense,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,55,SSGA,3102.319,"Selling/General/Admin. Expenses, Total",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,57,EDEP,512.197,Depreciation,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,58,EAMI,16.681,Amortization of Intangibles,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,60,SDPR,528.878,Depreciation/Amortization,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,65,EINV,4.337,Investment Income - Operating,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,66,SIIO,4.337,Interest/Investment Income - Operating,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,71,EIAU,0.856,Impairment-Assets Held for Use,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,72,EIAS,234.641,Impairment-Assets Held for Sale,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,74,SUIE,235.497,Unusual Expense (Income),M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,80,EOOE,5067.253,Other Operating Expense,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,82,SOOE,5067.253,"Other Operating Expenses, Total",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,83,ETOE,13640.655,Total Operating Expense,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,84,SOPI,2766.076,Operating Income,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,85,NIEN,-130.278,Interest Expense - Non-Operating,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,87,SIEN,-130.278,"Interest Expense, Net Non-Operating",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,89,NINV,264.274,Investment Income - Non-Operating,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,90,SIIN,264.274,Interest/Invest Income -  Non-Operating,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,92,NGLA,84.977,Gain (Loss) on Sale of Assets,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,126,NONT,268.925,Other Non-Operating Income (Expense),M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,127,SONT,268.925,"Other, Net",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,128,EIBT,3253.974,Net Income Before Taxes,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,129,TTAX,808.767,Provision for Income Taxes,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,130,TIAT,2445.207,Net Income After Taxes,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,134,NIBX,2445.207,Net Income Before Extra. Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,140,NINC,2445.207,Net Income,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,147,CIAC,2445.207,Income Available to Com Excl ExtraOrd,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,148,XNIC,2445.207,Income Available to Com Incl ExtraOrd,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,149,SBAS,217.65427,Basic Weighted Average Shares,M,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,150,SBBF,11.23436,Basic EPS Excluding Extraordinary Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,151,SBAI,11.23436,Basic EPS Including Extraordinary Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,153,SDNI,2445.207,Diluted Net Income,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,154,SDWS,217.65427,Diluted Weighted Average Shares,M,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,155,SDBF,11.23436,Diluted EPS Excluding ExtraOrd Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,156,SDAI,11.23436,Diluted EPS Including ExtraOrd Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,157,DDPS1,5.0,DPS - Common Stock Primary Issue,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,171,VIEX,130.278,"Interest Expense, Supplemental",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,173,VDEP,512.197,"Depreciation, Supplemental",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,175,STSI,150.52,Total Special Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,176,VPTI,3404.494,Normalized Income Before Taxes,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,177,STEC,37.41136,Effect of Special Items on Income Taxes,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,178,VITN,846.17837,Inc Tax Ex Impact of Sp Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,179,VIAT,2558.31564,Normalized Income After Taxes,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,180,VIAC,2558.31564,Normalized Inc. Avail to Com.,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,181,VBES,11.75403,Basic Normalized EPS,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,182,VDES,11.75403,Diluted Normalized EPS,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,184,VAMI,16.681,"Amort of Intangibles, Supplemental",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,209,SGPP,71.33877,Gross Margin,M,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,210,SOPP,16.8594,Operating Margin,M,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,211,SPTM,19.83316,Pretax Margin,M,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,212,SETR,24.85475,Effective Tax Rate,M,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,213,SNPM,14.90368,Net Profit Margin,M,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,214,SBIT,3005.91,Normalized EBIT,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,215,SBDA,3534.788,Normalized EBITDA,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,221,VCTR,672.759,Current Tax - Total,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,222,VCTC,672.759,Current Tax - Total,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,227,VDTR,136.008,Deferred Tax - Total,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,228,VDTC,136.008,Deferred Tax - Total,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,233,VITT,808.767,Income Tax - Total,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,998,SINN,4.337,"Interest Exp.(Inc.),Net-Operating, Total",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,999,SNIN,133.996,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,1068,VLAR,3102.319,Labor & Related Expense Suppl.,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,1130,VDRU,153.4,"Depreciation of Right-of-Use Assets,Sup.",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",1,1132,VIEL,44.88,"Interest Expense on Lease Liabs., Suppl.",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,834,ONET,3253.974,Net Income/Starting Line,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,835,SDEP,533.215,Depreciation,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,837,SDED,533.215,Depreciation/Depletion,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,846,OUIE,-119.875,Unusual Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,849,ONCI,-72.239,Other Non-Cash Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,850,SNCI,-192.114,Non-Cash Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,853,SCTP,718.366,Cash Taxes Paid,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,854,SCIP,283.596,Cash Interest Paid,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,856,OACR,-553.866,Accounts Receivable,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,857,OITL,361.891,Inventories,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,859,OOAS,-99.556,Other Assets,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,860,OAPB,6.993,Accounts Payable,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,864,OOLB,52.384,Other Liabilities,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,866,OOCF,-718.366,Other Operating Cash Flow,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,880,SOCF,-950.52,Changes in Working Capital,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,881,OTLO,2644.555,Cash from Operating Activities,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,882,ICEX,-233.284,Purchase of Fixed Assets,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,883,IIAQ,-47.0,Purchase/Acquisition of Intangibles,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,885,SCEX,-280.284,Capital Expenditures,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,888,ISFA,169.775,Sale of Fixed Assets,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,889,IINS,4985.282,Sale/Maturity of Investment,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,890,IIVN,-1127.043,"Investment, Net",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,891,IINP,-3538.597,Purchase of Investments,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,899,IICF,212.951,Other Investing Cash Flow,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,900,SICF,702.368,"Other Investing Cash Flow Items, Total",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,901,ITLI,422.084,Cash from Investing Activities,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,905,FFCF,-1000.403,Other Financing Cash Flow,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,906,SFCF,-1000.403,Financing Cash Flow Items,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,907,FDPC,-0.062,Cash Dividends Paid - Common,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,909,FCDP,-0.062,Total Cash Dividends Paid,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,924,FSDN,-37.586,"Short Term Debt, Net",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,926,FLDR,-1877.226,Long Term Debt Reduction,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,927,FLDN,-1877.226,"Long Term Debt, Net",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,930,FPRD,-1914.812,"Issuance (Retirement) of Debt, Net",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,931,FTLF,-2915.277,Cash from Financing Activities,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,933,SNCC,151.362,Net Change in Cash,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,934,SNCB,415.65,Net Cash - Beginning Balance,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,935,SNCE,567.012,Net Cash - Ending Balance,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,1140,SCWC,-232.154,Net Changes in Working Capital,M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",2,1172,VLLR,-127.226,"Lease liability Reduced, Supplemental",M,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,437,ACAE,1753.904,Cash & Equivalents, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,438,ASTI,2805.654,Short Term Investments, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,439,SCSI,4559.558,Cash and Short Term Investments, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,440,AARG,3883.343,"Accounts Receivable - Trade, Gross", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,442,AACR,3883.343,"Accounts Receivable - Trade, Net", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,443,ASTR,22.662,Notes Receivable - Short Term, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,445,ATRC,3906.005,"Total Receivables, Net", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,453,AITL,476.329,Total Inventory, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,460,AOCA,577.569,Other Current Assets, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,461,SOCA,577.569,"Other Current Assets, Total", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,462,ATCA,9519.461,Total Current Assets, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,489,APPN,2729.641,"Property/Plant/Equipment, Total - Net", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,492,AGWI,2293.729,"Goodwill, Net", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,495,AINT,48.484,"Intangibles, Net", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,502,AEQI,2886.563,LT Investment - Affiliate Companies, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,503,ALTI,4439.881,LT Investments - Other, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,504,SINV,7326.444,Long Term Investments, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,506,ALTR,109.831,Note Receivable - Long Term, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,512,AOAS,120.282,Other Long Term Assets, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,513,SOLA,120.282,"Other Long Term Assets, Total", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,523,ATOT,22147.872,Total Assets, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,524,LAPB,1453.819,Accounts Payable, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,547,LSTD,808.616,Notes Payable/Short Term Debt, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,548,LCLD,94.571,Current Port. of  LT Debt/Capital Leases, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,552,LTXP,0.0,Income Taxes Payable, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,556,LOCL,2197.305,Other Current Liabilities, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,557,SOCL,2197.305,"Other Current liabilities, Total", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,558,LTCL,4554.311,Total Current Liabilities, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,559,LLTD,0.0,Long Term Debt, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,560,LCLO,380.711,Capital Lease Obligations, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,561,LTTD,380.711,Total Long Term Debt, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,562,STLD,1283.898,Total Debt, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,563,LBDT,1036.315,Deferred Income Tax - LT Liability, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,565,SBDT,1036.315,Deferred Income Tax, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,567,LRSV,144.713,Reserves, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,572,SLTL,144.713,"Other Liabilities, Total", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,573,LTLL,6116.05,Total Liabilities, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,582,QCMS,435.309,Common Stock, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,584,SCMS,435.309,"Common Stock, Total", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,586,QRED,15501.926,Retained Earnings (Accumulated Deficit), ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,591,QOTE,94.587,Other Equity, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,594,SOTE,94.587,"Other Equity, Total", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,595,QTLE,16031.822,Total Equity, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,596,QTEL,22147.872,Total Liabilities & Shareholders' Equity, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,597,QCSO1,217.65427,Shares Outs - Common Stock Primary Issue, ,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,601,QTCO,217.65427,Total Common Shares Outstanding, ,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,633,SCUI,9043.132,Total Current Assets less Inventory, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,634,SQCK,1.98562,Quick Ratio, ,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,635,SCUR,2.09021,Current Ratio, ,0,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,636,SNTD,-3275.66,Net Debt, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,637,STBV,13689.609,Tangible Book Value, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,638,STBP,62.89612,Tangible Book Value per Share, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,1056,QTLL,16031.822,Total Equity & Minority Interest, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,1059,VGWI,2293.729,Goodwill - Net, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,1060,VINT,48.484,Intangibles - Net, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,1061,VPPN,2729.641,Other Property/Plant/Equipment - Net, ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,1123,VLCC,94.571,"Curr. Port. of LT Capital Leases, Suppl.", ,1,0
+Jagran Prakashan Ltd (Parent),113077,1,"2024-03-31",3,1126,VUCN,643.571,"Right-of-Use Assets-Cap.Lease,Net-Suppl.", ,1,0
