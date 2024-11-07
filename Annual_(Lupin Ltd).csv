@@ -1,0 +1,416 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+Lupin Ltd,26409,1,"2024-03-31",1,1,RNTS,200108.2,Net Sales,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,10,SREV,200108.2,Revenue,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,31,RTLR,200108.2,Total Revenue,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,34,ECOR,76352.2,Cost of Revenue,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,36,SCOR,76352.2,"Cost of Revenue, Total",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,37,SGRP,123756.0,Gross Profit,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,52,ESGA,38291.8,Selling/General/Administrative Expense,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,53,ELAR,36849.4,Labor & Related Expense,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,54,EADV,9038.6,Advertising Expense,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,55,SSGA,84179.8,"Selling/General/Admin. Expenses, Total",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,57,EDEP,6798.5,Depreciation,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,58,EAMI,3157.1,Amortization of Intangibles,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,60,SDPR,9955.6,Depreciation/Amortization,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,71,EIAU,2012.5,Impairment-Assets Held for Use,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,74,SUIE,2012.5,Unusual Expense (Income),M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,80,EOOE,1529.2,Other Operating Expense,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,82,SOOE,1529.2,"Other Operating Expenses, Total",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,83,ETOE,174029.3,Total Operating Expense,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,84,SOPI,26078.9,Operating Income,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,85,NIEN,-2465.4,Interest Expense - Non-Operating,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,87,SIEN,-2465.4,"Interest Expense, Net Non-Operating",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,88,NIIN,462.3,Interest Income - Non-Operating,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,89,NINV,303.7,Investment Income - Non-Operating,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,90,SIIN,766.0,Interest/Invest Income -  Non-Operating,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,92,NGLA,11.7,Gain (Loss) on Sale of Assets,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,126,NONT,-168.5,Other Non-Operating Income (Expense),M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,127,SONT,-168.5,"Other, Net",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,128,EIBT,24222.7,Net Income Before Taxes,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,129,TTAX,4867.0,Provision for Income Taxes,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,130,TIAT,19355.7,Net Income After Taxes,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,131,CMIN,-210.9,Minority Interest,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,134,NIBX,19144.8,Net Income Before Extra. Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,140,NINC,19144.8,Net Income,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,147,CIAC,19144.8,Income Available to Com Excl ExtraOrd,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,148,XNIC,19144.8,Income Available to Com Incl ExtraOrd,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,149,SBAS,455.24046,Basic Weighted Average Shares,M,0,1
+Lupin Ltd,26409,1,"2024-03-31",1,150,SBBF,42.05426,Basic EPS Excluding Extraordinary Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,151,SBAI,42.05426,Basic EPS Including Extraordinary Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,153,SDNI,19144.8,Diluted Net Income,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,154,SDWS,457.226,Diluted Weighted Average Shares,M,0,1
+Lupin Ltd,26409,1,"2024-03-31",1,155,SDBF,41.87163,Diluted EPS Excluding ExtraOrd Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,156,SDAI,41.87163,Diluted EPS Including ExtraOrd Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,157,DDPS1,8.0,DPS - Common Stock Primary Issue,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,165,DCGD,3646.0,Gross Dividends - Common Stock,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,170,VSCP,383.3,"Stock-Based Compensation, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,171,VIEX,2465.4,"Interest Expense, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,173,VDEP,6798.5,"Depreciation, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,175,STSI,2000.8,Total Special Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,176,VPTI,26223.5,Normalized Income Before Taxes,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,177,STEC,402.0152,Effect of Special Items on Income Taxes,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,178,VITN,5269.0152,Inc Tax Ex Impact of Sp Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,179,VIAT,20954.4848,Normalized Income After Taxes,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,180,VIAC,20743.5848,Normalized Inc. Avail to Com.,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,181,VBES,45.56621,Basic Normalized EPS,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,182,VDES,45.36834,Diluted Normalized EPS,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,184,VAMI,3157.1,"Amort of Intangibles, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,185,VRXP,696.9,"Rental Expense, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,187,VADV,9038.6,"Advertising Expense, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,189,VMIN,-210.9,"Minority Interest, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,190,VRAD,14239.2,"Research & Development Exp, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,191,VTAU,147.4,Audit Fees,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,209,SGPP,61.84454,Gross Margin,M,0,1
+Lupin Ltd,26409,1,"2024-03-31",1,210,SOPP,13.0324,Operating Margin,M,0,1
+Lupin Ltd,26409,1,"2024-03-31",1,211,SPTM,12.1048,Pretax Margin,M,0,1
+Lupin Ltd,26409,1,"2024-03-31",1,212,SETR,20.09272,Effective Tax Rate,M,0,1
+Lupin Ltd,26409,1,"2024-03-31",1,213,SNPM,9.56722,Net Profit Margin,M,0,1
+Lupin Ltd,26409,1,"2024-03-31",1,214,SBIT,28091.4,Normalized EBIT,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,215,SBDA,38047.0,Normalized EBITDA,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,221,VCTR,6338.5,Current Tax - Total,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,222,VCTC,6338.5,Current Tax - Total,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,227,VDTR,-1471.5,Deferred Tax - Total,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,228,VDTC,-1471.5,Deferred Tax - Total,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,233,VITT,4867.0,Income Tax - Total,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,239,VICD,102.3,Interest Cost - Domestic,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,240,VSCD,478.8,Service Cost - Domestic,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,242,VXPD,-1.4,Expected Return on Assets - Domestic,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,247,VDPP,579.7,Domestic Pension Plan Expense,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,266,VDCD,1649.2,Defined Contribution Expense - Domestic,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,269,VTPE,2228.9,Total Pension Expense,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,282,STPI,102.3,Total Plan Interest Cost,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,283,STPS,478.8,Total Plan Service Cost,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,284,STPE,-1.4,Total Plan Expected Return,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,999,SNIN,-1699.4,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,1068,VLAR,36849.4,Labor & Related Expense Suppl.,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,1130,VDRU,1176.3,"Depreciation of Right-of-Use Assets,Sup.",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",1,1132,VIEL,180.2,"Interest Expense on Lease Liabs., Suppl.",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,834,ONET,24222.7,Net Income/Starting Line,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,835,SDEP,11968.1,Depreciation,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,837,SDED,11968.1,Depreciation/Depletion,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,846,OUIE,-410.1,Unusual Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,849,ONCI,3108.3,Other Non-Cash Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,850,SNCI,2698.2,Non-Cash Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,853,SCTP,3260.5,Cash Taxes Paid,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,854,SCIP,2829.1,Cash Interest Paid,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,856,OACR,-2407.9,Accounts Receivable,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,857,OITL,-4401.5,Inventories,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,859,OOAS,-210.8,Other Assets,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,860,OAPB,4188.0,Accounts Payable,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,864,OOLB,3687.3,Other Liabilities,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,866,OOCF,-3260.5,Other Operating Cash Flow,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,880,SOCF,-2405.4,Changes in Working Capital,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,881,OTLO,36483.6,Cash from Operating Activities,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,882,ICEX,-9289.0,Purchase of Fixed Assets,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,885,SCEX,-9289.0,Capital Expenditures,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,886,IBAQ,-1465.0,Acquisition of Business,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,888,ISFA,122.6,Sale of Fixed Assets,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,889,IINS,105909.9,Sale/Maturity of Investment,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,891,IINP,-111283.5,Purchase of Investments,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,899,IICF,-1117.0,Other Investing Cash Flow,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,900,SICF,-7833.0,"Other Investing Cash Flow Items, Total",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,901,ITLI,-17122.0,Cash from Investing Activities,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,905,FFCF,-2685.8,Other Financing Cash Flow,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,906,SFCF,-2685.8,Financing Cash Flow Items,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,907,FDPC,-1828.0,Cash Dividends Paid - Common,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,909,FCDP,-1828.0,Total Cash Dividends Paid,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,910,FSIC,2.2,Sale/Issuance of Common,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,912,FCSN,2.2,"Common Stock, Net",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,921,FPSS,2.2,"Issuance (Retirement) of Stock, Net",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,924,FSDN,-15896.2,"Short Term Debt, Net",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,926,FLDR,-1434.3,Long Term Debt Reduction,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,927,FLDN,-1434.3,"Long Term Debt, Net",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,930,FPRD,-17330.5,"Issuance (Retirement) of Debt, Net",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,931,FTLF,-21842.1,Cash from Financing Activities,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,933,SNCC,-2480.5,Net Change in Cash,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,934,SNCB,12318.1,Net Cash - Beginning Balance,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,935,SNCE,9837.6,Net Cash - Ending Balance,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,1140,SCWC,855.1,Net Changes in Working Capital,M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,1172,VLLR,-1159.2,"Lease liability Reduced, Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",2,1174,VSPY,383.3,"Share Based Payments,  Supplemental",M,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,436,ACSH,7111.3,Cash, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,438,ASTI,13234.0,Short Term Investments, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,439,SCSI,20345.3,Cash and Short Term Investments, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,440,AARG,47957.5,"Accounts Receivable - Trade, Gross", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,441,APDA,-1037.0,Provision for Doubtful Accounts, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,442,AACR,46920.5,"Accounts Receivable - Trade, Net", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,443,ASTR,152.5,Notes Receivable - Short Term, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,444,AORC,12247.6,Receivables - Other, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,445,ATRC,59320.6,"Total Receivables, Net", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,446,AIFG,30263.3,Inventories - Finished Goods, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,447,AIWP,6645.6,Inventories - Work In Progress, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,448,AIRM,12630.1,Inventories - Raw Materials, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,449,AIOT,2460.2,Inventories - Other, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,453,AITL,51999.2,Total Inventory, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,454,APPY,998.9,Prepaid Expenses, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,455,ARCA,149.4,Restricted Cash - Current, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,460,AOCA,1663.1,Other Current Assets, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,461,SOCA,1812.5,"Other Current Assets, Total", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,462,ATCA,134476.5,Total Current Assets, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,480,APBC,25550.7,Buildings - Gross, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,481,ALIC,2225.8,Land/Improvements - Gross, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,482,AMEC,55359.6,Machinery/Equipment - Gross, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,483,ACPC,5956.7,Construction in Progress - Gross, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,486,AOPC,11655.7,Other Property/Plant/Equipment - Gross, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,487,APTC,100748.5,"Property/Plant/Equipment, Total - Gross", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,488,ADEP,-45806.3,"Accumulated Depreciation, Total", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,489,APPN,54942.2,"Property/Plant/Equipment, Total - Net", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,492,AGWI,23250.4,"Goodwill, Net", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,493,AING,80373.3,Intangibles - Gross, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,494,AAMT,-62057.6,Accumulated Intangible Amortization, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,495,AINT,18315.7,"Intangibles, Net", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,502,AEQI,269.1,LT Investment - Affiliate Companies, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,503,ALTI,2007.9,LT Investments - Other, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,504,SINV,2277.0,Long Term Investments, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,506,ALTR,2717.9,Note Receivable - Long Term, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,507,ADFC,78.8,Deferred Charges, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,509,ADTA,3025.3,Defered Income Tax - Long Term Asset, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,511,ARCL,93.0,Restricted Cash - Long Term, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,512,AOAS,795.0,Other Long Term Assets, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,513,SOLA,3992.1,"Other Long Term Assets, Total", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,523,ATOT,239971.8,Total Assets, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,524,LAPB,29581.1,Accounts Payable, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,526,LAEX,4192.5,Accrued Expenses, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,547,LSTD,26699.1,Notes Payable/Short Term Debt, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,548,LCLD,965.8,Current Port. of  LT Debt/Capital Leases, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,549,LDPB,34.4,Dividends Payable, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,550,LCAV,428.9,Customer Advances, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,551,LSDP,128.5,Security Deposits, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,552,LTXP,4291.4,Income Taxes Payable, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,553,LOPB,8034.1,Other Payables, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,556,LOCL,10659.2,Other Current Liabilities, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,557,SOCL,23576.5,"Other Current liabilities, Total", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,558,LTCL,85015.0,Total Current Liabilities, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,559,LLTD,0.0,Long Term Debt, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,560,LCLO,1552.8,Capital Lease Obligations, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,561,LTTD,1552.8,Total Long Term Debt, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,562,STLD,29217.7,Total Debt, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,563,LBDT,2458.7,Deferred Income Tax - LT Liability, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,565,SBDT,2458.7,Deferred Income Tax, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,566,LMIN,831.6,Minority Interest, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,568,LPBL,4154.7,Pension Benefits - Underfunded, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,569,LLTL,3056.1,Other Long Term Liabilities, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,572,SLTL,7210.8,"Other Liabilities, Total", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,573,LTLL,97068.9,Total Liabilities, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,582,QCMS,911.4,Common Stock, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,584,SCMS,911.4,"Common Stock, Total", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,585,QPIC,11794.4,Additional Paid-In Capital, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,586,QRED,130689.3,Retained Earnings (Accumulated Deficit), ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,588,QEDG,1143.7,ESOP Debt Guarantee, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,590,QCTA,-1737.0,Translation Adjustment, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,593,QCOM,101.1,Other Comprehensive Income, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,594,SOTE,-1635.9,"Other Equity, Total", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,595,QTLE,142902.9,Total Equity, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,596,QTEL,239971.8,Total Liabilities & Shareholders' Equity, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,597,QCSO1,455.67891,Shares Outs - Common Stock Primary Issue, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,601,QTCO,455.67891,Total Common Shares Outstanding, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,619,METL,21868.0,Employees, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,620,MPTL,777.0,Part-Time Employees, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,621,MNOS,286705.0,Number of Common Shareholders, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,623,VAIA,62057.6,"Accumulated Intangible Amort, Suppl.", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,624,VADC,428.9,Deferred Revenue - Current, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,625,VADL,1894.0,Deferred Revenue - Long Term, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,633,SCUI,82477.3,Total Current Assets less Inventory, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,634,SQCK,0.97015,Quick Ratio, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,635,SCUR,1.5818,Current Ratio, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,636,SNTD,9704.0,Net Debt, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,637,STBV,101336.8,Tangible Book Value, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,638,STBP,222.38642,Tangible Book Value per Share, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,663,VTCL,4228.5,"Total Capital Leases, Supplemental", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,664,SCL1,1075.2,Capital Lease Payments Due in Year 1, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,665,SCL2,651.8,Capital Lease Payments Due in Year 2, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,666,SCL3,309.66667,Capital Lease Payments Due in Year 3, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,667,SCL4,309.66667,Capital Lease Payments Due in Year 4, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,668,SCL5,309.66667,Capital Lease Payments Due in Year 5, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,674,SCL23,961.46667,Capital Lease Payments Due in 2-3 Years, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,675,SCL45,619.33334,Capital Lease Payments Due in 4-5 Years, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,676,SCL6B,1572.5,Cap. Lease Pymts. Due in Year 6 & Beyond, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,691,VAPD,2756.9,Pension Obligation - Domestic, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,694,VPAD,1977.6,Plan Assets - Domestic, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,697,VPPD,-779.3,Funded Status - Domestic, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,703,VPUF,1844.5,Unfunded Plan Obligations, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,704,VFSS,-2623.8,Total Funded Status, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,723,VALD,-2623.8,Accrued Liabilities - Domestic, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,732,VARS,-2623.8,Net Assets Recognized on Balance Sheet, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,745,VXID,100.0,Other Investments % - Domestic, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,749,STPO,4601.4,Total Plan Obligations, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,750,STPA,1977.6,Total Plan Assets, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,805,MPPL,28.0,Number of Products Launched, ,0,1
+Lupin Ltd,26409,1,"2024-03-31",3,1056,QTLL,143734.5,Total Equity & Minority Interest, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,1057,VMNR,831.6,Minority Interest - Non Redeemable, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,1059,VGWI,23250.4,Goodwill - Net, ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,1082,VCDV,0.1,"Curr Derivative Liab. Hedging, Suppl.", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,1123,VLCC,965.8,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,1124,VUCD,3151.7,"Right-of-Use Assets-Cap.Lease,Depr.-Sup.", ,1,1
+Lupin Ltd,26409,1,"2024-03-31",3,1128,VUCG,6295.5,"Right-of-Use Assets-Cap.Lease,Gross-Sup.", ,1,1
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,1,RNTS,146665.0,Net Sales,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,10,SREV,146665.0,Revenue,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,31,RTLR,146665.0,Total Revenue,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,34,ECOR,50252.3,Cost of Revenue,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,36,SCOR,50252.3,"Cost of Revenue, Total",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,37,SGRP,96412.7,Gross Profit,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,53,ELAR,20955.1,Labor & Related Expense,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,55,SSGA,20955.1,"Selling/General/Admin. Expenses, Total",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,57,EDEP,6279.9,Depreciation,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,58,EAMI,727.4,Amortization of Intangibles,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,60,SDPR,7007.3,Depreciation/Amortization,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,71,EIAU,240.2,Impairment-Assets Held for Use,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,74,SUIE,240.2,Unusual Expense (Income),M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,80,EOOE,40952.4,Other Operating Expense,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,82,SOOE,40952.4,"Other Operating Expenses, Total",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,83,ETOE,119407.3,Total Operating Expense,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,84,SOPI,27257.7,Operating Income,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,85,NIEN,-398.5,Interest Expense - Non-Operating,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,87,SIEN,-398.5,"Interest Expense, Net Non-Operating",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,89,NINV,87.8,Investment Income - Non-Operating,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,90,SIIN,87.8,Interest/Invest Income -  Non-Operating,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,92,NGLA,-2.4,Gain (Loss) on Sale of Assets,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,126,NONT,902.3,Other Non-Operating Income (Expense),M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,127,SONT,902.3,"Other, Net",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,128,EIBT,27846.9,Net Income Before Taxes,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,129,TTAX,4586.0,Provision for Income Taxes,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,130,TIAT,23260.9,Net Income After Taxes,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,134,NIBX,23260.9,Net Income Before Extra. Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,140,NINC,23260.9,Net Income,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,147,CIAC,23260.9,Income Available to Com Excl ExtraOrd,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,148,XNIC,23260.9,Income Available to Com Incl ExtraOrd,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,149,SBAS,455.24046,Basic Weighted Average Shares,M,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,150,SBBF,51.09585,Basic EPS Excluding Extraordinary Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,151,SBAI,51.09585,Basic EPS Including Extraordinary Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,153,SDNI,23260.9,Diluted Net Income,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,154,SDWS,457.226,Diluted Weighted Average Shares,M,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,155,SDBF,50.87397,Diluted EPS Excluding ExtraOrd Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,156,SDAI,50.87397,Diluted EPS Including ExtraOrd Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,157,DDPS1,8.0,DPS - Common Stock Primary Issue,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,171,VIEX,398.5,"Interest Expense, Supplemental",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,173,VDEP,6279.9,"Depreciation, Supplemental",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,175,STSI,242.6,Total Special Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,176,VPTI,28089.5,Normalized Income Before Taxes,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,177,STEC,39.95287,Effect of Special Items on Income Taxes,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,178,VITN,4625.95287,Inc Tax Ex Impact of Sp Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,179,VIAT,23463.54713,Normalized Income After Taxes,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,180,VIAC,23463.54713,Normalized Inc. Avail to Com.,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,181,VBES,51.541,Basic Normalized EPS,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,182,VDES,51.31718,Diluted Normalized EPS,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,184,VAMI,727.4,"Amort of Intangibles, Supplemental",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,209,SGPP,65.73668,Gross Margin,M,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,210,SOPP,18.58501,Operating Margin,M,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,211,SPTM,18.98674,Pretax Margin,M,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,212,SETR,16.46862,Effective Tax Rate,M,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,213,SNPM,15.85988,Net Profit Margin,M,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,214,SBIT,27497.9,Normalized EBIT,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,215,SBDA,34505.2,Normalized EBITDA,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,221,VCTR,4840.5,Current Tax - Total,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,222,VCTC,4840.5,Current Tax - Total,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,227,VDTR,-254.5,Deferred Tax - Total,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,228,VDTC,-254.5,Deferred Tax - Total,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,233,VITT,4586.0,Income Tax - Total,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,999,SNIN,-310.7,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,1068,VLAR,20955.1,Labor & Related Expense Suppl.,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,1130,VDRU,706.0,"Depreciation of Right-of-Use Assets,Sup.",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",1,1132,VIEL,84.2,"Interest Expense on Lease Liabs., Suppl.",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,834,ONET,27846.9,Net Income/Starting Line,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,835,SDEP,7247.5,Depreciation,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,837,SDED,7247.5,Depreciation/Depletion,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,846,OUIE,229.2,Unusual Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,849,ONCI,236.3,Other Non-Cash Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,850,SNCI,465.5,Non-Cash Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,853,SCTP,1466.5,Cash Taxes Paid,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,854,SCIP,292.7,Cash Interest Paid,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,856,OACR,-13113.9,Accounts Receivable,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,857,OITL,-1582.1,Inventories,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,859,OOAS,-1281.2,Other Assets,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,860,OAPB,5374.1,Accounts Payable,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,864,OOLB,1551.0,Other Liabilities,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,866,OOCF,-1466.5,Other Operating Cash Flow,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,880,SOCF,-10518.6,Changes in Working Capital,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,881,OTLO,25041.3,Cash from Operating Activities,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,882,ICEX,-6985.4,Purchase of Fixed Assets,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,885,SCEX,-6985.4,Capital Expenditures,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,886,IBAQ,-86.8,Acquisition of Business,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,887,ISOB,7221.1,Sale of Business,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,888,ISFA,89.2,Sale of Fixed Assets,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,889,IINS,105140.1,Sale/Maturity of Investment,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,891,IINP,-121437.7,Purchase of Investments,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,899,IICF,69.3,Other Investing Cash Flow,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,900,SICF,-9004.8,"Other Investing Cash Flow Items, Total",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,901,ITLI,-15990.2,Cash from Investing Activities,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,905,FFCF,-149.4,Other Financing Cash Flow,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,906,SFCF,-149.4,Financing Cash Flow Items,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,907,FDPC,-1828.0,Cash Dividends Paid - Common,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,909,FCDP,-1828.0,Total Cash Dividends Paid,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,910,FSIC,2.2,Sale/Issuance of Common,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,912,FCSN,2.2,"Common Stock, Net",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,921,FPSS,2.2,"Issuance (Retirement) of Stock, Net",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,924,FSDN,-5953.3,"Short Term Debt, Net",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,926,FLDR,-742.2,Long Term Debt Reduction,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,927,FLDN,-742.2,"Long Term Debt, Net",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,930,FPRD,-6695.5,"Issuance (Retirement) of Debt, Net",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,931,FTLF,-8670.7,Cash from Financing Activities,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,933,SNCC,380.4,Net Change in Cash,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,934,SNCB,856.6,Net Cash - Beginning Balance,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,935,SNCE,1237.0,Net Cash - Ending Balance,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,1140,SCWC,-9052.1,Net Changes in Working Capital,M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,1172,VLLR,-742.2,"Lease liability Reduced, Supplemental",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",2,1174,VSPY,149.2,"Share Based Payments,  Supplemental",M,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,436,ACSH,1237.0,Cash, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,437,ACAE,149.4,Cash & Equivalents, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,438,ASTI,13891.1,Short Term Investments, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,439,SCSI,15277.5,Cash and Short Term Investments, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,440,AARG,38421.5,"Accounts Receivable - Trade, Gross", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,442,AACR,38421.5,"Accounts Receivable - Trade, Net", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,443,ASTR,24.7,Notes Receivable - Short Term, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,445,ATRC,38446.2,"Total Receivables, Net", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,453,AITL,29693.1,Total Inventory, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,459,ADCA,1476.9,Discontinued Operations - Current Asset, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,460,AOCA,7985.0,Other Current Assets, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,461,SOCA,9461.9,"Other Current Assets, Total", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,462,ATCA,92878.7,Total Current Assets, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,489,APPN,39093.4,"Property/Plant/Equipment, Total - Net", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,492,AGWI,158.6,"Goodwill, Net", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,495,AINT,6338.0,"Intangibles, Net", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,502,AEQI,105753.9,LT Investment - Affiliate Companies, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,503,ALTI,3000.1,LT Investments - Other, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,504,SINV,108754.0,Long Term Investments, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,506,ALTR,1092.8,Note Receivable - Long Term, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,512,AOAS,913.1,Other Long Term Assets, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,513,SOLA,913.1,"Other Long Term Assets, Total", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,523,ATOT,249228.6,Total Assets, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,524,LAPB,20362.7,Accounts Payable, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,547,LSTD,181.3,Notes Payable/Short Term Debt, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,548,LCLD,438.7,Current Port. of  LT Debt/Capital Leases, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,552,LTXP,3525.7,Income Taxes Payable, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,555,LDCL,475.2,Discontinued Operations - Curr Liability, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,556,LOCL,11955.8,Other Current Liabilities, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,557,SOCL,15956.7,"Other Current liabilities, Total", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,558,LTCL,36939.4,Total Current Liabilities, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,560,LCLO,429.3,Capital Lease Obligations, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,561,LTTD,429.3,Total Long Term Debt, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,562,STLD,1049.3,Total Debt, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,563,LBDT,1560.1,Deferred Income Tax - LT Liability, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,565,SBDT,1560.1,Deferred Income Tax, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,567,LRSV,3297.6,Reserves, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,569,LLTL,971.3,Other Long Term Liabilities, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,572,SLTL,4268.9,"Other Liabilities, Total", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,573,LTLL,43197.7,Total Liabilities, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,582,QCMS,911.4,Common Stock, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,584,SCMS,911.4,"Common Stock, Total", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,586,QRED,205119.5,Retained Earnings (Accumulated Deficit), ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,595,QTLE,206030.9,Total Equity, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,596,QTEL,249228.6,Total Liabilities & Shareholders' Equity, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,597,QCSO1,455.67891,Shares Outs - Common Stock Primary Issue, ,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,601,QTCO,455.67891,Total Common Shares Outstanding, ,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,633,SCUI,63185.6,Total Current Assets less Inventory, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,634,SQCK,1.71052,Quick Ratio, ,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,635,SCUR,2.51435,Current Ratio, ,0,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,636,SNTD,-14228.2,Net Debt, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,637,STBV,199534.3,Tangible Book Value, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,638,STBP,437.88355,Tangible Book Value per Share, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,1056,QTLL,206030.9,Total Equity & Minority Interest, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,1059,VGWI,158.6,Goodwill - Net, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,1060,VINT,6338.0,Intangibles - Net, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,1061,VPPN,39093.4,Other Property/Plant/Equipment - Net, ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,1123,VLCC,438.7,"Curr. Port. of LT Capital Leases, Suppl.", ,1,0
+Lupin Ltd (Parent),68830,1,"2024-03-31",3,1126,VUCN,1717.3,"Right-of-Use Assets-Cap.Lease,Net-Suppl.", ,1,0
