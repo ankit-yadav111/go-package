@@ -1,0 +1,409 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+Astral Ltd,58429,1,"2024-03-31",1,1,RNTS,56414.0,Net Sales,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,10,SREV,56414.0,Revenue,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,31,RTLR,56414.0,Total Revenue,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,34,ECOR,35777.0,Cost of Revenue,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,36,SCOR,35777.0,"Cost of Revenue, Total",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,37,SGRP,20637.0,Gross Profit,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,52,ESGA,4569.0,Selling/General/Administrative Expense,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,53,ELAR,4386.0,Labor & Related Expense,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,54,EADV,2249.0,Advertising Expense,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,55,SSGA,11204.0,"Selling/General/Admin. Expenses, Total",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,57,EDEP,1624.0,Depreciation,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,58,EAMI,352.0,Amortization of Intangibles,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,60,SDPR,1976.0,Depreciation/Amortization,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,73,EUIE,0.0,Other Unusual Expense (Income),M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,74,SUIE,0.0,Unusual Expense (Income),M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,80,EOOE,181.0,Other Operating Expense,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,82,SOOE,181.0,"Other Operating Expenses, Total",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,83,ETOE,49138.0,Total Operating Expense,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,84,SOPI,7276.0,Operating Income,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,85,NIEN,-220.0,Interest Expense - Non-Operating,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,87,SIEN,-220.0,"Interest Expense, Net Non-Operating",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,88,NIIN,42.0,Interest Income - Non-Operating,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,89,NINV,299.0,Investment Income - Non-Operating,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,90,SIIN,341.0,Interest/Invest Income -  Non-Operating,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,92,NGLA,-64.0,Gain (Loss) on Sale of Assets,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,126,NONT,3.0,Other Non-Operating Income (Expense),M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,127,SONT,3.0,"Other, Net",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,128,EIBT,7336.0,Net Income Before Taxes,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,129,TTAX,1880.0,Provision for Income Taxes,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,130,TIAT,5456.0,Net Income After Taxes,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,131,CMIN,5.0,Minority Interest,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,134,NIBX,5461.0,Net Income Before Extra. Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,136,XIDO,0.0,Discontinued Operations,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,138,XSIT,0.0,Tax on Extraordinary Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,139,STXI,0.0,Total Extraordinary Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,140,NINC,5461.0,Net Income,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,147,CIAC,5461.0,Income Available to Com Excl ExtraOrd,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,148,XNIC,5461.0,Income Available to Com Incl ExtraOrd,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,149,SBAS,268.62056,Basic Weighted Average Shares,M,0,1
+Astral Ltd,58429,1,"2024-03-31",1,150,SBBF,20.32979,Basic EPS Excluding Extraordinary Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,151,SBAI,20.32979,Basic EPS Including Extraordinary Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,153,SDNI,5461.0,Diluted Net Income,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,154,SDWS,268.64067,Diluted Weighted Average Shares,M,0,1
+Astral Ltd,58429,1,"2024-03-31",1,155,SDBF,20.32827,Diluted EPS Excluding ExtraOrd Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,156,SDAI,20.32827,Diluted EPS Including ExtraOrd Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,157,DDPS1,3.75,DPS - Common Stock Primary Issue,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,165,DCGD,1007.0,Gross Dividends - Common Stock,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,170,VSCP,21.0,"Stock-Based Compensation, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,171,VIEX,220.0,"Interest Expense, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,173,VDEP,1624.0,"Depreciation, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,175,STSI,64.0,Total Special Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,176,VPTI,7400.0,Normalized Income Before Taxes,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,177,STEC,16.40131,Effect of Special Items on Income Taxes,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,178,VITN,1896.40131,Inc Tax Ex Impact of Sp Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,179,VIAT,5503.59869,Normalized Income After Taxes,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,180,VIAC,5508.59869,Normalized Inc. Avail to Com.,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,181,VBES,20.50699,Basic Normalized EPS,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,182,VDES,20.50545,Diluted Normalized EPS,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,184,VAMI,352.0,"Amort of Intangibles, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,185,VRXP,140.0,"Rental Expense, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,187,VADV,2249.0,"Advertising Expense, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,188,VEIA,-1.0,"Equity in Affiliates, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,189,VMIN,5.0,"Minority Interest, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,190,VRAD,2.5,"Research & Development Exp, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,191,VTAU,15.0,Audit Fees,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,209,SGPP,36.58135,Gross Margin,M,0,1
+Astral Ltd,58429,1,"2024-03-31",1,210,SOPP,12.89751,Operating Margin,M,0,1
+Astral Ltd,58429,1,"2024-03-31",1,211,SPTM,13.00386,Pretax Margin,M,0,1
+Astral Ltd,58429,1,"2024-03-31",1,212,SETR,25.62704,Effective Tax Rate,M,0,1
+Astral Ltd,58429,1,"2024-03-31",1,213,SNPM,9.68022,Net Profit Margin,M,0,1
+Astral Ltd,58429,1,"2024-03-31",1,214,SBIT,7276.0,Normalized EBIT,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,215,SBDA,9252.0,Normalized EBITDA,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,217,VCTD,1873.0,Current Tax - Domestic,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,220,VCTO,-133.0,Current Tax - Other,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,222,VCTC,1740.0,Current Tax - Total,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,223,VDTD,51.0,Deferred Tax - Domestic,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,226,VDTO,89.0,Deferred Tax - Other,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,228,VDTC,140.0,Deferred Tax - Total,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,233,VITT,1880.0,Income Tax - Total,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,240,VSCD,29.0,Service Cost - Domestic,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,247,VDPP,31.0,Domestic Pension Plan Expense,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,266,VDCD,112.0,Defined Contribution Expense - Domestic,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,269,VTPE,143.0,Total Pension Expense,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,283,STPS,29.0,Total Plan Service Cost,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,999,SNIN,121.0,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,1068,VLAR,4386.0,Labor & Related Expense Suppl.,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,1078,VDNI,2.0,Net Interest Cost - Domestic,M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,1130,VDRU,95.0,"Depreciation of Right-of-Use Assets,Sup.",M,1,1
+Astral Ltd,58429,1,"2024-03-31",1,1132,VIEL,15.0,"Interest Expense on Lease Liabs., Suppl.",M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,834,ONET,7336.0,Net Income/Starting Line,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,835,SDEP,1976.0,Depreciation,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,837,SDED,1976.0,Depreciation/Depletion,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,846,OUIE,-178.0,Unusual Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,848,OEIA,1.0,Equity in Net Earnings (Loss),M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,849,ONCI,371.0,Other Non-Cash Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,850,SNCI,194.0,Non-Cash Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,853,SCTP,1772.0,Cash Taxes Paid,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,854,SCIP,267.0,Cash Interest Paid,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,856,OACR,-82.0,Accounts Receivable,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,857,OITL,-388.0,Inventories,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,860,OAPB,970.0,Accounts Payable,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,866,OOCF,-1772.0,Other Operating Cash Flow,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,880,SOCF,-1272.0,Changes in Working Capital,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,881,OTLO,8234.0,Cash from Operating Activities,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,882,ICEX,-5539.0,Purchase of Fixed Assets,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,885,SCEX,-5539.0,Capital Expenditures,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,888,ISFA,37.0,Sale of Fixed Assets,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,889,IINS,242.0,Sale/Maturity of Investment,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,891,IINP,-1940.0,Purchase of Investments,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,899,IICF,1790.0,Other Investing Cash Flow,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,900,SICF,129.0,"Other Investing Cash Flow Items, Total",M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,901,ITLI,-5410.0,Cash from Investing Activities,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,905,FFCF,-1100.0,Other Financing Cash Flow,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,906,SFCF,-1100.0,Financing Cash Flow Items,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,907,FDPC,-1007.0,Cash Dividends Paid - Common,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,909,FCDP,-1007.0,Total Cash Dividends Paid,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,924,FSDN,107.0,"Short Term Debt, Net",M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,925,FLDI,359.0,Long Term Debt Issued,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,926,FLDR,-384.0,Long Term Debt Reduction,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,927,FLDN,-25.0,"Long Term Debt, Net",M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,930,FPRD,82.0,"Issuance (Retirement) of Debt, Net",M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,931,FTLF,-2025.0,Cash from Financing Activities,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,933,SNCC,799.0,Net Change in Cash,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,934,SNCB,5295.0,Net Cash - Beginning Balance,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,935,SNCE,6094.0,Net Cash - Ending Balance,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,1140,SCWC,500.0,Net Changes in Working Capital,M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,1172,VLLR,-109.0,"Lease liability Reduced, Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",2,1174,VSPY,21.0,"Share Based Payments,  Supplemental",M,1,1
+Astral Ltd,58429,1,"2024-03-31",3,436,ACSH,1925.0,Cash, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,438,ASTI,4170.0,Short Term Investments, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,439,SCSI,6095.0,Cash and Short Term Investments, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,440,AARG,4214.0,"Accounts Receivable - Trade, Gross", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,441,APDA,-185.0,Provision for Doubtful Accounts, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,442,AACR,4029.0,"Accounts Receivable - Trade, Net", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,443,ASTR,6.0,Notes Receivable - Short Term, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,444,AORC,150.0,Receivables - Other, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,445,ATRC,4185.0,"Total Receivables, Net", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,446,AIFG,4538.0,Inventories - Finished Goods, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,447,AIWP,609.0,Inventories - Work In Progress, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,448,AIRM,3987.0,Inventories - Raw Materials, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,449,AIOT,149.0,Inventories - Other, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,453,AITL,9283.0,Total Inventory, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,454,APPY,267.0,Prepaid Expenses, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,455,ARCA,1.0,Restricted Cash - Current, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,459,ADCA,0.0,Discontinued Operations - Current Asset, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,460,AOCA,25.0,Other Current Assets, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,461,SOCA,26.0,"Other Current Assets, Total", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,462,ATCA,19856.0,Total Current Assets, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,480,APBC,6860.0,Buildings - Gross, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,481,ALIC,3653.0,Land/Improvements - Gross, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,482,AMEC,14491.0,Machinery/Equipment - Gross, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,483,ACPC,1506.0,Construction in Progress - Gross, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,486,AOPC,1761.0,Other Property/Plant/Equipment - Gross, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,487,APTC,28271.0,"Property/Plant/Equipment, Total - Gross", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,488,ADEP,-8419.0,"Accumulated Depreciation, Total", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,489,APPN,19852.0,"Property/Plant/Equipment, Total - Net", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,492,AGWI,3133.0,"Goodwill, Net", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,493,AING,2499.0,Intangibles - Gross, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,494,AAMT,-984.0,Accumulated Intangible Amortization, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,495,AINT,1515.0,"Intangibles, Net", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,506,ALTR,428.0,Note Receivable - Long Term, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,507,ADFC,11.0,Deferred Charges, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,509,ADTA,21.0,Defered Income Tax - Long Term Asset, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,511,ARCL,2.0,Restricted Cash - Long Term, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,512,AOAS,161.0,Other Long Term Assets, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,513,SOLA,195.0,"Other Long Term Assets, Total", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,523,ATOT,44979.0,Total Assets, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,524,LAPB,8719.0,Accounts Payable, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,526,LAEX,46.0,Accrued Expenses, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,547,LSTD,498.0,Notes Payable/Short Term Debt, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,548,LCLD,127.0,Current Port. of  LT Debt/Capital Leases, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,549,LDPB,1.0,Dividends Payable, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,550,LCAV,123.0,Customer Advances, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,552,LTXP,61.0,Income Taxes Payable, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,553,LOPB,1155.0,Other Payables, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,555,LDCL,0.0,Discontinued Operations - Curr Liability, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,556,LOCL,482.0,Other Current Liabilities, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,557,SOCL,1822.0,"Other Current liabilities, Total", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,558,LTCL,11212.0,Total Current Liabilities, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,559,LLTD,435.0,Long Term Debt, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,560,LCLO,134.0,Capital Lease Obligations, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,561,LTTD,569.0,Total Long Term Debt, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,562,STLD,1194.0,Total Debt, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,563,LBDT,460.0,Deferred Income Tax - LT Liability, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,565,SBDT,460.0,Deferred Income Tax, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,566,LMIN,804.0,Minority Interest, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,567,LRSV,53.0,Reserves, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,572,SLTL,53.0,"Other Liabilities, Total", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,573,LTLL,13098.0,Total Liabilities, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,582,QCMS,269.0,Common Stock, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,584,SCMS,269.0,"Common Stock, Total", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,585,QPIC,4001.0,Additional Paid-In Capital, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,586,QRED,27520.0,Retained Earnings (Accumulated Deficit), ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,588,QEDG,16.0,ESOP Debt Guarantee, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,589,QUGL,12.0,Unrealized Gain (Loss), ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,590,QCTA,63.0,Translation Adjustment, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,594,SOTE,63.0,"Other Equity, Total", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,595,QTLE,31881.0,Total Equity, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,596,QTEL,44979.0,Total Liabilities & Shareholders' Equity, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,597,QCSO1,268.62701,Shares Outs - Common Stock Primary Issue, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,601,QTCO,268.62701,Total Common Shares Outstanding, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,619,METL,4558.0,Employees, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,621,MNOS,295094.0,Number of Common Shareholders, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,623,VAIA,984.0,"Accumulated Intangible Amort, Suppl.", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,624,VADC,123.0,Deferred Revenue - Current, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,633,SCUI,10573.0,Total Current Assets less Inventory, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,634,SQCK,0.94301,Quick Ratio, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,635,SCUR,1.77096,Current Ratio, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,636,SNTD,-4097.0,Net Debt, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,637,STBV,27233.0,Tangible Book Value, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,638,STBP,101.37849,Tangible Book Value per Share, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,647,VTLD,466.0,"Total Long Term Debt, Supplemental", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,648,SLD1,31.0,Long Term Debt Maturing within 1 Year, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,649,SLD2,26.0,Long Term Debt Maturing in Year 2, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,650,SLD3,26.0,Long Term Debt Maturing in Year 3, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,651,SLD4,26.0,Long Term Debt Maturing in Year 4, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,652,SLD5,26.0,Long Term Debt Maturing in Year 5, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,658,SLD23,52.0,Long Term Debt Maturing in 2-3 Years, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,659,SLD45,52.0,Long Term Debt Maturing in 4-5 Years, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,660,SLD6B,331.0,Long Term Debt Matur. in Year 6 & Beyond, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,663,VTCL,230.0,"Total Capital Leases, Supplemental", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,664,SCL1,96.0,Capital Lease Payments Due in Year 1, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,665,SCL2,33.5,Capital Lease Payments Due in Year 2, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,666,SCL3,33.5,Capital Lease Payments Due in Year 3, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,667,SCL4,33.5,Capital Lease Payments Due in Year 4, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,668,SCL5,33.5,Capital Lease Payments Due in Year 5, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,674,SCL23,67.0,Capital Lease Payments Due in 2-3 Years, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,675,SCL45,67.0,Capital Lease Payments Due in 4-5 Years, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,691,VAPD,230.0,Pension Obligation - Domestic, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,694,VPAD,231.0,Plan Assets - Domestic, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,697,VPPD,1.0,Funded Status - Domestic, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,704,VFSS,1.0,Total Funded Status, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,705,VDRD,7.21,Discount Rate - Domestic, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,708,VERD,7.21,Expected Rate of Return - Domestic, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,711,VRCD,7.0,Compensation Rate - Domestic, ,0,1
+Astral Ltd,58429,1,"2024-03-31",3,726,VAOD,1.0,"Other Assets, Net - Domestic", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,732,VARS,1.0,Net Assets Recognized on Balance Sheet, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,749,STPO,230.0,Total Plan Obligations, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,750,STPA,231.0,Total Plan Assets, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,1056,QTLL,32685.0,Total Equity & Minority Interest, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,1057,VMNR,804.0,Minority Interest - Non Redeemable, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,1059,VGWI,3133.0,Goodwill - Net, ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,1123,VLCC,96.0,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,1124,VUCD,229.0,"Right-of-Use Assets-Cap.Lease,Depr.-Sup.", ,1,1
+Astral Ltd,58429,1,"2024-03-31",3,1128,VUCG,929.0,"Right-of-Use Assets-Cap.Lease,Gross-Sup.", ,1,1
+Astral Ltd (Parent),113037,1,"2024-03-31",1,1,RNTS,51034.0,Net Sales,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,10,SREV,51034.0,Revenue,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,31,RTLR,51034.0,Total Revenue,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,34,ECOR,31222.0,Cost of Revenue,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,36,SCOR,31222.0,"Cost of Revenue, Total",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,37,SGRP,19812.0,Gross Profit,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,53,ELAR,3424.0,Labor & Related Expense,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,55,SSGA,3424.0,"Selling/General/Admin. Expenses, Total",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,57,EDEP,1468.0,Depreciation,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,58,EAMI,88.0,Amortization of Intangibles,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,60,SDPR,1556.0,Depreciation/Amortization,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,80,EOOE,7598.0,Other Operating Expense,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,82,SOOE,7598.0,"Other Operating Expenses, Total",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,83,ETOE,43800.0,Total Operating Expense,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,84,SOPI,7234.0,Operating Income,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,85,NIEN,-177.0,Interest Expense - Non-Operating,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,87,SIEN,-177.0,"Interest Expense, Net Non-Operating",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,89,NINV,277.0,Investment Income - Non-Operating,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,90,SIIN,277.0,Interest/Invest Income -  Non-Operating,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,92,NGLA,-63.0,Gain (Loss) on Sale of Assets,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,126,NONT,80.0,Other Non-Operating Income (Expense),M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,127,SONT,80.0,"Other, Net",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,128,EIBT,7351.0,Net Income Before Taxes,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,129,TTAX,1847.0,Provision for Income Taxes,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,130,TIAT,5504.0,Net Income After Taxes,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,134,NIBX,5504.0,Net Income Before Extra. Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,140,NINC,5504.0,Net Income,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,147,CIAC,5504.0,Income Available to Com Excl ExtraOrd,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,148,XNIC,5504.0,Income Available to Com Incl ExtraOrd,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,149,SBAS,268.62056,Basic Weighted Average Shares,M,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,150,SBBF,20.48987,Basic EPS Excluding Extraordinary Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,151,SBAI,20.48987,Basic EPS Including Extraordinary Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,153,SDNI,5504.0,Diluted Net Income,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,154,SDWS,268.64067,Diluted Weighted Average Shares,M,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,155,SDBF,20.48834,Diluted EPS Excluding ExtraOrd Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,156,SDAI,20.48834,Diluted EPS Including ExtraOrd Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,157,DDPS1,3.75,DPS - Common Stock Primary Issue,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,171,VIEX,177.0,"Interest Expense, Supplemental",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,173,VDEP,1468.0,"Depreciation, Supplemental",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,175,STSI,63.0,Total Special Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,176,VPTI,7414.0,Normalized Income Before Taxes,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,177,STEC,15.82927,Effect of Special Items on Income Taxes,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,178,VITN,1862.82928,Inc Tax Ex Impact of Sp Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,179,VIAT,5551.17073,Normalized Income After Taxes,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,180,VIAC,5551.17073,Normalized Inc. Avail to Com.,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,181,VBES,20.66547,Basic Normalized EPS,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,182,VDES,20.66393,Diluted Normalized EPS,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,184,VAMI,88.0,"Amort of Intangibles, Supplemental",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,209,SGPP,38.82118,Gross Margin,M,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,210,SOPP,14.17486,Operating Margin,M,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,211,SPTM,14.40412,Pretax Margin,M,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,212,SETR,25.12583,Effective Tax Rate,M,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,213,SNPM,10.78497,Net Profit Margin,M,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,214,SBIT,7234.0,Normalized EBIT,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,215,SBDA,8790.0,Normalized EBITDA,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,221,VCTR,1801.0,Current Tax - Total,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,222,VCTC,1801.0,Current Tax - Total,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,227,VDTR,46.0,Deferred Tax - Total,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,228,VDTC,46.0,Deferred Tax - Total,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,233,VITT,1847.0,Income Tax - Total,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,999,SNIN,100.0,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,1068,VLAR,3424.0,Labor & Related Expense Suppl.,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",1,1130,VDRU,72.0,"Depreciation of Right-of-Use Assets,Sup.",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,834,ONET,7351.0,Net Income/Starting Line,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,835,SDEP,1556.0,Depreciation,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,837,SDED,1556.0,Depreciation/Depletion,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,846,OUIE,-115.0,Unusual Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,849,ONCI,144.0,Other Non-Cash Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,850,SNCI,29.0,Non-Cash Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,853,SCTP,1718.0,Cash Taxes Paid,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,854,SCIP,186.0,Cash Interest Paid,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,856,OACR,-118.0,Accounts Receivable,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,857,OITL,-332.0,Inventories,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,860,OAPB,1116.0,Accounts Payable,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,866,OOCF,-1718.0,Other Operating Cash Flow,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,880,SOCF,-1052.0,Changes in Working Capital,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,881,OTLO,7884.0,Cash from Operating Activities,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,882,ICEX,-5244.0,Purchase of Fixed Assets,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,885,SCEX,-5244.0,Capital Expenditures,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,886,IBAQ,-2773.0,Acquisition of Business,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,887,ISOB,1940.0,Sale of Business,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,888,ISFA,29.0,Sale of Fixed Assets,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,889,IINS,199.0,Sale/Maturity of Investment,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,899,IICF,680.0,Other Investing Cash Flow,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,900,SICF,75.0,"Other Investing Cash Flow Items, Total",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,901,ITLI,-5169.0,Cash from Investing Activities,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,905,FFCF,-186.0,Other Financing Cash Flow,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,906,SFCF,-186.0,Financing Cash Flow Items,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,907,FDPC,-1007.0,Cash Dividends Paid - Common,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,909,FCDP,-1007.0,Total Cash Dividends Paid,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,910,FSIC,0.0,Sale/Issuance of Common,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,912,FCSN,0.0,"Common Stock, Net",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,921,FPSS,0.0,"Issuance (Retirement) of Stock, Net",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,925,FLDI,300.0,Long Term Debt Issued,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,926,FLDR,-96.0,Long Term Debt Reduction,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,927,FLDN,204.0,"Long Term Debt, Net",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,930,FPRD,204.0,"Issuance (Retirement) of Debt, Net",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,931,FTLF,-989.0,Cash from Financing Activities,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,932,SFEE,0.0,Foreign Exchange Effects,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,933,SNCC,1726.0,Net Change in Cash,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,934,SNCB,3943.0,Net Cash - Beginning Balance,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,935,SNCE,5669.0,Net Cash - Ending Balance,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,1140,SCWC,666.0,Net Changes in Working Capital,M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,1172,VLLR,-75.0,"Lease liability Reduced, Supplemental",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",2,1174,VSPY,0.0,"Share Based Payments,  Supplemental",M,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,436,ACSH,5669.0,Cash, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,438,ASTI,86.0,Short Term Investments, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,439,SCSI,5755.0,Cash and Short Term Investments, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,440,AARG,2674.0,"Accounts Receivable - Trade, Gross", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,442,AACR,2674.0,"Accounts Receivable - Trade, Net", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,443,ASTR,5.0,Notes Receivable - Short Term, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,444,AORC,0.0,Receivables - Other, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,445,ATRC,2679.0,"Total Receivables, Net", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,453,AITL,8029.0,Total Inventory, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,460,AOCA,571.0,Other Current Assets, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,461,SOCA,571.0,"Other Current Assets, Total", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,462,ATCA,17034.0,Total Current Assets, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,489,APPN,18194.0,"Property/Plant/Equipment, Total - Net", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,492,AGWI,2036.0,"Goodwill, Net", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,495,AINT,194.0,"Intangibles, Net", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,503,ALTI,3977.0,LT Investments - Other, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,504,SINV,3977.0,Long Term Investments, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,506,ALTR,470.0,Note Receivable - Long Term, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,512,AOAS,216.0,Other Long Term Assets, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,513,SOLA,216.0,"Other Long Term Assets, Total", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,523,ATOT,42121.0,Total Assets, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,524,LAPB,8089.0,Accounts Payable, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,547,LSTD,0.0,Notes Payable/Short Term Debt, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,548,LCLD,90.0,Current Port. of  LT Debt/Capital Leases, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,552,LTXP,61.0,Income Taxes Payable, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,556,LOCL,1693.0,Other Current Liabilities, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,557,SOCL,1754.0,"Other Current liabilities, Total", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,558,LTCL,9933.0,Total Current Liabilities, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,559,LLTD,297.0,Long Term Debt, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,560,LCLO,103.0,Capital Lease Obligations, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,561,LTTD,400.0,Total Long Term Debt, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,562,STLD,490.0,Total Debt, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,563,LBDT,440.0,Deferred Income Tax - LT Liability, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,565,SBDT,440.0,Deferred Income Tax, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,567,LRSV,50.0,Reserves, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,572,SLTL,50.0,"Other Liabilities, Total", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,573,LTLL,10823.0,Total Liabilities, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,582,QCMS,269.0,Common Stock, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,584,SCMS,269.0,"Common Stock, Total", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,586,QRED,31029.0,Retained Earnings (Accumulated Deficit), ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,595,QTLE,31298.0,Total Equity, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,596,QTEL,42121.0,Total Liabilities & Shareholders' Equity, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,597,QCSO1,268.62701,Shares Outs - Common Stock Primary Issue, ,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,601,QTCO,268.62701,Total Common Shares Outstanding, ,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,633,SCUI,9005.0,Total Current Assets less Inventory, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,634,SQCK,0.90657,Quick Ratio, ,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,635,SCUR,1.71489,Current Ratio, ,0,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,636,SNTD,-5265.0,Net Debt, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,637,STBV,29068.0,Tangible Book Value, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,638,STBP,108.20952,Tangible Book Value per Share, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,1056,QTLL,31298.0,Total Equity & Minority Interest, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,1059,VGWI,2036.0,Goodwill - Net, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,1060,VINT,194.0,Intangibles - Net, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,1061,VPPN,18194.0,Other Property/Plant/Equipment - Net, ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,1123,VLCC,87.0,"Curr. Port. of LT Capital Leases, Suppl.", ,1,0
+Astral Ltd (Parent),113037,1,"2024-03-31",3,1126,VUCN,539.0,"Right-of-Use Assets-Cap.Lease,Net-Suppl.", ,1,0
