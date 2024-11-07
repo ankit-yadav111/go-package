@@ -1,0 +1,178 @@
+"Name","Type_","Period_","Measure_Code","Measure_Desc","UnitType","Curr","Value_"
+Lupin Ltd,Year,2025,BVPS,Book Value Per Share,Currency,INR,348.99271
+Lupin Ltd,Year,2025,TOTDIV,Total Dividends,Currency,INR,3959.25
+Lupin Ltd,Year,2025,OPREXP,Operating Expense,Currency,INR,160781.0
+Lupin Ltd,Year,2025,TAXRATE,Tax Rate,Percentage,,21.37733
+Lupin Ltd,Year,2025,INTEXP,Interest Expense,Currency,INR,2433.54546
+Lupin Ltd,Year,2025,TAXPROV,Tax Provision,Currency,INR,7227.80952
+Lupin Ltd,Year,2025,EPSREP,As Reported EPS,Currency,INR,62.69592
+Lupin Ltd,Year,2025,GPM,Gross Margin (Gross Profit Margin),Percentage,,68.13471
+Lupin Ltd,Year,2025,NAV,Net Assets Value,Currency,INR,162746.74294
+Lupin Ltd,Year,2025,PPROFITREP,Reported Pretax Profit,Currency,INR,35881.80596
+Lupin Ltd,Year,2025,TBV,Tangible Book Value,Currency,INR,145873.129
+Lupin Ltd,Year,2025,SELLEXP,Selling & Marketing Expense,Currency,INR,46267.0
+Lupin Ltd,Year,2025,NDEBT,Net Debt,Currency,INR,6476.7528
+Lupin Ltd,Year,2025,EPSCASH,Cash EPS,Currency,INR,89.16122
+Lupin Ltd,Year,2025,SEQUITY,Shareholders Equity,Currency,INR,166056.89159
+Lupin Ltd,Year,2025,DPS,Dividend Per Share,Currency,INR,7.74519
+Lupin Ltd,Year,2025,NPROFIT,Net Income,Currency,INR,28300.91465
+Lupin Ltd,Year,2025,CURRASSETS,Current Assets,Currency,INR,148578.72727
+Lupin Ltd,Year,2025,TA,Total Assets,Currency,INR,246437.83333
+Lupin Ltd,Year,2025,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,22959.73684
+Lupin Ltd,Year,2025,SBC,Stock Based Compensation,Currency,INR,0.0
+Lupin Ltd,Year,2025,EBITDAPS,EBITDA Per Share,Currency,INR,91.85
+Lupin Ltd,Year,2025,R&DEXP,R&D Expense,Currency,INR,17932.0
+Lupin Ltd,Year,2025,CURRLIAB,Current Liabilities,Currency,INR,65206.54546
+Lupin Ltd,Year,2025,NAVPS,NAV per Share,Currency,INR,331.19867
+Lupin Ltd,Year,2025,TOTALLIAB,Total Liabilities ,Currency,INR,143463.3125
+Lupin Ltd,Year,2025,CFPS,Cash Flow Per Share,Currency,INR,64.462
+Lupin Ltd,Year,2025,TOTDEBT,Total Debt,Currency,INR,21157.0
+Lupin Ltd,Year,2025,ROA,Return on Assets,Percentage,,12.3975
+Lupin Ltd,Year,2025,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,36124.63082
+Lupin Ltd,Year,2025,SG&A,SG&A Expense,Currency,INR,54778.5
+Lupin Ltd,Year,2025,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,47372.79365
+Lupin Ltd,Year,2025,CAPEX,Capital Expenditures,Currency,INR,9758.28571
+Lupin Ltd,Year,2025,EPS,Earnings Per Share,Currency,INR,62.2
+Lupin Ltd,Year,2025,REV,Sales,Currency,INR,221715.70455
+Lupin Ltd,Year,2025,PPROFIT,Pretax Profit,Currency,INR,35667.06638
+Lupin Ltd,Year,2025,EV,Enterprise Value,Currency,INR,986122.438
+Lupin Ltd,Year,2025,ROE,Return On Equity,Percentage,,18.01707
+Lupin Ltd,Year,2025,TCOMPRATIO,Total Compensation Expense,Currency,INR,38351.90909
+Lupin Ltd,Year,2025,INCTAX,Income Taxes Paid,Currency,INR,7215.45455
+Lupin Ltd,Year,2025,ROIC,Return on Invested Capital,Percentage,,19.3
+Lupin Ltd,Year,2025,FCFPS,Free Cash Flow Per Share,Currency,INR,43.29333
+Lupin Ltd,Year,2025,EBITA,EBITA,Currency,INR,34710.0
+Lupin Ltd,Year,2025,EBITDAREP,EBITDA Reported,Currency,INR,42465.28571
+Lupin Ltd,Year,2025,FCF,Free Cash Flow,Currency,INR,18309.92594
+Lupin Ltd,Year,2025,GOODWILL,Goodwill,Currency,INR,23250.06667
+Lupin Ltd,Year,2025,PSR,Price/Sales Ratio,Percentage,,3.755
+Lupin Ltd,Year,2025,CFOPERAT,Cash Flow from Operations,Currency,INR,26882.36364
+Lupin Ltd,Year,2025,COGS,Cost of Goods sold,Currency,INR,72265.05873
+Lupin Ltd,Year,2025,DEPAMORT,Depreciation & Amortization,Currency,INR,10512.064
+Lupin Ltd,Year,2025,GROSSINC,Gross Income,Currency,INR,140992.90909
+Lupin Ltd,Year,2025,INVENTORY,Inventory,Currency,INR,54160.30769
+Lupin Ltd,Year,2025,NPROFITREP,Reported Net Profit,Currency,INR,28602.57242
+Lupin Ltd,Year,2025,CFFINANCE,Cash Flow from Financing,Currency,INR,-12504.42857
+Lupin Ltd,Year,2025,CFINVEST,Cash Flow from Investing,Currency,INR,-8830.33333
+Lupin Ltd,Year,2025,NOSHAREOUT,Number of Shares Outstanding,Shares,,455.42222
+Lupin Ltd,Year,2025,ROC,Return on Capital,Percentage,,18.68006
+Lupin Ltd,Year,2025,DEPREC,Depreciation,Currency,INR,9954.13267
+Lupin Ltd,Year,2025,NWC,Net Working Capital,Currency,INR,76787.0
+Lupin Ltd,Year,2026,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,56881.88074
+Lupin Ltd,Year,2026,NWC,Net Working Capital,Currency,INR,94240.33333
+Lupin Ltd,Year,2026,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,46233.62945
+Lupin Ltd,Year,2026,ROC,Return on Capital,Percentage,,20.65283
+Lupin Ltd,Year,2026,TOTALLIAB,Total Liabilities ,Currency,INR,156969.1875
+Lupin Ltd,Year,2026,NOSHAREOUT,Number of Shares Outstanding,Shares,,455.42222
+Lupin Ltd,Year,2026,EPS,Earnings Per Share,Currency,INR,77.82875
+Lupin Ltd,Year,2026,CFFINANCE,Cash Flow from Financing,Currency,INR,-12734.26667
+Lupin Ltd,Year,2026,TOTDEBT,Total Debt,Currency,INR,17380.4
+Lupin Ltd,Year,2026,CFINVEST,Cash Flow from Investing,Currency,INR,-9356.6
+Lupin Ltd,Year,2026,SELLEXP,Selling & Marketing Expense,Currency,INR,50543.0
+Lupin Ltd,Year,2026,INVENTORY,Inventory,Currency,INR,60953.46154
+Lupin Ltd,Year,2026,EBITDAPS,EBITDA Per Share,Currency,INR,96.41
+Lupin Ltd,Year,2026,CFOPERAT,Cash Flow from Operations,Currency,INR,38891.0
+Lupin Ltd,Year,2026,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,40353.42105
+Lupin Ltd,Year,2026,DEPAMORT,Depreciation & Amortization,Currency,INR,10982.55877
+Lupin Ltd,Year,2026,CURRLIAB,Current Liabilities,Currency,INR,69716.0
+Lupin Ltd,Year,2026,GROSSINC,Gross Income,Currency,INR,170400.2
+Lupin Ltd,Year,2026,DPS,Dividend Per Share,Currency,INR,8.44686
+Lupin Ltd,Year,2026,FCF,Free Cash Flow,Currency,INR,28484.94006
+Lupin Ltd,Year,2026,CURRASSETS,Current Assets,Currency,INR,177565.90909
+Lupin Ltd,Year,2026,DEPREC,Depreciation,Currency,INR,15007.1666
+Lupin Ltd,Year,2026,EPSCASH,Cash EPS,Currency,INR,103.30344
+Lupin Ltd,Year,2026,COGS,Cost of Goods sold,Currency,INR,78365.8925
+Lupin Ltd,Year,2026,PPROFITREP,Reported Pretax Profit,Currency,INR,45658.81882
+Lupin Ltd,Year,2026,NPROFITREP,Reported Net Profit,Currency,INR,35937.36959
+Lupin Ltd,Year,2026,TAXRATE,Tax Rate,Percentage,,21.61429
+Lupin Ltd,Year,2026,PSR,Price/Sales Ratio,Percentage,,3.48
+Lupin Ltd,Year,2026,GPM,Gross Margin (Gross Profit Margin),Percentage,,68.37915
+Lupin Ltd,Year,2026,GOODWILL,Goodwill,Currency,INR,23250.06667
+Lupin Ltd,Year,2026,TAXPROV,Tax Provision,Currency,INR,9412.38095
+Lupin Ltd,Year,2026,ROIC,Return on Invested Capital,Percentage,,21.525
+Lupin Ltd,Year,2026,TOTDIV,Total Dividends,Currency,INR,4568.16667
+Lupin Ltd,Year,2026,FCFPS,Free Cash Flow Per Share,Currency,INR,63.07667
+Lupin Ltd,Year,2026,INCTAX,Income Taxes Paid,Currency,INR,9311.36364
+Lupin Ltd,Year,2026,TCOMPRATIO,Total Compensation Expense,Currency,INR,42798.27273
+Lupin Ltd,Year,2026,EV,Enterprise Value,Currency,INR,966870.4176
+Lupin Ltd,Year,2026,EBITDAREP,EBITDA Reported,Currency,INR,49262.20286
+Lupin Ltd,Year,2026,EBITA,EBITA,Currency,INR,37807.5
+Lupin Ltd,Year,2026,ROE,Return On Equity,Percentage,,19.435
+Lupin Ltd,Year,2026,NAVPS,NAV per Share,Currency,INR,394.488
+Lupin Ltd,Year,2026,ROA,Return on Assets,Percentage,,15.1305
+Lupin Ltd,Year,2026,SG&A,SG&A Expense,Currency,INR,53305.0
+Lupin Ltd,Year,2026,CFPS,Cash Flow Per Share,Currency,INR,82.48067
+Lupin Ltd,Year,2026,REV,Sales,Currency,INR,247865.27939
+Lupin Ltd,Year,2026,CAPEX,Capital Expenditures,Currency,INR,9951.40909
+Lupin Ltd,Year,2026,SBC,Stock Based Compensation,Currency,INR,0.0
+Lupin Ltd,Year,2026,PPROFIT,Pretax Profit,Currency,INR,45342.09817
+Lupin Ltd,Year,2026,TA,Total Assets,Currency,INR,275346.5
+Lupin Ltd,Year,2026,R&DEXP,R&D Expense,Currency,INR,19381.0
+Lupin Ltd,Year,2026,NPROFIT,Net Income,Currency,INR,35472.86228
+Lupin Ltd,Year,2026,SEQUITY,Shareholders Equity,Currency,INR,194545.23794
+Lupin Ltd,Year,2026,NDEBT,Net Debt,Currency,INR,-20678.09057
+Lupin Ltd,Year,2026,TBV,Tangible Book Value,Currency,INR,189481.853
+Lupin Ltd,Year,2026,NAV,Net Assets Value,Currency,INR,189762.09171
+Lupin Ltd,Year,2026,EPSREP,As Reported EPS,Currency,INR,78.72993
+Lupin Ltd,Year,2026,INTEXP,Interest Expense,Currency,INR,1996.52381
+Lupin Ltd,Year,2026,OPREXP,Operating Expense,Currency,INR,171239.25
+Lupin Ltd,Year,2026,BVPS,Book Value Per Share,Currency,INR,414.45682
+Lupin Ltd,Year,2027,TOTDIV,Total Dividends,Currency,INR,5133.35556
+Lupin Ltd,Year,2027,BVPS,Book Value Per Share,Currency,INR,510.32317
+Lupin Ltd,Year,2027,TAXPROV,Tax Provision,Currency,INR,10312.28571
+Lupin Ltd,Year,2027,OPREXP,Operating Expense,Currency,INR,158415.0
+Lupin Ltd,Year,2027,TAXRATE,Tax Rate,Percentage,,21.9
+Lupin Ltd,Year,2027,INTEXP,Interest Expense,Currency,INR,1575.85714
+Lupin Ltd,Year,2027,GPM,Gross Margin (Gross Profit Margin),Percentage,,68.01133
+Lupin Ltd,Year,2027,EPSREP,As Reported EPS,Currency,INR,83.13641
+Lupin Ltd,Year,2027,PPROFITREP,Reported Pretax Profit,Currency,INR,47941.87859
+Lupin Ltd,Year,2027,NAV,Net Assets Value,Currency,INR,202167.16925
+Lupin Ltd,Year,2027,SELLEXP,Selling & Marketing Expense,Currency,INR,55123.0
+Lupin Ltd,Year,2027,TBV,Tangible Book Value,Currency,INR,227379.818
+Lupin Ltd,Year,2027,DPS,Dividend Per Share,Currency,INR,9.61377
+Lupin Ltd,Year,2027,NDEBT,Net Debt,Currency,INR,-48176.38355
+Lupin Ltd,Year,2027,EPSCASH,Cash EPS,Currency,INR,115.6114
+Lupin Ltd,Year,2027,SEQUITY,Shareholders Equity,Currency,INR,230008.79392
+Lupin Ltd,Year,2027,CURRASSETS,Current Assets,Currency,INR,213508.125
+Lupin Ltd,Year,2027,TA,Total Assets,Currency,INR,307579.84615
+Lupin Ltd,Year,2027,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,64430.73333
+Lupin Ltd,Year,2027,NPROFIT,Net Income,Currency,INR,37286.29828
+Lupin Ltd,Year,2027,EBITDAPS,EBITDA Per Share,Currency,INR,104.61
+Lupin Ltd,Year,2027,R&DEXP,R&D Expense,Currency,INR,20685.6
+Lupin Ltd,Year,2027,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,46412.3753
+Lupin Ltd,Year,2027,SBC,Stock Based Compensation,Currency,INR,0.0
+Lupin Ltd,Year,2027,CURRLIAB,Current Liabilities,Currency,INR,75438.0
+Lupin Ltd,Year,2027,CFPS,Cash Flow Per Share,Currency,INR,93.55083
+Lupin Ltd,Year,2027,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,58655.37948
+Lupin Ltd,Year,2027,PPROFIT,Pretax Profit,Currency,INR,47155.92164
+Lupin Ltd,Year,2027,EPS,Earnings Per Share,Currency,INR,81.41542
+Lupin Ltd,Year,2027,CAPEX,Capital Expenditures,Currency,INR,10117.72222
+Lupin Ltd,Year,2027,TOTDEBT,Total Debt,Currency,INR,16075.25
+Lupin Ltd,Year,2027,REV,Sales,Currency,INR,263179.04228
+Lupin Ltd,Year,2027,TOTALLIAB,Total Liabilities ,Currency,INR,167687.41667
+Lupin Ltd,Year,2027,ROA,Return on Assets,Percentage,,13.68317
+Lupin Ltd,Year,2027,NAVPS,NAV per Share,Currency,INR,463.822
+Lupin Ltd,Year,2027,SG&A,SG&A Expense,Currency,INR,59682.0
+Lupin Ltd,Year,2027,EV,Enterprise Value,Currency,INR,944042.3996
+Lupin Ltd,Year,2027,INCTAX,Income Taxes Paid,Currency,INR,10390.375
+Lupin Ltd,Year,2027,EBITA,EBITA,Currency,INR,41267.5
+Lupin Ltd,Year,2027,EBITDAREP,EBITDA Reported,Currency,INR,51032.71
+Lupin Ltd,Year,2027,ROE,Return On Equity,Percentage,,17.20436
+Lupin Ltd,Year,2027,TCOMPRATIO,Total Compensation Expense,Currency,INR,46385.57143
+Lupin Ltd,Year,2027,ROIC,Return on Invested Capital,Percentage,,20.25
+Lupin Ltd,Year,2027,FCFPS,Free Cash Flow Per Share,Currency,INR,68.085
+Lupin Ltd,Year,2027,GOODWILL,Goodwill,Currency,INR,23250.1
+Lupin Ltd,Year,2027,FCF,Free Cash Flow,Currency,INR,33815.16154
+Lupin Ltd,Year,2027,PSR,Price/Sales Ratio,Percentage,,4.2
+Lupin Ltd,Year,2027,CFFINANCE,Cash Flow from Financing,Currency,INR,-10658.54546
+Lupin Ltd,Year,2027,CFINVEST,Cash Flow from Investing,Currency,INR,-11355.45455
+Lupin Ltd,Year,2027,CFOPERAT,Cash Flow from Operations,Currency,INR,44817.46667
+Lupin Ltd,Year,2027,COGS,Cost of Goods sold,Currency,INR,85161.0122
+Lupin Ltd,Year,2027,DEPAMORT,Depreciation & Amortization,Currency,INR,11516.15046
+Lupin Ltd,Year,2027,INVENTORY,Inventory,Currency,INR,65858.88889
+Lupin Ltd,Year,2027,NPROFITREP,Reported Net Profit,Currency,INR,38038.66981
+Lupin Ltd,Year,2027,DEPREC,Depreciation,Currency,INR,11864.7956
+Lupin Ltd,Year,2027,GROSSINC,Gross Income,Currency,INR,181947.5
+Lupin Ltd,Year,2027,NOSHAREOUT,Number of Shares Outstanding,Shares,,455.35
+Lupin Ltd,Year,2027,ROC,Return on Capital,Percentage,,19.74942
+Lupin Ltd,Year,2027,NWC,Net Working Capital,Currency,INR,118897.0
