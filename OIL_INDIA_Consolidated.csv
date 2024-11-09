@@ -1,0 +1,162 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+Oil India Ltd,67331,2,"2024-03-31",1,2,RREV,101657.8,Gross Revenue,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,10,SREV,101657.8,Revenue,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,31,RTLR,101657.8,Total Revenue,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,34,ECOR,43547.1,Cost of Revenue,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,35,EEXT,10187.7,Excise Taxes Payments,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,36,SCOR,53734.8,"Cost of Revenue, Total",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,37,SGRP,47923.0,Gross Profit,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,53,ELAR,5957.7,Labor & Related Expense,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,55,SSGA,5957.7,"Selling/General/Admin. Expenses, Total",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,57,EDEP,5762.8,Depreciation,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,60,SDPR,5762.8,Depreciation/Amortization,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,73,EUIE,-92.8,Other Unusual Expense (Income),M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,74,SUIE,-92.8,Unusual Expense (Income),M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,80,EOOE,9353.0,Other Operating Expense,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,82,SOOE,9353.0,"Other Operating Expenses, Total",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,83,ETOE,74715.5,Total Operating Expense,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,84,SOPI,26942.3,Operating Income,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,89,NINV,1248.2,Investment Income - Non-Operating,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,90,SIIN,1248.2,Interest/Invest Income -  Non-Operating,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,126,NONT,2093.1,Other Non-Operating Income (Expense),M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,127,SONT,2093.1,"Other, Net",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,128,EIBT,30283.6,Net Income Before Taxes,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,129,TTAX,6954.2,Provision for Income Taxes,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,130,TIAT,23329.4,Net Income After Taxes,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,131,CMIN,-1922.2,Minority Interest,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,134,NIBX,21407.2,Net Income Before Extra. Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,140,NINC,21407.2,Net Income,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,147,CIAC,21407.2,Income Available to Com Excl ExtraOrd,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,148,XNIC,21407.2,Income Available to Com Incl ExtraOrd,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,149,SBAS,1626.71517,Basic Weighted Average Shares,M,0,1
+Oil India Ltd,67331,2,"2024-03-31",1,150,SBBF,13.15977,Basic EPS Excluding Extraordinary Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,151,SBAI,13.15977,Basic EPS Including Extraordinary Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,153,SDNI,21407.2,Diluted Net Income,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,154,SDWS,1626.71517,Diluted Weighted Average Shares,M,0,1
+Oil India Ltd,67331,2,"2024-03-31",1,155,SDBF,13.15977,Diluted EPS Excluding ExtraOrd Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,156,SDAI,13.15977,Diluted EPS Including ExtraOrd Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,157,DDPS1,2.5,DPS - Common Stock Primary Issue,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,173,VDEP,5762.8,"Depreciation, Supplemental",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,175,STSI,-92.8,Total Special Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,176,VPTI,30190.8,Normalized Income Before Taxes,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,177,STEC,-21.31021,Effect of Special Items on Income Taxes,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,178,VITN,6932.88979,Inc Tax Ex Impact of Sp Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,179,VIAT,23257.91021,Normalized Income After Taxes,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,180,VIAC,21335.71021,Normalized Inc. Avail to Com.,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,181,VBES,13.11582,Basic Normalized EPS,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,182,VDES,13.11582,Diluted Normalized EPS,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,188,VEIA,3591.7,"Equity in Affiliates, Supplemental",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,189,VMIN,-1922.2,"Minority Interest, Supplemental",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,209,SGPP,47.14149,Gross Margin,M,0,1
+Oil India Ltd,67331,2,"2024-03-31",1,210,SOPP,26.50293,Operating Margin,M,0,1
+Oil India Ltd,67331,2,"2024-03-31",1,211,SPTM,29.78975,Pretax Margin,M,0,1
+Oil India Ltd,67331,2,"2024-03-31",1,212,SETR,22.96358,Effective Tax Rate,M,0,1
+Oil India Ltd,67331,2,"2024-03-31",1,213,SNPM,21.0581,Net Profit Margin,M,0,1
+Oil India Ltd,67331,2,"2024-03-31",1,214,SBIT,26849.5,Normalized EBIT,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,215,SBDA,32612.3,Normalized EBITDA,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,221,VCTR,7201.4,Current Tax - Total,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,222,VCTC,7201.4,Current Tax - Total,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,227,VDTR,-247.2,Deferred Tax - Total,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,228,VDTC,-247.2,Deferred Tax - Total,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,232,VOTO,0.0,Other Tax,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,233,VITT,6954.2,Income Tax - Total,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,999,SNIN,1248.2,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",1,1068,VLAR,5957.7,Labor & Related Expense Suppl.,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,834,ONET,88459.1,Net Income/Starting Line,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,835,SDEP,21289.8,Depreciation,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,837,SDED,21289.8,Depreciation/Depletion,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,846,OUIE,5718.1,Unusual Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,848,OEIA,-4570.8,Equity in Net Earnings (Loss),M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,849,ONCI,32004.3,Other Non-Cash Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,850,SNCI,33151.6,Non-Cash Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,853,SCTP,26791.1,Cash Taxes Paid,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,854,SCIP,8618.9,Cash Interest Paid,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,856,OACR,-5882.4,Accounts Receivable,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,857,OITL,5833.4,Inventories,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,858,OPPY,-1688.7,Prepaid Expenses,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,860,OAPB,-3631.9,Accounts Payable,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,864,OOLB,-1408.4,Other Liabilities,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,866,OOCF,-26791.1,Other Operating Cash Flow,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,880,SOCF,-33569.1,Changes in Working Capital,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,881,OTLO,109331.4,Cash from Operating Activities,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,882,ICEX,-120628.3,Purchase of Fixed Assets,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,885,SCEX,-120628.3,Capital Expenditures,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,890,IIVN,11788.4,"Investment, Net",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,891,IINP,-29293.5,Purchase of Investments,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,899,IICF,12121.3,Other Investing Cash Flow,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,900,SICF,-5383.8,"Other Investing Cash Flow Items, Total",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,901,ITLI,-126012.1,Cash from Investing Activities,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,905,FFCF,-8064.4,Other Financing Cash Flow,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,906,SFCF,-8064.4,Financing Cash Flow Items,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,907,FDPC,-21035.3,Cash Dividends Paid - Common,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,909,FCDP,-21035.3,Total Cash Dividends Paid,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,925,FLDI,48445.7,Long Term Debt Issued,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,926,FLDR,-2973.8,Long Term Debt Reduction,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,927,FLDN,45471.9,"Long Term Debt, Net",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,930,FPRD,45471.9,"Issuance (Retirement) of Debt, Net",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,931,FTLF,16372.2,Cash from Financing Activities,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,932,SFEE,4.8,Foreign Exchange Effects,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,933,SNCC,-303.7,Net Change in Cash,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,934,SNCB,3406.2,Net Cash - Beginning Balance,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,935,SNCE,3102.5,Net Cash - Ending Balance,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,1140,SCWC,-6778.0,Net Changes in Working Capital,M,1,1
+Oil India Ltd,67331,2,"2024-03-31",2,1172,VLLR,-2973.8,"Lease liability Reduced, Supplemental",M,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,437,ACAE,59373.1,Cash & Equivalents, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,438,ASTI,12872.3,Short Term Investments, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,439,SCSI,72245.4,Cash and Short Term Investments, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,440,AARG,33331.3,"Accounts Receivable - Trade, Gross", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,442,AACR,33331.3,"Accounts Receivable - Trade, Net", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,443,ASTR,583.6,Notes Receivable - Short Term, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,444,AORC,9506.0,Receivables - Other, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,445,ATRC,43420.9,"Total Receivables, Net", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,453,AITL,44857.2,Total Inventory, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,459,ADCA,7.2,Discontinued Operations - Current Asset, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,460,AOCA,6859.4,Other Current Assets, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,461,SOCA,6866.6,"Other Current Assets, Total", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,462,ATCA,167390.1,Total Current Assets, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,489,APPN,399413.5,"Property/Plant/Equipment, Total - Net", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,495,AINT,5437.3,"Intangibles, Net", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,502,AEQI,199177.3,LT Investment - Affiliate Companies, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,503,ALTI,137924.3,LT Investments - Other, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,504,SINV,337101.6,Long Term Investments, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,506,ALTR,6331.5,Note Receivable - Long Term, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,512,AOAS,5854.6,Other Long Term Assets, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,513,SOLA,5854.6,"Other Long Term Assets, Total", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,523,ATOT,921528.6,Total Assets, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,524,LAPB,17114.0,Accounts Payable, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,547,LSTD,18.2,Notes Payable/Short Term Debt, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,548,LCLD,45437.8,Current Port. of  LT Debt/Capital Leases, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,552,LTXP,4491.5,Income Taxes Payable, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,556,LOCL,76507.7,Other Current Liabilities, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,557,SOCL,80999.2,"Other Current liabilities, Total", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,558,LTCL,143569.2,Total Current Liabilities, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,559,LLTD,192838.9,Long Term Debt, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,560,LCLO,2110.1,Capital Lease Obligations, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,561,LTTD,194949.0,Total Long Term Debt, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,562,STLD,240405.0,Total Debt, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,563,LBDT,31999.5,Deferred Income Tax - LT Liability, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,565,SBDT,31999.5,Deferred Income Tax, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,566,LMIN,42867.0,Minority Interest, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,567,LRSV,13597.5,Reserves, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,569,LLTL,11156.5,Other Long Term Liabilities, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,572,SLTL,24754.0,"Other Liabilities, Total", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,573,LTLL,438138.7,Total Liabilities, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,582,QCMS,10844.1,Common Stock, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,584,SCMS,10844.1,"Common Stock, Total", ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,586,QRED,472545.8,Retained Earnings (Accumulated Deficit), ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,595,QTLE,483389.9,Total Equity, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,596,QTEL,921528.6,Total Liabilities & Shareholders' Equity, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,597,QCSO1,1626.59966,Shares Outs - Common Stock Primary Issue, ,0,1
+Oil India Ltd,67331,2,"2024-03-31",3,601,QTCO,1626.59966,Total Common Shares Outstanding, ,0,1
+Oil India Ltd,67331,2,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+Oil India Ltd,67331,2,"2024-03-31",3,633,SCUI,122532.9,Total Current Assets less Inventory, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,634,SQCK,0.85348,Quick Ratio, ,0,1
+Oil India Ltd,67331,2,"2024-03-31",3,635,SCUR,1.16592,Current Ratio, ,0,1
+Oil India Ltd,67331,2,"2024-03-31",3,636,SNTD,211026.6,Net Debt, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,637,STBV,477952.6,Tangible Book Value, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,638,STBP,293.83542,Tangible Book Value per Share, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,1056,QTLL,526256.9,Total Equity & Minority Interest, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,1057,VMNR,42867.0,Minority Interest - Non Redeemable, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,1060,VINT,5437.3,Intangibles - Net, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,1061,VPPN,399413.5,Other Property/Plant/Equipment - Net, ,1,1
+Oil India Ltd,67331,2,"2024-03-31",3,1123,VLCC,1892.4,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
