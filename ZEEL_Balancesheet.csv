@@ -1,0 +1,103 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,436,ACSH,11131.0,Cash, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,438,ASTI,32.0,Short Term Investments, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,439,SCSI,11163.0,Cash and Short Term Investments, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,440,AARG,24960.0,"Accounts Receivable - Trade, Gross", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,441,APDA,-5047.0,Provision for Doubtful Accounts, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,442,AACR,19913.0,"Accounts Receivable - Trade, Net", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,443,ASTR,0.0,Notes Receivable - Short Term, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,444,AORC,9543.0,Receivables - Other, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,445,ATRC,29456.0,"Total Receivables, Net", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,449,AIOT,69129.0,Inventories - Other, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,453,AITL,69129.0,Total Inventory, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,454,APPY,750.0,Prepaid Expenses, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,455,ARCA,769.0,Restricted Cash - Current, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,460,AOCA,165.0,Other Current Assets, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,461,SOCA,934.0,"Other Current Assets, Total", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,462,ATCA,111432.0,Total Current Assets, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,480,APBC,3647.0,Buildings - Gross, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,482,AMEC,7641.0,Machinery/Equipment - Gross, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,483,ACPC,93.0,Construction in Progress - Gross, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,486,AOPC,5583.0,Other Property/Plant/Equipment - Gross, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,487,APTC,16964.0,"Property/Plant/Equipment, Total - Gross", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,488,ADEP,-10473.0,"Accumulated Depreciation, Total", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,489,APPN,6491.0,"Property/Plant/Equipment, Total - Net", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,490,AGWG,3990.0,Goodwill - Gross, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,491,AAGA,-687.0,Accumulated Goodwill Amortization, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,492,AGWI,3303.0,"Goodwill, Net", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,493,AING,7844.0,Intangibles - Gross, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,494,AAMT,-5991.0,Accumulated Intangible Amortization, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,495,AINT,1853.0,"Intangibles, Net", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,502,AEQI,23.0,LT Investment - Affiliate Companies, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,503,ALTI,858.0,LT Investments - Other, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,504,SINV,881.0,Long Term Investments, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,506,ALTR,4494.0,Note Receivable - Long Term, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,507,ADFC,52.0,Deferred Charges, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,509,ADTA,4542.0,Defered Income Tax - Long Term Asset, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,510,ADOA,846.0,Discontinued Operations - LT Asset, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,512,AOAS,603.0,Other Long Term Assets, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,513,SOLA,6043.0,"Other Long Term Assets, Total", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,523,ATOT,134497.0,Total Assets, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,524,LAPB,14356.0,Accounts Payable, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,526,LAEX,1899.0,Accrued Expenses, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,547,LSTD,0.0,Notes Payable/Short Term Debt, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,548,LCLD,682.0,Current Port. of  LT Debt/Capital Leases, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,549,LDPB,49.0,Dividends Payable, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,550,LCAV,3298.0,Customer Advances, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,551,LSDP,170.0,Security Deposits, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,552,LTXP,12.0,Income Taxes Payable, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,553,LOPB,1993.0,Other Payables, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,557,SOCL,5522.0,"Other Current liabilities, Total", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,558,LTCL,22459.0,Total Current Liabilities, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,560,LCLO,1621.0,Capital Lease Obligations, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,561,LTTD,1621.0,Total Long Term Debt, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,562,STLD,2303.0,Total Debt, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,566,LMIN,0.0,Minority Interest, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,568,LPBL,1671.0,Pension Benefits - Underfunded, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,569,LLTL,1.0,Other Long Term Liabilities, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,570,LDOL,18.0,Discontinued Operations - Liabilities, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,572,SLTL,1690.0,"Other Liabilities, Total", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,573,LTLL,25770.0,Total Liabilities, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,582,QCMS,961.0,Common Stock, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,584,SCMS,961.0,"Common Stock, Total", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,586,QRED,104466.0,Retained Earnings (Accumulated Deficit), ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,591,QOTE,-53.0,Other Equity, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,593,QCOM,3353.0,Other Comprehensive Income, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,594,SOTE,3300.0,"Other Equity, Total", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,595,QTLE,108727.0,Total Equity, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,596,QTEL,134497.0,Total Liabilities & Shareholders' Equity, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,597,QCSO1,960.51942,Shares Outs - Common Stock Primary Issue, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,601,QTCO,960.51942,Total Common Shares Outstanding, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,619,METL,3065.0,Employees, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,621,MNOS,644578.0,Number of Common Shareholders, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,622,VAGA,687.0,Accumulated Goodwill Amortization Suppl., ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,623,VAIA,5991.0,"Accumulated Intangible Amort, Suppl.", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,624,VADC,3298.0,Deferred Revenue - Current, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,633,SCUI,42303.0,Total Current Assets less Inventory, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,634,SQCK,1.88357,Quick Ratio, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,635,SCUR,4.96157,Current Ratio, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,636,SNTD,-8860.0,Net Debt, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,637,STBV,103571.0,Tangible Book Value, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,638,STBP,107.82812,Tangible Book Value per Share, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,663,VTCL,2248.0,"Total Capital Leases, Supplemental", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,664,SCL1,659.0,Capital Lease Payments Due in Year 1, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,665,SCL2,397.25,Capital Lease Payments Due in Year 2, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,666,SCL3,397.25,Capital Lease Payments Due in Year 3, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,667,SCL4,397.25,Capital Lease Payments Due in Year 4, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,668,SCL5,397.25,Capital Lease Payments Due in Year 5, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,674,SCL23,794.5,Capital Lease Payments Due in 2-3 Years, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,675,SCL45,794.5,Capital Lease Payments Due in 4-5 Years, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,676,SCL6B,0.0,Cap. Lease Pymts. Due in Year 6 & Beyond, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,703,VPUF,1615.0,Unfunded Plan Obligations, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,704,VFSS,-1615.0,Total Funded Status, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,705,VDRD,7.09,Discount Rate - Domestic, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,711,VRCD,8.5,Compensation Rate - Domestic, ,0,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,723,VALD,-1615.0,Accrued Liabilities - Domestic, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,732,VARS,-1615.0,Net Assets Recognized on Balance Sheet, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,749,STPO,1615.0,Total Plan Obligations, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,1056,QTLL,108727.0,Total Equity & Minority Interest, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,1057,VMNR,0.0,Minority Interest - Non Redeemable, ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,1123,VLCC,682.0,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,1124,VUCD,1662.0,"Right-of-Use Assets-Cap.Lease,Depr.-Sup.", ,1,1
+Zee Entertainment Enterprises Limited,21595,1,"2024-03-31",3,1128,VUCG,3704.0,"Right-of-Use Assets-Cap.Lease,Gross-Sup.", ,1,1
