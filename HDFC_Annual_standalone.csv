@@ -1,0 +1,135 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,18,RFLI,2072200.137,Interest & Fees on Loans,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,19,RISI,443642.848,Interest & Dividends on Investment Secs.,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,21,RDPT,20404.735,Interest on Deposits,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,22,ROII,47158.035,Other Interest Income,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,25,SIIB,2583405.755,"Interest Income, Bank",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,40,EIOD,994329.551,Interest on Deposit,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,41,EIOB,503751.457,Interest on Other Borrowings,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,43,STIE,1498081.008,Total Interest Expense,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,44,ENII,1085324.747,Net Interest Income,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,45,ELLP,234820.016,Loan Loss Provision,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,46,SIAP,850504.731,Net Interest Inc. After Loan Loss Prov.,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,101,NSGL,105826.427,Investment Securities Gains,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,103,NUGG,9434.922,Unrealized Gains,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,105,NUII,1983.223,Other Unusual Income,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,106,NORU,375165.422,Other Revenue,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,107,SNII,492409.994,"Non-Interest Income, Bank",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,108,NLAR,-222402.099,Labor & Related Expenses,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,109,NDEP,-28100.988,Depreciation Expense,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,119,NUIE,-101.5,Other Unusual Expense,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,121,NOEX,-383357.153,Other Expense,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,122,SNIE,-633961.74,"Non-Interest Expense, Bank",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,128,EIBT,708952.985,Net Income Before Taxes,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,129,TTAX,100830.2,Provision for Income Taxes,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,130,TIAT,608122.785,Net Income After Taxes,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,134,NIBX,608122.785,Net Income Before Extra. Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,140,NINC,608122.785,Net Income,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,147,CIAC,608122.785,Income Available to Com Excl ExtraOrd,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,148,XNIC,608122.785,Income Available to Com Incl ExtraOrd,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,149,SBAS,7084.80744,Basic Weighted Average Shares,M,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,150,SBBF,85.83477,Basic EPS Excluding Extraordinary Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,151,SBAI,85.83477,Basic EPS Including Extraordinary Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,153,SDNI,608122.785,Diluted Net Income,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,154,SDWS,7117.25315,Diluted Weighted Average Shares,M,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,155,SDBF,85.44347,Diluted EPS Excluding ExtraOrd Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,156,SDAI,85.44347,Diluted EPS Including ExtraOrd Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,157,DDPS1,19.5,DPS - Common Stock Primary Issue,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,173,VDEP,28100.988,"Depreciation, Supplemental",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,175,STSI,-1881.723,Total Special Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,176,VPTI,707071.262,Normalized Income Before Taxes,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,177,STEC,-267.62636,Effect of Special Items on Income Taxes,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,178,VITN,100562.57364,Inc Tax Ex Impact of Sp Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,179,VIAT,606508.68836,Normalized Income After Taxes,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,180,VIAC,606508.68836,Normalized Inc. Avail to Com.,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,181,VBES,85.60694,Basic Normalized EPS,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,182,VDES,85.21668,Diluted Normalized EPS,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,211,SPTM,27.44257,Pretax Margin,M,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,212,SETR,14.22241,Effective Tax Rate,M,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,213,SNPM,23.53958,Net Profit Margin,M,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,216,SBTR,1577734.741,Bank Total Revenue,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,221,VCTR,129684.0,Current Tax - Total,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,222,VCTC,129684.0,Current Tax - Total,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,227,VDTR,-28853.8,Deferred Tax - Total,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,228,VDTC,-28853.8,Deferred Tax - Total,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",1,233,VITT,100830.2,Income Tax - Total,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,834,ONET,708953.051,Net Income/Starting Line,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,835,SDEP,28100.988,Depreciation,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,837,SDED,28100.988,Depreciation/Depletion,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,846,OUIE,-74152.411,Unusual Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,849,ONCI,137772.869,Other Non-Cash Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,850,SNCI,63620.458,Non-Cash Items,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,853,SCTP,198437.376,Cash Taxes Paid,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,855,OLLP,107748.189,Loan Loss Provision,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,859,OOAS,-292254.127,Other Assets,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,864,OOLB,3384631.742,Other Liabilities,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,866,OOCF,-144348.68,Other Operating Cash Flow,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,867,OINV,-557771.108,"Investment Securities, Gains/Losses",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,868,OLOA,-2894442.171,"Loans, Gains/Losses",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,880,SOCF,-396436.155,Changes in Working Capital,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,881,OTLO,404238.342,Cash from Operating Activities,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,882,ICEX,-38348.94,Purchase of Fixed Assets,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,885,SCEX,-38348.94,Capital Expenditures,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,888,ISFA,960.042,Sale of Fixed Assets,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,889,IINS,95006.717,Sale/Maturity of Investment,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,899,IICF,13323.911,Other Investing Cash Flow,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,900,SICF,109290.67,"Other Investing Cash Flow Items, Total",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,901,ITLI,70941.73,Cash from Investing Activities,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,907,FDPC,-84044.222,Cash Dividends Paid - Common,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,909,FCDP,-84044.222,Total Cash Dividends Paid,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,910,FSIC,52497.323,Sale/Issuance of Common,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,912,FCSN,52497.323,"Common Stock, Net",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,919,FWCV,31928.121,Warrants Converted,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,921,FPSS,84425.444,"Issuance (Retirement) of Stock, Net",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,928,FTDI,0.0,Total Debt Issued,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,929,FTDR,-222750.573,Total Debt Reduction,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,930,FPRD,-222750.573,"Issuance (Retirement) of Debt, Net",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,931,FTLF,-222369.351,Cash from Financing Activities,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,932,SFEE,1012.629,Foreign Exchange Effects,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,933,SNCC,253823.35,Net Change in Cash,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,934,SNCB,1937650.831,Net Cash - Beginning Balance,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,935,SNCE,2191474.181,Net Cash - Ending Balance,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,1140,SCWC,-252087.475,Net Changes in Working Capital,M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",2,1174,VSPY,15474.04,"Share Based Payments,  Supplemental",M,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,463,ACDB,2191474.181,Cash & Due from Banks, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,471,ASEC,7024149.587,Total Investment Securities, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,475,SOEA,7024149.587,"Other Earning Assets, Total", ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,479,ANTL,24848615.188,Net Loans, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,489,APPN,113989.878,"Property/Plant/Equipment, Total - Net", ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,521,AOAT,1998002.035,Other Assets, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,522,SOAT,1998002.035,"Other Assets, Total", ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,523,ATOT,36176230.869,Total Assets, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,538,LDBT,23797862.764,Total Deposits, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,559,LLTD,6621530.751,Long Term Debt, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,561,LTTD,6621530.751,Total Long Term Debt, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,562,STLD,6621530.751,Total Debt, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,571,LOLB,1354379.303,Other Liabilities, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,572,SLTL,1354379.303,"Other Liabilities, Total", ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,573,LTLL,31773772.818,Total Liabilities, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,582,QCMS,7596.911,Common Stock, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,584,SCMS,7596.911,"Common Stock, Total", ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,586,QRED,4368333.979,Retained Earnings (Accumulated Deficit), ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,588,QEDG,26527.161,ESOP Debt Guarantee, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,595,QTLE,4402458.051,Total Equity, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,596,QTEL,36176230.869,Total Liabilities & Shareholders' Equity, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,597,QCSO1,7596.91066,Shares Outs - Common Stock Primary Issue, ,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,601,QTCO,7596.91066,Total Common Shares Outstanding, ,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,626,VRWC,24680280.6,Total Risk-Weighted Capital, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,627,VRTO,16.79,Capital Adequacy-Tier 1 Capital %, ,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,628,VRTC,18.8,Total Capital %, ,0,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,631,VRUQ,311733.2,Non-Performing Loans, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,637,STBV,4402458.051,Tangible Book Value, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,638,STBP,579.50636,Tangible Book Value per Share, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1056,QTLL,4402458.051,Total Equity & Minority Interest, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1061,VPPN,113989.878,Other Property/Plant/Equipment - Net, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1088,VRT2,2.01,Capital Adequacy - Tier 2 Capital %, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1089,VRV1,4142813.2,Capital Adequacy -Tier 1 Capital (Value), ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1090,VRV2,497215.0,Capital Adequacy -Tier 2 Capital (Value), ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1091,VRVT,4640028.2,Capital Adequacy - Total Capital (Value), ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1094,VRVC,4022318.2,Capital Adequacy - Core Tier 1 (Value), ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1098,VRC1,16.3,Capital Adequacy - Core Tier 1 Capital %, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1100,VRLC,114.73,Liquidity Coverage Ratio (Basel 3), ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1104,VRVH,120495.0,Capital Adequacy - Hybrid Tier 1 (Value), ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1178,VGNR,311733.2,Loans - Gross Non-Performing-As Reported, ,1,0
+HDFC Bank Ltd (Parent),67635,1,"2024-03-31",3,1179,VGRT,311733.2,Non-Perform Asst-Oth than Loans- As Rep , ,1,0
