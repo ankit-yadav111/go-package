@@ -1,0 +1,170 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+HDFC Bank Ltd,26006,2,"2024-03-31",1,18,RFLI,611026.8,Interest & Fees on Loans,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,19,RISI,159827.3,Interest & Dividends on Investment Secs.,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,21,RDPT,8245.7,Interest on Deposits,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,22,ROII,15236.3,Other Interest Income,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,25,SIIB,794336.1,"Interest Income, Bank",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,40,EIOD,436915.1,Interest on Deposit,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,43,STIE,436915.1,Total Interest Expense,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,44,ENII,357421.0,Net Interest Income,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,45,ELLP,138105.4,Loan Loss Provision,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,46,SIAP,219315.6,Net Interest Inc. After Loan Loss Prov.,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,106,NORU,449577.4,Other Revenue,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,107,SNII,449577.4,"Non-Interest Income, Bank",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,108,NLAR,-94225.9,Labor & Related Expenses,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,121,NOEX,-397053.2,Other Expense,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,122,SNIE,-491279.1,"Non-Interest Expense, Bank",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,128,EIBT,177613.9,Net Income Before Taxes,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,129,TTAX,-2514.8,Provision for Income Taxes,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,130,TIAT,180128.7,Net Income After Taxes,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,131,CMIN,-3904.9,Minority Interest,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,134,NIBX,176223.8,Net Income Before Extra. Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,140,NINC,176223.8,Net Income,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,147,CIAC,176223.8,Income Available to Com Excl ExtraOrd,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,148,XNIC,176223.8,Income Available to Com Incl ExtraOrd,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,149,SBAS,7591.80163,Basic Weighted Average Shares,M,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,150,SBBF,23.21238,Basic EPS Excluding Extraordinary Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,151,SBAI,23.21238,Basic EPS Including Extraordinary Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,153,SDNI,176223.8,Diluted Net Income,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,154,SDWS,7615.99958,Diluted Weighted Average Shares,M,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,155,SDBF,23.13863,Diluted EPS Excluding ExtraOrd Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,156,SDAI,23.13863,Diluted EPS Including ExtraOrd Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,157,DDPS1,19.5,DPS - Common Stock Primary Issue,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,165,DCGD,148139.8,Gross Dividends - Common Stock,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,176,VPTI,177613.9,Normalized Income Before Taxes,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,178,VITN,-2514.8,Inc Tax Ex Impact of Sp Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,179,VIAT,180128.7,Normalized Income After Taxes,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,180,VIAC,176223.8,Normalized Inc. Avail to Com.,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,181,VBES,23.21238,Basic Normalized EPS,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,182,VDES,23.13863,Diluted Normalized EPS,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,189,VMIN,-3904.9,"Minority Interest, Supplemental",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,211,SPTM,22.36004,Pretax Margin,M,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,212,SETR,-1.41588,Effective Tax Rate,M,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,213,SNPM,22.18504,Net Profit Margin,M,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,216,SBTR,806998.4,Bank Total Revenue,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",1,311,MNIO,3.4,"Net Interest Margin, Total -%",M,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,834,ONET,751841.4,Net Income/Starting Line,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,835,SDEP,30920.8,Depreciation,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,837,SDED,30920.8,Depreciation/Depletion,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,846,OUIE,-74167.8,Unusual Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,849,ONCI,151760.5,Other Non-Cash Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,850,SNCI,77592.7,Non-Cash Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,853,SCTP,228428.4,Cash Taxes Paid,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,855,OLLP,125400.5,Loan Loss Provision,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,859,OOAS,-311972.6,Other Assets,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,864,OOLB,3791133.7,Other Liabilities,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,866,OOCF,-116611.3,Other Operating Cash Flow,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,867,OINV,-953687.7,"Investment Securities, Gains/Losses",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,868,OLOA,-3092107.0,"Loans, Gains/Losses",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,880,SOCF,-557844.4,Changes in Working Capital,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,881,OTLO,302510.5,Cash from Operating Activities,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,882,ICEX,-42867.2,Purchase of Fixed Assets,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,885,SCEX,-42867.2,Capital Expenditures,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,888,ISFA,998.2,Sale of Fixed Assets,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,889,IINS,95006.7,Sale/Maturity of Investment,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,900,SICF,96004.9,"Other Investing Cash Flow Items, Total",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,901,ITLI,53137.7,Cash from Investing Activities,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,905,FFCF,12016.6,Other Financing Cash Flow,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,906,SFCF,12016.6,Financing Cash Flow Items,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,907,FDPC,-84044.2,Cash Dividends Paid - Common,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,909,FCDP,-84044.2,Total Cash Dividends Paid,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,910,FSIC,52497.3,Sale/Issuance of Common,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,912,FCSN,52497.3,"Common Stock, Net",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,919,FWCV,31928.1,Warrants Converted,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,921,FPSS,84425.4,"Issuance (Retirement) of Stock, Net",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,925,FLDI,23500.0,Long Term Debt Issued,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,926,FLDR,-2300.0,Long Term Debt Reduction,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,927,FLDN,21200.0,"Long Term Debt, Net",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,929,FTDR,-73428.4,Total Debt Reduction,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,930,FPRD,-52228.4,"Issuance (Retirement) of Debt, Net",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,931,FTLF,-39830.6,Cash from Financing Activities,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,932,SFEE,1049.4,Foreign Exchange Effects,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,933,SNCC,316867.0,Net Change in Cash,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,934,SNCB,1971478.1,Net Cash - Beginning Balance,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,935,SNCE,2288345.1,Net Cash - Ending Balance,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,1140,SCWC,-441233.1,Net Changes in Working Capital,M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",2,1174,VSPY,17317.3,"Share Based Payments,  Supplemental",M,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,463,ACDB,2125846.3,Cash & Due from Banks, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,465,AFFS,215731.6,FedFundsSold/ScrtyPurch UnderResaleAgrmt, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,468,AOTI,2941618.9,Other Short Term Investments, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,469,ASHM,6551149.1,Securities Held, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,470,ASFS,562048.3,Securities for Sale, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,471,ASEC,7113197.4,Total Investment Securities, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,475,SOEA,10270547.9,"Other Earning Assets, Total", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,479,ANTL,25605681.3,Net Loans, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,480,APBC,50546.2,Buildings - Gross, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,486,AOPC,252117.1,Other Property/Plant/Equipment - Gross, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,487,APTC,302663.3,"Property/Plant/Equipment, Total - Gross", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,488,ADEP,-176625.7,"Accumulated Depreciation, Total", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,489,APPN,126037.6,"Property/Plant/Equipment, Total - Net", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,492,AGWI,0.0,"Goodwill, Net", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,502,AEQI,2000.0,LT Investment - Affiliate Companies, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,504,SINV,2000.0,Long Term Investments, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,509,ADTA,93019.6,Defered Income Tax - Long Term Asset, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,513,SOLA,93019.6,"Other Long Term Assets, Total", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,519,AIRC,254729.7,Interest Receivable, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,521,AOAT,1824080.2,Other Assets, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,522,SOAT,2078809.9,"Other Assets, Total", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,523,ATOT,40301942.6,Total Assets, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,526,LAEX,238534.3,Accrued Expenses, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,535,LNID,3077766.7,Non-Interest Bearing Deposits, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,536,LIBD,20691106.1,Interest Bearing Deposits, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,538,LDBT,23768872.8,Total Deposits, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,545,LOTB,139325.6,Other Short Term Borrowings, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,546,LSTB,139325.6,Total Short Term Borrowings, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,559,LLTD,7306154.6,Long Term Debt, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,561,LTTD,7306154.6,Total Long Term Debt, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,562,STLD,7445480.2,Total Debt, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,566,LMIN,133834.0,Minority Interest, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,567,LRSV,110051.5,Reserves, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,571,LOLB,4041217.3,Other Liabilities, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,572,SLTL,4151268.8,"Other Liabilities, Total", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,573,LTLL,35737990.1,Total Liabilities, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,582,QCMS,7596.9,Common Stock, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,584,SCMS,7596.9,"Common Stock, Total", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,585,QPIC,1270532.7,Additional Paid-In Capital, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,586,QRED,3242134.8,Retained Earnings (Accumulated Deficit), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,588,QEDG,26527.2,ESOP Debt Guarantee, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,590,QCTA,8837.9,Translation Adjustment, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,593,QCOM,8323.0,Other Comprehensive Income, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,594,SOTE,17160.9,"Other Equity, Total", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,595,QTLE,4563952.5,Total Equity, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,596,QTEL,40301942.6,Total Liabilities & Shareholders' Equity, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,597,QCSO1,7596.91066,Shares Outs - Common Stock Primary Issue, ,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,601,QTCO,7596.91066,Total Common Shares Outstanding, ,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,619,METL,213527.0,Employees, ,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,621,MNOS,4121815.0,Number of Common Shareholders, ,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,626,VRWC,26088433.3,Total Risk-Weighted Capital, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,627,VRTO,16.6,Capital Adequacy-Tier 1 Capital %, ,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,628,VRTC,18.52,Total Capital %, ,0,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,629,VRUA,271604.9,Trading Account, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,630,VRUF,30227225.6,Credit Exposure, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,631,VRUQ,328086.8,Non-Performing Loans, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,632,VRUZ,1373430.0,Assets under Management, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,637,STBV,4563952.5,Tangible Book Value, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,638,STBP,600.76427,Tangible Book Value per Share, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,677,VTOL,198699.0,"Total Operating Leases, Supplemental", ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,678,SOL1,21216.0,Operating Lease Payments Due in Year 1, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,679,SOL2,19434.95,Operating Lease Payments Due in Year 2, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,680,SOL3,19434.95,Operating Lease Payments Due in Year 3, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,681,SOL4,19434.95,Operating Lease Payments Due in Year 4, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,682,SOL5,19434.95,Operating Lease Payments Due in Year 5, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,688,SOL23,38869.9,Operating Lease Pymts. Due in 2-3 Years, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,689,SOL45,38869.9,Operating Lease Pymts. Due in 4-5 Years, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,690,SOL6B,99743.2,Oper. Lse. Pymts. Due in Year 6 & Beyond, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1056,QTLL,4697786.5,Total Equity & Minority Interest, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1057,VMNR,133834.0,Minority Interest - Non Redeemable, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1059,VGWI,0.0,Goodwill - Net, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1088,VRT2,1.92,Capital Adequacy - Tier 2 Capital %, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1089,VRV1,4331083.9,Capital Adequacy -Tier 1 Capital (Value), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1090,VRV2,500536.0,Capital Adequacy -Tier 2 Capital (Value), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1091,VRVT,4831619.9,Capital Adequacy - Total Capital (Value), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1094,VRVC,4210588.9,Capital Adequacy - Core Tier 1 (Value), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1096,VRLR,10.57,Leverage Ratio (Basel 3), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1098,VRC1,16.14,Capital Adequacy - Core Tier 1 Capital %, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1100,VRLC,115.17,Liquidity Coverage Ratio (Basel 3), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1104,VRVH,120495.0,Capital Adequacy - Hybrid Tier 1 (Value), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1106,VRSF,120.81,Net Stable Funding Ratio (Basel 3), ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1178,VGNR,328086.8,Loans - Gross Non-Performing-As Reported, ,1,1
+HDFC Bank Ltd,26006,2,"2024-03-31",3,1179,VGRT,328086.8,Non-Perform Asst-Oth than Loans- As Rep , ,1,1
