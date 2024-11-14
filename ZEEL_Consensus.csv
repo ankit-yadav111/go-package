@@ -1,0 +1,211 @@
+"Ticker","Name_","Type_","Period_","EffectiveDate","ExpireDate","Measure_Code","Measure_Desc","UnitType","Curr","Value_","NumIncEsts"
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,BVPS,Book Value Per Share,Currency,INR,119.19389,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,CFPS,Cash Flow Per Share,Currency,INR,11.207,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,EPSCASH,Cash EPS,Currency,INR,11.22,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,DPS,Dividend Per Share,Currency,INR,2.11583,12
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,9946.69039,13
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 13:30:00.000,,EBITDAPS,EBITDA Per Share,Currency,INR,13.63,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,13304.641,16
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,EPS,Earnings Per Share,Currency,INR,8.28087,15
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,EPSREP,As Reported EPS,Currency,INR,8.1601,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,NAV,Net Assets Value,Currency,INR,111718.4856,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,NDEBT,Net Debt,Currency,INR,-15695.1558,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,NPROFIT,Net Income,Currency,INR,7944.07556,16
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-08-01 09:19:00.000,,OPROFIT,Operating Profit,Currency,INR,15381.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,PPROFIT,Pretax Profit,Currency,INR,10920.63679,14
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,ROA,Return on Assets,Percentage,,4.763,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,ROE,Return On Equity,Percentage,,7.06687,15
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,REV,Sales,Currency,INR,88282.05419,16
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,EV,Enterprise Value,Currency,INR,105136.955,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,CAPEX,Capital Expenditures,Currency,INR,3222.93975,12
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 13:30:00.000,,FCFPS,Free Cash Flow Per Share,Currency,INR,10.7475,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,NPROFITREP,Reported Net Profit,Currency,INR,7759.92333,12
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,GPM,Gross Margin (Gross Profit Margin),Percentage,,55.86,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,PPROFITREP,Reported Pretax Profit,Currency,INR,10747.8,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 07:32:00.000,,OPREXP,Operating Expense,Currency,INR,55349.2,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 11:16:00.000,,INTEXP,Interest Expense,Currency,INR,418.81818,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,SEQUITY,Shareholders Equity,Currency,INR,115143.83333,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 11:16:00.000,,TA,Total Assets,Currency,INR,127565.55556,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,NAVPS,NAV per Share,Currency,INR,118.304,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-14 08:04:00.000,,SG&A,SG&A Expense,Currency,INR,17004.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-20 18:56:00.000,,TCOMPRATIO,Total Compensation Expense,Currency,INR,9686.6,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 11:16:00.000,,CFFINANCE,Cash Flow from Financing,Currency,INR,48.625,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 11:16:00.000,,CFINVEST,Cash Flow from Investing,Currency,INR,-3485.44444,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 11:16:00.000,,CFOPERAT,Cash Flow from Operations,Currency,INR,8498.54546,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-19 19:33:00.000,,COGS,Cost of Goods sold,Currency,INR,48645.25,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,DEPAMORT,Depreciation & Amortization,Currency,INR,3321.18625,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,DEPREC,Depreciation,Currency,INR,2940.05444,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 13:30:00.000,,EBITA,EBITA,Currency,INR,10117.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 13:30:00.000,,EBITDAREP,EBITDA Reported,Currency,INR,14595.335,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,FCF,Free Cash Flow,Currency,INR,6754.96192,12
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 11:16:00.000,,GROSSINC,Gross Income,Currency,INR,40619.75,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-11-12 09:30:00.000,,GOODWILL,Goodwill,Currency,INR,2642.32,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 10:05:00.000,,INVENTORY,Inventory,Currency,INR,67274.33333,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 07:34:00.000,,INCTAX,Income Taxes Paid,Currency,INR,2862.16667,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-19 19:33:00.000,,NOSHAREOUT,Number of Shares Outstanding,Shares,,960.74,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 22:31:52.353,,NWC,Net Working Capital,Currency,INR,207781.75,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 13:30:00.000,,ORGANICSAL,Organic Sales Growth,Percentage,,6.28,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-28 15:32:00.000,,PSR,Price/Sales Ratio,Percentage,,1.88,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-19 19:33:00.000,,ROIC,Return on Invested Capital,Percentage,,7.83333,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-22 05:23:00.000,,ROC,Return on Capital,Percentage,,8.77109,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-20 18:57:00.000,,TOTDIV,Total Dividends,Currency,INR,1944.24,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 10:05:00.000,,TAXPROV,Tax Provision,Currency,INR,2850.1,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 13:30:00.000,,TAXRATE,Tax Rate,Percentage,,26.87333,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 11:16:00.000,,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,15937.44444,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 07:34:00.000,,CURRASSETS,Current Assets,Currency,INR,119741.8,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-21 07:34:00.000,,CURRLIAB,Current Liabilities,Currency,INR,22878.5,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-10-20 18:57:00.000,,TOTDEBT,Total Debt,Currency,INR,2586.0,3
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-05-21 06:57:00.000,,ADREVENUE,Advertisement Revenue,Currency,INR,43417.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2025,2024-08-01 10:36:00.000,,TOTALLIAB,Total Liabilities ,Currency,INR,122792.0,3
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,BVPS,Book Value Per Share,Currency,INR,127.06733,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-22 05:23:00.000,,CFPS,Cash Flow Per Share,Currency,INR,12.974,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,EPSCASH,Cash EPS,Currency,INR,13.56,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,DPS,Dividend Per Share,Currency,INR,2.80692,13
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,12822.62562,13
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 13:30:00.000,,EBITDAPS,EBITDA Per Share,Currency,INR,16.61,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,16373.124,16
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,EPS,Earnings Per Share,Currency,INR,10.55173,15
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,EPSREP,As Reported EPS,Currency,INR,10.71364,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-22 05:23:00.000,,NAV,Net Assets Value,Currency,INR,118344.3271,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,NDEBT,Net Debt,Currency,INR,-18303.3298,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,NPROFIT,Net Income,Currency,INR,9477.21919,16
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,PPROFIT,Pretax Profit,Currency,INR,13856.78636,14
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-22 05:23:00.000,,ROA,Return on Assets,Percentage,,7.346,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,ROE,Return On Equity,Percentage,,8.52771,14
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,REV,Sales,Currency,INR,94758.55813,16
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,EV,Enterprise Value,Currency,INR,104033.447,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,CAPEX,Capital Expenditures,Currency,INR,2903.05342,12
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 07:34:00.000,,FCFPS,Free Cash Flow Per Share,Currency,INR,7.76667,3
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,NPROFITREP,Reported Net Profit,Currency,INR,10176.35125,12
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,GPM,Gross Margin (Gross Profit Margin),Percentage,,56.48,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,PPROFITREP,Reported Pretax Profit,Currency,INR,13574.1,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 07:32:00.000,,OPREXP,Operating Expense,Currency,INR,57760.2,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 10:05:00.000,,INTEXP,Interest Expense,Currency,INR,481.81818,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,SEQUITY,Shareholders Equity,Currency,INR,123119.33333,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 11:16:00.000,,TA,Total Assets,Currency,INR,135774.66667,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-22 05:23:00.000,,NAVPS,NAV per Share,Currency,INR,127.484,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 07:32:00.000,,SG&A,SG&A Expense,Currency,INR,17934.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-20 18:56:00.000,,TCOMPRATIO,Total Compensation Expense,Currency,INR,10194.0,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 11:16:00.000,,CFFINANCE,Cash Flow from Financing,Currency,INR,-1015.5,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 10:05:00.000,,CFINVEST,Cash Flow from Investing,Currency,INR,-2239.25,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 11:16:00.000,,CFOPERAT,Cash Flow from Operations,Currency,INR,10154.18182,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 07:32:00.000,,COGS,Cost of Goods sold,Currency,INR,50773.5,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 13:30:00.000,,DEPAMORT,Depreciation & Amortization,Currency,INR,3436.99688,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 13:30:00.000,,DEPREC,Depreciation,Currency,INR,3049.44167,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 13:30:00.000,,EBITA,EBITA,Currency,INR,12888.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 13:30:00.000,,EBITDAREP,EBITDA Reported,Currency,INR,17425.775,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-22 05:23:00.000,,FCF,Free Cash Flow,Currency,INR,7148.17525,12
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 11:16:00.000,,GROSSINC,Gross Income,Currency,INR,45052.75,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-11-12 09:30:00.000,,GOODWILL,Goodwill,Currency,INR,2642.32,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 10:05:00.000,,INVENTORY,Inventory,Currency,INR,69679.16667,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 07:34:00.000,,INCTAX,Income Taxes Paid,Currency,INR,3573.33333,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-19 19:33:00.000,,NOSHAREOUT,Number of Shares Outstanding,Shares,,960.74,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-22 22:31:52.353,,NWC,Net Working Capital,Currency,INR,75367.75,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 13:30:00.000,,ORGANICSAL,Organic Sales Growth,Percentage,,9.83,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-28 15:32:00.000,,PSR,Price/Sales Ratio,Percentage,,1.705,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 11:16:00.000,,ROIC,Return on Invested Capital,Percentage,,9.86667,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-22 05:23:00.000,,ROC,Return on Capital,Percentage,,10.42336,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-20 18:57:00.000,,TOTDIV,Total Dividends,Currency,INR,2278.44,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 10:05:00.000,,TAXPROV,Tax Provision,Currency,INR,3530.6,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-19 20:35:00.000,,TAXRATE,Tax Rate,Percentage,,26.08889,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 11:16:00.000,,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,21623.3,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 07:34:00.000,,CURRASSETS,Current Assets,Currency,INR,129228.8,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-21 07:34:00.000,,CURRLIAB,Current Liabilities,Currency,INR,23852.0,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-10-20 18:57:00.000,,TOTDEBT,Total Debt,Currency,INR,4089.0,3
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-05-21 06:57:00.000,,ADREVENUE,Advertisement Revenue,Currency,INR,46456.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2026,2024-08-01 10:36:00.000,,TOTALLIAB,Total Liabilities ,Currency,INR,131191.33333,3
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,BVPS,Book Value Per Share,Currency,INR,119.548,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-22 05:23:00.000,,CFPS,Cash Flow Per Share,Currency,INR,13.6145,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,EPSCASH,Cash EPS,Currency,INR,15.35,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,DPS,Dividend Per Share,Currency,INR,3.03182,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,15340.15323,13
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 13:30:00.000,,EBITDAPS,EBITDA Per Share,Currency,INR,18.94,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,18474.31436,14
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,EPS,Earnings Per Share,Currency,INR,12.36608,13
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,EPSREP,As Reported EPS,Currency,INR,12.454,7
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-22 05:23:00.000,,NAV,Net Assets Value,Currency,INR,125386.72089,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,NDEBT,Net Debt,Currency,INR,-20606.2796,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,NPROFIT,Net Income,Currency,INR,11890.8895,14
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,PPROFIT,Pretax Profit,Currency,INR,16174.632,14
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-22 05:23:00.000,,ROA,Return on Assets,Percentage,,8.638,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,ROE,Return On Equity,Percentage,,9.45654,13
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,REV,Sales,Currency,INR,101897.66864,14
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,EV,Enterprise Value,Currency,INR,103482.6355,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,CAPEX,Capital Expenditures,Currency,INR,2984.95209,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 13:30:00.000,,FCFPS,Free Cash Flow Per Share,Currency,INR,6.6,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,NPROFITREP,Reported Net Profit,Currency,INR,12058.44691,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,GPM,Gross Margin (Gross Profit Margin),Percentage,,56.78,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,PPROFITREP,Reported Pretax Profit,Currency,INR,15913.0,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:32:00.000,,OPREXP,Operating Expense,Currency,INR,56065.25,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 10:05:00.000,,INTEXP,Interest Expense,Currency,INR,410.7,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,SEQUITY,Shareholders Equity,Currency,INR,132201.2,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 11:16:00.000,,TA,Total Assets,Currency,INR,142107.75,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-22 05:23:00.000,,NAVPS,NAV per Share,Currency,INR,137.147,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:32:00.000,,SG&A,SG&A Expense,Currency,INR,19147.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-20 18:56:00.000,,TCOMPRATIO,Total Compensation Expense,Currency,INR,10879.4,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 11:16:00.000,,CFFINANCE,Cash Flow from Financing,Currency,INR,-1033.42857,7
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 10:05:00.000,,CFINVEST,Cash Flow from Investing,Currency,INR,-1912.375,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 11:16:00.000,,CFOPERAT,Cash Flow from Operations,Currency,INR,10094.4,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:32:00.000,,COGS,Cost of Goods sold,Currency,INR,53637.5,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 13:30:00.000,,DEPAMORT,Depreciation & Amortization,Currency,INR,3523.94525,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 13:30:00.000,,DEPREC,Depreciation,Currency,INR,3091.07025,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 13:30:00.000,,EBITA,EBITA,Currency,INR,15030.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 13:30:00.000,,EBITDAREP,EBITDA Reported,Currency,INR,19592.675,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-22 05:23:00.000,,FCF,Free Cash Flow,Currency,INR,6990.52618,11
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 11:16:00.000,,GROSSINC,Gross Income,Currency,INR,48896.25,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-11-12 09:30:00.000,,GOODWILL,Goodwill,Currency,INR,2642.32,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 10:05:00.000,,INVENTORY,Inventory,Currency,INR,72898.33333,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:34:00.000,,INCTAX,Income Taxes Paid,Currency,INR,4257.4,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-19 19:33:00.000,,NOSHAREOUT,Number of Shares Outstanding,Shares,,960.74,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:32:00.000,,NWC,Net Working Capital,Currency,INR,82125.25,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 13:30:00.000,,ORGANICSAL,Organic Sales Growth,Percentage,,9.275,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-28 15:32:00.000,,PSR,Price/Sales Ratio,Percentage,,2.04,3
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:34:00.000,,ROIC,Return on Invested Capital,Percentage,,11.28333,6
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-22 05:23:00.000,,ROC,Return on Capital,Percentage,,11.204,10
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-20 18:57:00.000,,TOTDIV,Total Dividends,Currency,INR,2604.24,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 10:05:00.000,,TAXPROV,Tax Provision,Currency,INR,4165.0,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-20 18:57:00.000,,TAXRATE,Tax Rate,Percentage,,26.075,8
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 11:16:00.000,,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,25232.33333,9
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:34:00.000,,CURRASSETS,Current Assets,Currency,INR,138271.5,4
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-21 07:34:00.000,,CURRLIAB,Current Liabilities,Currency,INR,25111.6,5
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-10-20 18:57:00.000,,TOTDEBT,Total Debt,Currency,INR,2867.5,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-05-21 06:57:00.000,,ADREVENUE,Advertisement Revenue,Currency,INR,49244.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2027,2024-08-01 10:36:00.000,,TOTALLIAB,Total Liabilities ,Currency,INR,141341.66667,3
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,15322.5,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,39945.0,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,EPS,Earnings Per Share,Currency,INR,11.5,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,EPSREP,As Reported EPS,Currency,INR,11.4,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 07:34:00.000,,NAV,Net Assets Value,Currency,INR,-44000.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-08-01 08:57:00.000,,NDEBT,Net Debt,Currency,INR,-24651.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,NPROFIT,Net Income,Currency,INR,10999.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,PPROFIT,Pretax Profit,Currency,INR,14665.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,ROE,Return On Equity,Percentage,,8.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,REV,Sales,Currency,INR,53432.0,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 07:34:00.000,,CAPEX,Capital Expenditures,Currency,INR,2858.0,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,NPROFITREP,Reported Net Profit,Currency,INR,10999.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,GPM,Gross Margin (Gross Profit Margin),Percentage,,45.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,PPROFITREP,Reported Pretax Profit,Currency,INR,14665.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,INTEXP,Interest Expense,Currency,INR,97.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,TA,Total Assets,Currency,INR,143252.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,CFFINANCE,Cash Flow from Financing,Currency,INR,-3300.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,CFINVEST,Cash Flow from Investing,Currency,INR,-1915.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,CFOPERAT,Cash Flow from Operations,Currency,INR,14553.5,2
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 07:34:00.000,,DEPAMORT,Depreciation & Amortization,Currency,INR,3660.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,DEPREC,Depreciation,Currency,INR,2963.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 07:34:00.000,,EBITDAREP,EBITDA Reported,Currency,INR,22800.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,FCF,Free Cash Flow,Currency,INR,7167.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,GROSSINC,Gross Income,Currency,INR,44444.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,GOODWILL,Goodwill,Currency,INR,3303.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,NOSHAREOUT,Number of Shares Outstanding,Shares,,960.5,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,ROIC,Return on Invested Capital,Percentage,,13.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-05-21 10:34:00.000,,ROC,Return on Capital,Percentage,,11.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-10-21 11:16:00.000,,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,28681.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2028,2024-08-01 08:57:00.000,,TOTDEBT,Total Debt,Currency,INR,1632.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,19213.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,EBITDA,Earnings Before Interest Taxes and Depreciation & Amortization,Currency,INR,67000.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,NAV,Net Assets Value,Currency,INR,-62000.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,REV,Sales,Currency,INR,6600.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,CAPEX,Capital Expenditures,Currency,INR,3016.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,CFOPERAT,Cash Flow from Operations,Currency,INR,22836.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,DEPAMORT,Depreciation & Amortization,Currency,INR,3836.0,1
+ZEEL,Zee Entertainment Enterprises Limited,Year,2029,2024-10-21 07:34:00.000,,EBITDAREP,EBITDA Reported,Currency,INR,24400.0,1
