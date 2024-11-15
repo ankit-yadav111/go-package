@@ -1,0 +1,219 @@
+"Name","Code","Type_","Period_","STMTYPECODE","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,1,RNTS,612370.0,Net Sales,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,10,SREV,612370.0,Revenue,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,31,RTLR,612370.0,Total Revenue,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,34,ECOR,15610.0,Cost of Revenue,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,36,SCOR,15610.0,"Cost of Revenue, Total",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,37,SGRP,596760.0,Gross Profit,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,52,ESGA,61970.0,Selling/General/Administrative Expense,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,53,ELAR,351380.0,Labor & Related Expense,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,55,SSGA,413350.0,"Selling/General/Admin. Expenses, Total",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,57,EDEP,11330.0,Depreciation,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,58,EAMI,1130.0,Amortization of Intangibles,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,60,SDPR,12460.0,Depreciation/Amortization,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,70,ELIT,0.0,Litigation,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,73,EUIE,-60.0,Other Unusual Expense (Income),M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,74,SUIE,-60.0,Unusual Expense (Income),M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,80,EOOE,11770.0,Other Operating Expense,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,82,SOOE,11770.0,"Other Operating Expenses, Total",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,83,ETOE,453130.0,Total Operating Expense,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,84,SOPI,159240.0,Operating Income,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,85,NIEN,-1390.0,Interest Expense - Non-Operating,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,87,SIEN,-1390.0,"Interest Expense, Net Non-Operating",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,88,NIIN,7870.0,Interest Income - Non-Operating,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,89,NINV,3430.0,Investment Income - Non-Operating,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,90,SIIN,11300.0,Interest/Invest Income -  Non-Operating,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,92,NGLA,10.0,Gain (Loss) on Sale of Assets,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,126,NONT,-670.0,Other Non-Operating Income (Expense),M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,127,SONT,-670.0,"Other, Net",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,128,EIBT,168490.0,Net Income Before Taxes,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,129,TTAX,43470.0,Provision for Income Taxes,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,130,TIAT,125020.0,Net Income After Taxes,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,131,CMIN,-680.0,Minority Interest,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,134,NIBX,124340.0,Net Income Before Extra. Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,140,NINC,124340.0,Net Income,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,147,CIAC,124340.0,Income Available to Com Excl ExtraOrd,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,148,XNIC,124340.0,Income Available to Com Incl ExtraOrd,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,149,SBAS,3618.29671,Basic Weighted Average Shares,M,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,150,SBBF,34.36424,Basic EPS Excluding Extraordinary Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,151,SBAI,34.36424,Basic EPS Including Extraordinary Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,153,SDNI,124340.0,Diluted Net Income,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,154,SDWS,3618.29671,Diluted Weighted Average Shares,M,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,155,SDBF,34.36424,Diluted EPS Excluding ExtraOrd Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,156,SDAI,34.36424,Diluted EPS Including ExtraOrd Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,157,DDPS1,28.0,DPS - Common Stock Primary Issue,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,171,VIEX,1390.0,"Interest Expense, Supplemental",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,173,VDEP,11330.0,"Depreciation, Supplemental",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,175,STSI,-70.0,Total Special Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,176,VPTI,168420.0,Normalized Income Before Taxes,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,177,STEC,-18.05983,Effect of Special Items on Income Taxes,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,178,VITN,43451.94017,Inc Tax Ex Impact of Sp Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,179,VIAT,124968.05983,Normalized Income After Taxes,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,180,VIAC,124288.05983,Normalized Inc. Avail to Com.,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,181,VBES,34.34988,Basic Normalized EPS,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,182,VDES,34.34988,Diluted Normalized EPS,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,184,VAMI,1130.0,"Amort of Intangibles, Supplemental",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,189,VMIN,-680.0,"Minority Interest, Supplemental",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,209,SGPP,97.45089,Gross Margin,M,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,210,SOPP,26.00389,Operating Margin,M,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,211,SPTM,27.51441,Pretax Margin,M,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,212,SETR,25.79975,Effective Tax Rate,M,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,213,SNPM,20.30472,Net Profit Margin,M,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,214,SBIT,159180.0,Normalized EBIT,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,215,SBDA,171640.0,Normalized EBITDA,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,221,VCTR,44080.0,Current Tax - Total,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,222,VCTC,44080.0,Current Tax - Total,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,227,VDTR,-610.0,Deferred Tax - Total,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,228,VDTC,-610.0,Deferred Tax - Total,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,233,VITT,43470.0,Income Tax - Total,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,999,SNIN,9910.0,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,1068,VLAR,351380.0,Labor & Related Expense Suppl.,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,1130,VDRU,4370.0,"Depreciation of Right-of-Use Assets,Sup.",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",1,1132,VIEL,1390.0,"Interest Expense on Lease Liabs., Suppl.",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,834,ONET,460990.0,Net Income/Starting Line,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,835,SDEP,49850.0,Depreciation,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,837,SDED,49850.0,Depreciation/Depletion,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,846,OUIE,-3260.0,Unusual Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,849,ONCI,129510.0,Other Non-Cash Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,850,SNCI,126250.0,Non-Cash Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,853,SCTP,124890.0,Cash Taxes Paid,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,854,SCIP,6990.0,Cash Interest Paid,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,856,OACR,-36330.0,Accounts Receivable,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,857,OITL,0.0,Inventories,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,859,OOAS,-31600.0,Other Assets,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,860,OAPB,-6320.0,Accounts Payable,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,864,OOLB,5430.0,Other Liabilities,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,866,OOCF,-124890.0,Other Operating Cash Flow,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,880,SOCF,-193710.0,Changes in Working Capital,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,881,OTLO,443380.0,Cash from Operating Activities,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,882,ICEX,-22320.0,Purchase of Fixed Assets,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,883,IIAQ,-4420.0,Purchase/Acquisition of Intangibles,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,885,SCEX,-26740.0,Capital Expenditures,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,888,ISFA,170.0,Sale of Fixed Assets,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,889,IINS,1552930.0,Sale/Maturity of Investment,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,890,IIVN,-94710.0,"Investment, Net",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,891,IINP,-1410110.0,Purchase of Investments,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,893,ISOI,70.0,Sale of Intangible Assets,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,899,IICF,38650.0,Other Investing Cash Flow,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,900,SICF,87000.0,"Other Investing Cash Flow Items, Total",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,901,ITLI,60260.0,Cash from Investing Activities,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,905,FFCF,-47850.0,Other Financing Cash Flow,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,906,SFCF,-47850.0,Financing Cash Flow Items,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,907,FDPC,-251370.0,Cash Dividends Paid - Common,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,909,FCDP,-251370.0,Total Cash Dividends Paid,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,911,FRRC,-170000.0,Repurchase/Retirement of Common,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,912,FCSN,-170000.0,"Common Stock, Net",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,921,FPSS,-170000.0,"Issuance (Retirement) of Stock, Net",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,926,FLDR,-16140.0,Long Term Debt Reduction,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,927,FLDN,-16140.0,"Long Term Debt, Net",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,930,FPRD,-16140.0,"Issuance (Retirement) of Debt, Net",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,931,FTLF,-485360.0,Cash from Financing Activities,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,932,SFEE,650.0,Foreign Exchange Effects,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,933,SNCC,18930.0,Net Change in Cash,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,934,SNCB,71230.0,Net Cash - Beginning Balance,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,935,SNCE,90160.0,Net Cash - Ending Balance,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,1140,SCWC,-68820.0,Net Changes in Working Capital,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,1172,VLLR,-16140.0,"Lease liability Reduced, Supplemental",M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",2,1192,VTEA,-39590.0,Tax Payments - Employee Options&Buy Back,M,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,436,ACSH,27950.0,Cash, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,437,ACAE,62120.0,Cash & Equivalents, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,438,ASTI,352800.0,Short Term Investments, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,439,SCSI,442870.0,Cash and Short Term Investments, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,440,AARG,607390.0,"Accounts Receivable - Trade, Gross", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,441,APDA,-5520.0,Provision for Doubtful Accounts, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,442,AACR,601870.0,"Accounts Receivable - Trade, Net", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,443,ASTR,16070.0,Notes Receivable - Short Term, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,444,AORC,16130.0,Receivables - Other, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,445,ATRC,634070.0,"Total Receivables, Net", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,446,AIFG,0.0,Inventories - Finished Goods, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,448,AIRM,270.0,Inventories - Raw Materials, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,449,AIOT,1770.0,Inventories - Other, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,453,AITL,2040.0,Total Inventory, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,454,APPY,20550.0,Prepaid Expenses, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,455,ARCA,4800.0,Restricted Cash - Current, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,460,AOCA,25510.0,Other Current Assets, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,461,SOCA,30310.0,"Other Current Assets, Total", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,462,ATCA,1129840.0,Total Current Assets, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,480,APBC,110570.0,Buildings - Gross, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,481,ALIC,3540.0,Land/Improvements - Gross, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,482,AMEC,151220.0,Machinery/Equipment - Gross, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,483,ACPC,15640.0,Construction in Progress - Gross, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,486,AOPC,152060.0,Other Property/Plant/Equipment - Gross, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,487,APTC,433030.0,"Property/Plant/Equipment, Total - Gross", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,488,ADEP,-244770.0,"Accumulated Depreciation, Total", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,489,APPN,188260.0,"Property/Plant/Equipment, Total - Net", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,492,AGWI,18320.0,"Goodwill, Net", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,493,AING,21310.0,Intangibles - Gross, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,494,AAMT,-16210.0,Accumulated Intangible Amortization, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,495,AINT,5100.0,"Intangibles, Net", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,503,ALTI,25290.0,LT Investments - Other, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,504,SINV,25290.0,Long Term Investments, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,506,ALTR,23860.0,Note Receivable - Long Term, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,507,ADFC,25570.0,Deferred Charges, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,509,ADTA,34030.0,Defered Income Tax - Long Term Asset, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,511,ARCL,2130.0,Restricted Cash - Long Term, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,512,AOAS,12090.0,Other Long Term Assets, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,513,SOLA,73820.0,"Other Long Term Assets, Total", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,523,ATOT,1464490.0,Total Assets, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,524,LAPB,99810.0,Accounts Payable, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,526,LAEX,146090.0,Accrued Expenses, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,547,LSTD,0.0,Notes Payable/Short Term Debt, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,548,LCLD,15050.0,Current Port. of  LT Debt/Capital Leases, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,549,LDPB,530.0,Dividends Payable, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,550,LCAV,69900.0,Customer Advances, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,552,LTXP,114330.0,Income Taxes Payable, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,553,LOPB,6250.0,Other Payables, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,556,LOCL,9080.0,Other Current Liabilities, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,557,SOCL,200090.0,"Other Current liabilities, Total", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,558,LTCL,461040.0,Total Current Liabilities, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,560,LCLO,65160.0,Capital Lease Obligations, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,561,LTTD,65160.0,Total Long Term Debt, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,562,STLD,80210.0,Total Debt, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,563,LBDT,9770.0,Deferred Income Tax - LT Liability, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,565,SBDT,9770.0,Deferred Income Tax, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,566,LMIN,8300.0,Minority Interest, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,568,LPBL,6860.0,Pension Benefits - Underfunded, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,569,LLTL,8470.0,Other Long Term Liabilities, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,572,SLTL,15330.0,"Other Liabilities, Total", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,573,LTLL,559600.0,Total Liabilities, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,582,QCMS,3620.0,Common Stock, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,584,SCMS,3620.0,"Common Stock, Total", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,586,QRED,869460.0,Retained Earnings (Accumulated Deficit), ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,589,QUGL,2350.0,Unrealized Gain (Loss), ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,590,QCTA,29550.0,Translation Adjustment, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,593,QCOM,-90.0,Other Comprehensive Income, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,594,SOTE,29460.0,"Other Equity, Total", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,595,QTLE,904890.0,Total Equity, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,596,QTEL,1464490.0,Total Liabilities & Shareholders' Equity, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,597,QCSO1,3618.08752,Shares Outs - Common Stock Primary Issue, ,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,601,QTCO,3618.08752,Total Common Shares Outstanding, ,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,619,METL,601546.0,Employees, ,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,623,VAIA,16210.0,"Accumulated Intangible Amort, Suppl.", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,624,VADC,69900.0,Deferred Revenue - Current, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,625,VADL,4820.0,Deferred Revenue - Long Term, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,633,SCUI,1127800.0,Total Current Assets less Inventory, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,634,SQCK,2.44621,Quick Ratio, ,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,635,SCUR,2.45063,Current Ratio, ,0,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,636,SNTD,-354360.0,Net Debt, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,637,STBV,881470.0,Tangible Book Value, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,638,STBP,243.62871,Tangible Book Value per Share, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,663,VTCL,101020.0,"Total Capital Leases, Supplemental", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,664,SCL1,19590.0,Capital Lease Payments Due in Year 1, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,665,SCL2,17090.0,Capital Lease Payments Due in Year 2, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,666,SCL3,11213.33333,Capital Lease Payments Due in Year 3, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,667,SCL4,11213.33333,Capital Lease Payments Due in Year 4, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,668,SCL5,11213.33333,Capital Lease Payments Due in Year 5, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,674,SCL23,28303.33333,Capital Lease Payments Due in 2-3 Years, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,675,SCL45,22426.66666,Capital Lease Payments Due in 4-5 Years, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,676,SCL6B,30700.0,Cap. Lease Pymts. Due in Year 6 & Beyond, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,831,MTJG,3533976.47059,Value of Backlog, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1056,QTLL,913190.0,Total Equity & Minority Interest, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1057,VMNR,8300.0,Minority Interest - Non Redeemable, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1059,VGWI,18320.0,Goodwill - Net, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1082,VCDV,1140.0,"Curr Derivative Liab. Hedging, Suppl.", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1117,VCAL,2950.0,Contract Assets - Long Term, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1118,VCAS,58460.0,Contract Assets - Short Term, ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1123,VLCC,15050.0,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1128,VUCG,78860.0,"Right-of-Use Assets-Cap.Lease,Gross-Sup.", ,1,1
+Tata Consultancy Services Ltd,43388,2,"2024-03-31",3,1170,VCLS,15090.0,Contract Liabilities - Short term, ,1,1
