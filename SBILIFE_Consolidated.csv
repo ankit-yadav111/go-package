@@ -1,0 +1,168 @@
+"Ticker","Name","Period","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,11,RPRW,814306.386,Gross Premiums Written,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,14,RRII,-8435.372,Reinsurance - Income,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,15,SPRE,805871.014,Total Premiums Earned,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,16,RNII,178334.484,Net Investment Income,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,17,RRGL,335672.336,Realized Gains (Losses),M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,31,RTLR,1319877.834,Total Revenue,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,47,ELBA,783145.722,"Losses, Benefits, and Adjustments",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,48,EUAC,31051.055,Underwriting & Commissions,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,49,ERII,432241.826,Reinsurance - Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,50,SLBA,1246438.603,"Losses, Benefits, and Adjustments, Total",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,52,ESGA,22117.382,Selling/General/Administrative Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,53,ELAR,24004.886,Labor & Related Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,54,EADV,1314.34,Advertising Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,55,SSGA,47436.608,"Selling/General/Admin. Expenses, Total",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,57,EDEP,762.274,Depreciation,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,60,SDPR,762.274,Depreciation/Amortization,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,72,EIAS,-109.274,Impairment-Assets Held for Sale,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,74,SUIE,-109.274,Unusual Expense (Income),M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,80,EOOE,2897.963,Other Operating Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,82,SOOE,2897.963,"Other Operating Expenses, Total",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,83,ETOE,1297426.174,Total Operating Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,84,SOPI,22451.66,Operating Income,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,85,NIEN,-91.323,Interest Expense - Non-Operating,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,87,SIEN,-91.323,"Interest Expense, Net Non-Operating",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,89,NINV,501.03,Investment Income - Non-Operating,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,90,SIIN,501.03,Interest/Invest Income -  Non-Operating,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,126,NONT,-3440.314,Other Non-Operating Income (Expense),M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,127,SONT,-3440.314,"Other, Net",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,128,EIBT,19421.053,Net Income Before Taxes,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,129,TTAX,483.272,Provision for Income Taxes,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,130,TIAT,18937.781,Net Income After Taxes,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,134,NIBX,18937.781,Net Income Before Extra. Items,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,140,NINC,18937.781,Net Income,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,147,CIAC,18937.781,Income Available to Com Excl ExtraOrd,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,148,XNIC,18937.781,Income Available to Com Incl ExtraOrd,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,149,SBAS,1001.09481,Basic Weighted Average Shares,M,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,150,SBBF,18.91707,Basic EPS Excluding Extraordinary Items,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,151,SBAI,18.91707,Basic EPS Including Extraordinary Items,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,153,SDNI,18937.781,Diluted Net Income,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,154,SDWS,1001.89985,Diluted Weighted Average Shares,M,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,155,SDBF,18.90187,Diluted EPS Excluding ExtraOrd Items,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,156,SDAI,18.90187,Diluted EPS Including ExtraOrd Items,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,157,DDPS1,2.7,DPS - Common Stock Primary Issue,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,165,DCGD,2703.717,Gross Dividends - Common Stock,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,171,VIEX,91.323,"Interest Expense, Supplemental",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,173,VDEP,762.274,"Depreciation, Supplemental",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,175,STSI,-109.274,Total Special Items,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,176,VPTI,19311.779,Normalized Income Before Taxes,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,177,STEC,-2.71917,Effect of Special Items on Income Taxes,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,178,VITN,480.55283,Inc Tax Ex Impact of Sp Items,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,179,VIAT,18831.22617,Normalized Income After Taxes,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,180,VIAC,18831.22617,Normalized Inc. Avail to Com.,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,181,VBES,18.81063,Basic Normalized EPS,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,182,VDES,18.79552,Diluted Normalized EPS,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,185,VRXP,1011.583,"Rental Expense, Supplemental",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,187,VADV,1314.34,"Advertising Expense, Supplemental",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,191,VTAU,8.8,Audit Fees,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,194,VTOF,1.475,All Other Fees,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,211,SPTM,1.47143,Pretax Margin,M,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,212,SETR,2.48839,Effective Tax Rate,M,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,213,SNPM,1.43481,Net Profit Margin,M,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,239,VICD,935.337,Interest Cost - Domestic,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,240,VSCD,644.476,Service Cost - Domestic,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,242,VXPD,-924.928,Expected Return on Assets - Domestic,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,247,VDPP,654.885,Domestic Pension Plan Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,266,VDCD,326.611,Defined Contribution Expense - Domestic,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,269,VTPE,981.496,Total Pension Expense,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,282,STPI,935.337,Total Plan Interest Cost,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,283,STPS,644.476,Total Plan Service Cost,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,284,STPE,-924.928,Total Plan Expected Return,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,341,MIBF,8.9,"Expense Ratio, Total -%",M,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,347,MIGK,55500.0,New Business Profit,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,348,MIGO,197200.0,New Business Annual Premium Equiv. (APE),M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,349,MIGR,28.1,"New Business Margin, Total -%",M,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,436,ACSH,18018.724,Cash, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,444,AORC,29460.262,Receivables - Other, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,445,ATRC,29460.262,"Total Receivables, Net", ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,489,APPN,5569.593,"Property/Plant/Equipment, Total - Net", ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,503,ALTI,1729128.133,LT Investments - Other, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,504,SINV,1729128.133,Long Term Investments, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,505,APRE,17.135,Insurance Receivables, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,516,AAII,39573.683,Accrued Investment Income, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,518,ASAC,2160102.705,Separate Accounts - Assets, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,521,AOAT,1117.859,Other Assets, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,522,SOAT,2200794.247,"Other Assets, Total", ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,523,ATOT,3982988.094,Total Assets, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,524,LAPB,15045.723,Accounts Payable, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,527,LPLR,1674027.641,Policy Liabilities, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,528,LINR,13365.628,Insurance Reserves, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,529,LUPR,449.613,Unearned Premium/Unearned Revenue, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,531,LSAC,1667407.451,Separate Accounts - Liability, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,532,LOPF,1671.97,Other Policyholders' Funds, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,534,SPOL,3356922.303,Policy Liabilities, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,547,LSTD,0.0,Notes Payable/Short Term Debt, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,549,LDPB,0.002,Dividends Payable, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,552,LTXP,3206.05,Income Taxes Payable, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,553,LOPB,30671.156,Other Payables, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,557,SOCL,33877.208,"Other Current liabilities, Total", ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,559,LLTD,0.0,Long Term Debt, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,561,LTTD,0.0,Total Long Term Debt, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,562,STLD,0.0,Total Debt, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,571,LOLB,428057.254,Other Liabilities, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,572,SLTL,428057.254,"Other Liabilities, Total", ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,573,LTLL,3833902.488,Total Liabilities, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,582,QCMS,10014.655,Common Stock, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,584,SCMS,10014.655,"Common Stock, Total", ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,585,QPIC,1.514,Additional Paid-In Capital, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,586,QRED,135900.119,Retained Earnings (Accumulated Deficit), ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,589,QUGL,3169.318,Unrealized Gain (Loss), ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,595,QTLE,149085.606,Total Equity, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,596,QTEL,3982988.094,Total Liabilities & Shareholders' Equity, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,597,QCSO1,1001.46547,Shares Outs - Common Stock Primary Issue, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,601,QTCO,1001.46547,Total Common Shares Outstanding, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,619,METL,23893.0,Employees, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,621,MNOS,335114.0,Number of Common Shareholders, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,632,VRUZ,3889230.0,Assets under Management, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,637,STBV,149085.606,Tangible Book Value, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,638,STBP,148.86745,Tangible Book Value per Share, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,691,VAPD,13108.964,Pension Obligation - Domestic, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,694,VPAD,13335.125,Plan Assets - Domestic, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,697,VPPD,226.161,Funded Status - Domestic, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,704,VFSS,226.161,Total Funded Status, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,708,VERD,7.16,Expected Rate of Return - Domestic, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,711,VRCD,10.0,Compensation Rate - Domestic, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,733,VADE,11.094,Equity % - Domestic, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,736,VDSD,34.80232,Debt Securities % - Domestic, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,745,VXID,54.10369,Other Investments % - Domestic, ,0,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,749,STPO,13108.964,Total Plan Obligations, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,750,STPA,13335.125,Total Plan Assets, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,759,MIEV,582600.0,Embedded Value, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,851,OCRC,811305.062,Cash Receipts,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,853,SCTP,-24366.25,Cash Taxes Paid,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,862,OPBA,-30461.754,Payable/Accrued,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,866,OOCF,-32798.055,Other Operating Cash Flow,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,867,OINV,-5939.208,"Investment Securities, Gains/Losses",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,873,OBEN,-422605.931,Policy Benefits/Liabilities,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,877,OREP,-3915.233,Reinsurance Payable,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,880,SOCF,-495720.181,Changes in Working Capital,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,881,OTLO,291218.631,Cash from Operating Activities,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,882,ICEX,-1143.896,Purchase of Fixed Assets,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,885,SCEX,-1143.896,Capital Expenditures,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,888,ISFA,1.91,Sale of Fixed Assets,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,889,IINS,2223996.63,Sale/Maturity of Investment,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,890,IIVN,12698.666,"Investment, Net",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,891,IINP,-2697054.885,Purchase of Investments,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,898,IPOL,-837.036,Policy Loans,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,899,IICF,150125.288,Other Investing Cash Flow,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,900,SICF,-311069.427,"Other Investing Cash Flow Items, Total",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,901,ITLI,-312213.323,Cash from Investing Activities,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,907,FDPC,-2703.748,Cash Dividends Paid - Common,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,909,FCDP,-2703.748,Total Cash Dividends Paid,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,912,FCSN,430.51,"Common Stock, Net",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,921,FPSS,430.51,"Issuance (Retirement) of Stock, Net",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,922,FSDI,0.0,Short Term Debt Issued,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,923,FSDR,0.0,Short Term Debt Reduction,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,924,FSDN,0.0,"Short Term Debt, Net",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,930,FPRD,0.0,"Issuance (Retirement) of Debt, Net",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,931,FTLF,-2273.238,Cash from Financing Activities,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,933,SNCC,-23267.93,Net Change in Cash,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,934,SNCB,89225.664,Net Cash - Beginning Balance,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,935,SNCE,65957.735,Net Cash - Ending Balance,M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,999,SNIN,409.707,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,1056,QTLL,149085.606,Total Equity & Minority Interest, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,1061,VPPN,5569.593,Other Property/Plant/Equipment - Net, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,1115,VNMS,1430649.156,Non-Current Marketable Securities Suppl, ,1,1
+SBILIFE,Sbi Life Insurance Company Ltd,2024-03-31 00:00:00.000,1140,SCWC,-462922.126,Net Changes in Working Capital,M,1,1
