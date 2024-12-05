@@ -1,0 +1,48 @@
+"Ticker","Name_","Type_","Period_","Measure_Code","Measure_Desc","UnitType","Curr","Value_","Consolidated"
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,BVPS,Book Value Per Share,Currency,INR,168.31456,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,OPREXP,Operating Expense,Currency,INR,45776.92308,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,INTEXP,Interest Expense,Currency,INR,1.0,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,EPSREP,As Reported EPS,Currency,INR,23.13935,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,APREMIUM,Annual premium earned,Currency,INR,223888.42105,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,CLAIMRAT,Claims ratio,Percentage,,52.5,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NAV,Net Assets Value,Currency,INR,165559.17647,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,EBV,Embedded value,Currency,INR,708909.5,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,EVOPR,EV operating profits,Percentage,,11.2,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,EXPRATIO,Expense ratio,Percentage,,9.33333,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NPREMIUM,Net Premiums Earned,Currency,INR,919595.94118,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NPW,Net Premiums Written,Currency,INR,918663.42857,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,VALNB,Value of new business,Currency,INR,59452.05,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NDEBT,Net Debt,Currency,INR,50193.394,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NPROFIT,Net Income,Currency,INR,23825.31739,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,SEQUITY,Shareholders Equity,Currency,INR,168054.23237,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,TBV,Tangible Book Value,Currency,INR,169429.544,1
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,TA,Total Assets,Currency,INR,4698693.83333,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,OPROFIT,Operating Profit,Currency,INR,847677.04,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,PPROFIT,Pretax Profit,Currency,INR,24445.26365,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,GPW,Gross Premiums Written,Currency,INR,923944.18182,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,ROA,Return on Assets,Percentage,,0.5694,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,ROE,Return On Equity,Percentage,,14.82328,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,REV,Sales,Currency,INR,931901.04452,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,EV,Enterprise Value,Currency,INR,772654.0,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NAVPS,NAV per Share,Currency,INR,714.4,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,TCOMPRATIO,Total Compensation Expense,Currency,INR,37996.57143,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,GOODWILL,Goodwill,Currency,INR,0.0,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NPROFITREP,Reported Net Profit,Currency,INR,23735.12867,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,INVENTORY,Inventory,Currency,INR,2550750.0,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NETINVINC,Net Investment Income,Currency,INR,334259.9,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NOSHAREOUT,Number of Shares Outstanding,Shares,,1001.324,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,NWC,Net Working Capital,Currency,INR,203406.25,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,PSR,Price/Sales Ratio,Percentage,,1.58,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,TBVPS,Tangible Book Value Per Share,Currency,INR,172.78333,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,ROIC,Return on Invested Capital,Percentage,,15.3,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,TAXPROV,Tax Provision,Currency,INR,1270.1875,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,TAXRATE,Tax Rate,Percentage,,15.83333,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,PPROFITREP,Reported Pretax Profit,Currency,INR,24114.35294,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,GEN&ADMEXP,General and Admin Expense,Currency,INR,68603.5,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,53596.5,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,DPS,Dividend Per Share,Currency,INR,3.35211,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,CURRASSETS,Current Assets,Currency,INR,123414.0,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,CURRLIAB,Current Liabilities,Currency,INR,65721.2,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,TOTALLIAB,Total Liabilities ,Currency,INR,4067173.36364,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,29910.7675,0
+SBILIFE,Sbi Life Insurance Company Ltd,Year,2025,EPS,Earnings Per Share,Currency,INR,23.35891,0
