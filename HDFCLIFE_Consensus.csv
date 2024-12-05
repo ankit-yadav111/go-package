@@ -1,0 +1,51 @@
+"Ticker","Name_","Type_","Period_","Measure_Code","Measure_Desc","UnitType","Curr","Value_","Consolidated"
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,BVPS,Book Value Per Share,Currency,INR,74.1048,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,OPREXP,Operating Expense,Currency,INR,326269.0,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,INTEXP,Interest Expense,Currency,INR,1.0,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,EPSREP,As Reported EPS,Currency,INR,8.91533,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,APREMIUM,Annual premium earned,Currency,INR,157534.93333,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,CLAIMRAT,Claims ratio,Percentage,,58.0,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NAV,Net Assets Value,Currency,INR,165123.30394,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,EBV,Embedded value,Currency,INR,559228.45455,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,EVOPR,EV operating profits,Percentage,,15.8,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,EXPRATIO,Expense ratio,Percentage,,19.45,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NPREMIUM,Net Premiums Earned,Currency,INR,721385.76923,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NPW,Net Premiums Written,Currency,INR,733131.5,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,VALNB,Value of new business,Currency,INR,39640.6,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NPROFIT,Net Income,Currency,INR,18865.20917,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,SEQUITY,Shareholders Equity,Currency,INR,155805.66667,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TBV,Tangible Book Value,Currency,INR,159352.826,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TA,Total Assets,Currency,INR,3534168.66667,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,OPROFIT,Operating Profit,Currency,INR,563371.47,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,PPROFIT,Pretax Profit,Currency,INR,19838.8025,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,GPW,Gross Premiums Written,Currency,INR,736842.33333,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,COMLR,Combined Ratio,Percentage,,20.2,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,ROA,Return on Assets,Percentage,,0.6575,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,ROE,Return On Equity,Percentage,,12.21685,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,REV,Sales,Currency,INR,1047843.18182,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,EV,Enterprise Value,Currency,INR,747879.5,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NAVPS,NAV per Share,Currency,INR,166.274,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,CAPEX,Capital Expenditures,Currency,INR,1264175.0,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TCOMPRATIO,Total Compensation Expense,Currency,INR,51756.5,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,CFINVEST,Cash Flow from Investing,Currency,INR,160420.0,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,GOODWILL,Goodwill,Currency,INR,0.0,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NPROFITREP,Reported Net Profit,Currency,INR,19085.09179,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,INVENTORY,Inventory,Currency,INR,1264175.0,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NETINVINC,Net Investment Income,Currency,INR,317204.66667,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NOSHAREOUT,Number of Shares Outstanding,Shares,,2151.0,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,NWC,Net Working Capital,Currency,INR,-13966.0,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,PSR,Price/Sales Ratio,Percentage,,2.03,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TBVPS,Tangible Book Value Per Share,Currency,INR,75.2,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,ROIC,Return on Invested Capital,Percentage,,16.6,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TOTDIV,Total Dividends,Currency,INR,1322.0,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TAXPROV,Tax Provision,Currency,INR,974.83333,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TAXRATE,Tax Rate,Percentage,,14.0,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,PPROFITREP,Reported Pretax Profit,Currency,INR,19871.41667,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,GEN&ADMEXP,General and Admin Expense,Currency,INR,80293.5,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,16458.5,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,DPS,Dividend Per Share,Currency,INR,2.41877,0
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,CURRASSETS,Current Assets,Currency,INR,89859.5,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,CURRLIAB,Current Liabilities,Currency,INR,146330.25,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,TOTALLIAB,Total Liabilities ,Currency,INR,3195257.75,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,353531.0,1
+HDFCLIFE,HDFC Life Insurance Company Ltd,Year,2025,EPS,Earnings Per Share,Currency,INR,8.82863,1
