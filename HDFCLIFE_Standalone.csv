@@ -1,0 +1,118 @@
+"Ticker","Name","Period","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,11,RPRW,630764.81,Gross Premiums Written,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,13,ROIR,4737.978,Other Insurance Revenue,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,14,RRII,-11172.606,Reinsurance - Income,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,15,SPRE,624330.182,Total Premiums Earned,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,16,RNII,166415.118,Net Investment Income,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,17,RRGL,101866.594,Realized Gains (Losses),M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,31,RTLR,892611.894,Total Revenue,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,47,ELBA,888940.078,"Losses, Benefits, and Adjustments",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,48,EUAC,52563.208,Underwriting & Commissions,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,49,ERII,-7781.842,Reinsurance - Expense,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,50,SLBA,933721.444,"Losses, Benefits, and Adjustments, Total",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,52,ESGA,-1804.704,Selling/General/Administrative Expense,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,53,ELAR,146.605,Labor & Related Expense,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,55,SSGA,-1658.099,"Selling/General/Admin. Expenses, Total",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,57,EDEP,417.78,Depreciation,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,58,EAMI,360.698,Amortization of Intangibles,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,60,SDPR,778.478,Depreciation/Amortization,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,61,EIEX,689.083,Interest Expense - Operating,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,63,SIEO,689.083,"Interest Expense, Net - Operating",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,72,EIAS,-828.207,Impairment-Assets Held for Sale,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,74,SUIE,-828.207,Unusual Expense (Income),M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,80,EOOE,-55729.119,Other Operating Expense,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,82,SOOE,-55729.119,"Other Operating Expenses, Total",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,83,ETOE,876973.58,Total Operating Expense,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,84,SOPI,15638.314,Operating Income,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,128,EIBT,15638.314,Net Income Before Taxes,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,129,TTAX,-50.245,Provision for Income Taxes,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,130,TIAT,15688.559,Net Income After Taxes,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,134,NIBX,15688.559,Net Income Before Extra. Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,140,NINC,15688.559,Net Income,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,147,CIAC,15688.559,Income Available to Com Excl ExtraOrd,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,148,XNIC,15688.559,Income Available to Com Incl ExtraOrd,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,149,SBAS,2150.12537,Basic Weighted Average Shares,M,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,150,SBBF,7.29658,Basic EPS Excluding Extraordinary Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,151,SBAI,7.29658,Basic EPS Including Extraordinary Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,153,SDNI,15688.559,Diluted Net Income,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,154,SDWS,2152.16811,Diluted Weighted Average Shares,M,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,155,SDBF,7.28965,Diluted EPS Excluding ExtraOrd Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,156,SDAI,7.28965,Diluted EPS Including ExtraOrd Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,157,DDPS1,2.0,DPS - Common Stock Primary Issue,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,171,VIEX,689.083,"Interest Expense, Supplemental",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,173,VDEP,417.78,"Depreciation, Supplemental",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,175,STSI,-828.207,Total Special Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,176,VPTI,14810.107,Normalized Income Before Taxes,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,177,STEC,-289.87245,Effect of Special Items on Income Taxes,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,178,VITN,-340.11745,Inc Tax Ex Impact of Sp Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,179,VIAT,15150.22445,Normalized Income After Taxes,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,180,VIAC,15150.22445,Normalized Inc. Avail to Com.,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,181,VBES,7.04621,Basic Normalized EPS,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,182,VDES,7.03952,Diluted Normalized EPS,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,184,VAMI,360.698,"Amort of Intangibles, Supplemental",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,211,SPTM,1.75197,Pretax Margin,M,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,212,SETR,-0.32129,Effective Tax Rate,M,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,213,SNPM,1.7576,Net Profit Margin,M,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,998,SINN,689.083,"Interest Exp.(Inc.),Net-Operating, Total",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,851,OCRC,647750.465,Cash Receipts,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,852,OCPD,-407465.764,Cash Payments,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,853,SCTP,13948.695,Cash Taxes Paid,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,866,OOCF,-146098.478,Other Operating Cash Flow,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,877,OREP,-883.112,Reinsurance Payable,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,880,SOCF,-146981.59,Changes in Working Capital,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,881,OTLO,107251.806,Cash from Operating Activities,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,882,ICEX,-1326.005,Purchase of Fixed Assets,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,885,SCEX,-1326.005,Capital Expenditures,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,888,ISFA,15.091,Sale of Fixed Assets,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,889,IINS,913488.534,Sale/Maturity of Investment,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,890,IIVN,64288.566,"Investment, Net",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,891,IINP,-1272850.716,Purchase of Investments,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,899,IICF,160066.783,Other Investing Cash Flow,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,900,SICF,-134991.742,"Other Investing Cash Flow Items, Total",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,901,ITLI,-136317.747,Cash from Investing Activities,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,905,FFCF,-4770.877,Other Financing Cash Flow,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,906,SFCF,-4770.877,Financing Cash Flow Items,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,910,FSIC,737.038,Sale/Issuance of Common,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,912,FCSN,737.038,"Common Stock, Net",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,921,FPSS,737.038,"Issuance (Retirement) of Stock, Net",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,925,FLDI,0.0,Long Term Debt Issued,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,927,FLDN,0.0,"Long Term Debt, Net",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,930,FPRD,0.0,"Issuance (Retirement) of Debt, Net",M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,931,FTLF,-4033.839,Cash from Financing Activities,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,932,SFEE,0.0,Foreign Exchange Effects,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,933,SNCC,-33099.78,Net Change in Cash,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,934,SNCB,107982.837,Net Cash - Beginning Balance,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,935,SNCE,74883.057,Net Cash - Ending Balance,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,1140,SCWC,-883.112,Net Changes in Working Capital,M,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,436,ACSH,15292.392,Cash, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,489,APPN,4158.336,"Property/Plant/Equipment, Total - Net", ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,503,ALTI,2050203.466,LT Investments - Other, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,504,SINV,2050203.466,Long Term Investments, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,518,ASAC,955416.349,Separate Accounts - Assets, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,522,SOAT,955416.349,"Other Assets, Total", ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,523,ATOT,3025070.543,Total Assets, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,528,LINR,12114.714,Insurance Reserves, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,531,LSAC,955416.349,Separate Accounts - Liability, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,532,LOPF,1813744.716,Other Policyholders' Funds, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,534,SPOL,2781275.779,Policy Liabilities, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,547,LSTD,0.0,Notes Payable/Short Term Debt, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,559,LLTD,9500.0,Long Term Debt, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,561,LTTD,9500.0,Total Long Term Debt, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,562,STLD,9500.0,Total Debt, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,571,LOLB,87777.33,Other Liabilities, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,572,SLTL,87777.33,"Other Liabilities, Total", ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,573,LTLL,2878553.109,Total Liabilities, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,582,QCMS,21509.441,Common Stock, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,584,SCMS,21509.441,"Common Stock, Total", ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,585,QPIC,0.0,Additional Paid-In Capital, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,586,QRED,125007.993,Retained Earnings (Accumulated Deficit), ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,595,QTLE,146517.434,Total Equity, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,596,QTEL,3025070.543,Total Liabilities & Shareholders' Equity, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,597,QCSO1,2150.94413,Shares Outs - Common Stock Primary Issue, ,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,601,QTCO,2150.94413,Total Common Shares Outstanding, ,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,619,METL,32486.0,Employees, ,0,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,637,STBV,146517.434,Tangible Book Value, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,638,STBP,68.11773,Tangible Book Value per Share, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,1056,QTLL,146517.434,Total Equity & Minority Interest, ,1,0
+,HDFC Life Insurance Company Ltd (P),2024-03-31 00:00:00.000,1061,VPPN,4158.336,Other Property/Plant/Equipment - Net, ,1,0
