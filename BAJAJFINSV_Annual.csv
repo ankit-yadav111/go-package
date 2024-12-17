@@ -1,0 +1,356 @@
+"Ticker","Name","Period","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,12,RPRE,463226.5,Net Premiums Earned,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,13,ROIR,66135.7,Other Insurance Revenue,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,13,ROIR,240.8,Other Insurance Revenue,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,15,SPRE,240.8,Total Premiums Earned,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,15,SPRE,529362.2,Total Premiums Earned,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,16,RNII,539511.7,Net Investment Income,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,16,RNII,16641.1,Net Investment Income,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,17,RRGL,90.1,Realized Gains (Losses),M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,17,RRGL,12990.0,Realized Gains (Losses),M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,27,RNIR,6551.2,Other Non-Insurance Revenue,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,30,SORE,6551.2,"Other Revenue, Total",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,31,RTLR,1088415.1,Total Revenue,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,31,RTLR,16972.0,Total Revenue,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,47,ELBA,320857.5,"Losses, Benefits, and Adjustments",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,49,ERII,95631.4,Reinsurance - Expense,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,50,SLBA,416488.9,"Losses, Benefits, and Adjustments, Total",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,52,ESGA,109722.6,Selling/General/Administrative Expense,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,53,ELAR,103770.7,Labor & Related Expense,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,53,ELAR,1268.3,Labor & Related Expense,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,54,EADV,12644.4,Advertising Expense,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,55,SSGA,226137.7,"Selling/General/Admin. Expenses, Total",M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,55,SSGA,1268.3,"Selling/General/Admin. Expenses, Total",M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,57,EDEP,33.5,Depreciation,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,57,EDEP,6420.7,Depreciation,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,58,EAMI,2572.5,Amortization of Intangibles,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,60,SDPR,8993.2,Depreciation/Amortization,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,60,SDPR,33.5,Depreciation/Amortization,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,72,EIAS,46335.8,Impairment-Assets Held for Sale,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,74,SUIE,46335.8,Unusual Expense (Income),M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,80,EOOE,8039.0,Other Operating Expense,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,80,EOOE,645.9,Other Operating Expense,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,82,SOOE,645.9,"Other Operating Expenses, Total",M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,82,SOOE,8039.0,"Other Operating Expenses, Total",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,83,ETOE,705994.6,Total Operating Expense,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,83,ETOE,1947.7,Total Operating Expense,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,84,SOPI,15024.3,Operating Income,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,84,SOPI,382420.5,Operating Income,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,85,NIEN,-183751.1,Interest Expense - Non-Operating,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,87,SIEN,-183751.1,"Interest Expense, Net Non-Operating",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,89,NINV,15449.0,Investment Income - Non-Operating,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,89,NINV,-0.1,Investment Income - Non-Operating,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,90,SIIN,-0.1,Interest/Invest Income -  Non-Operating,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,90,SIIN,15449.0,Interest/Invest Income -  Non-Operating,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,92,NGLA,-124.1,Gain (Loss) on Sale of Assets,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,92,NGLA,1.3,Gain (Loss) on Sale of Assets,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,126,NONT,343.7,Other Non-Operating Income (Expense),M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,126,NONT,-244.0,Other Non-Operating Income (Expense),M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,127,SONT,-244.0,"Other, Net",M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,127,SONT,343.7,"Other, Net",M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,128,EIBT,15369.2,Net Income Before Taxes,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,128,EIBT,213750.3,Net Income Before Taxes,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,129,TTAX,57796.7,Provision for Income Taxes,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,129,TTAX,3668.6,Provision for Income Taxes,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,130,TIAT,11700.6,Net Income After Taxes,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,130,TIAT,155953.6,Net Income After Taxes,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,131,CMIN,-74475.7,Minority Interest,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,134,NIBX,81477.9,Net Income Before Extra. Items,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,134,NIBX,11700.6,Net Income Before Extra. Items,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,140,NINC,11700.6,Net Income,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,140,NINC,81477.9,Net Income,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,147,CIAC,81477.9,Income Available to Com Excl ExtraOrd,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,147,CIAC,11700.6,Income Available to Com Excl ExtraOrd,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,148,XNIC,11700.6,Income Available to Com Incl ExtraOrd,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,148,XNIC,81477.9,Income Available to Com Incl ExtraOrd,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,149,SBAS,1592.81546,Basic Weighted Average Shares,M,0,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,149,SBAS,1592.81546,Basic Weighted Average Shares,M,0,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,150,SBBF,7.34586,Basic EPS Excluding Extraordinary Items,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,150,SBBF,51.15338,Basic EPS Excluding Extraordinary Items,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,151,SBAI,51.15338,Basic EPS Including Extraordinary Items,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,151,SBAI,7.34586,Basic EPS Including Extraordinary Items,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,153,SDNI,11700.6,Diluted Net Income,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,153,SDNI,81477.9,Diluted Net Income,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,154,SDWS,1608.28929,Diluted Weighted Average Shares,M,0,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,154,SDWS,1608.28929,Diluted Weighted Average Shares,M,0,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,155,SDBF,7.27518,Diluted EPS Excluding ExtraOrd Items,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,155,SDBF,50.66122,Diluted EPS Excluding ExtraOrd Items,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,156,SDAI,50.66122,Diluted EPS Including ExtraOrd Items,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,156,SDAI,7.27518,Diluted EPS Including ExtraOrd Items,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,157,DDPS1,1.0,DPS - Common Stock Primary Issue,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,157,DDPS1,1.0,DPS - Common Stock Primary Issue,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,165,DCGD,1595.5,Gross Dividends - Common Stock,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,171,VIEX,183751.1,"Interest Expense, Supplemental",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,173,VDEP,6420.7,"Depreciation, Supplemental",M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,173,VDEP,34.8,"Depreciation, Supplemental",M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,175,STSI,-1.3,Total Special Items,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,175,STSI,46459.9,Total Special Items,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,176,VPTI,260210.2,Normalized Income Before Taxes,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,176,VPTI,15367.9,Normalized Income Before Taxes,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,177,STEC,-0.31031,Effect of Special Items on Income Taxes,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,177,STEC,12562.45677,Effect of Special Items on Income Taxes,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,178,VITN,70359.15677,Inc Tax Ex Impact of Sp Items,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,178,VITN,3668.28969,Inc Tax Ex Impact of Sp Items,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,179,VIAT,11699.61031,Normalized Income After Taxes,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,179,VIAT,189851.04324,Normalized Income After Taxes,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,180,VIAC,115375.34324,Normalized Inc. Avail to Com.,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,180,VIAC,11699.61031,Normalized Inc. Avail to Com.,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,181,VBES,7.34524,Basic Normalized EPS,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,181,VBES,72.43485,Basic Normalized EPS,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,182,VDES,71.73793,Diluted Normalized EPS,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,182,VDES,7.27457,Diluted Normalized EPS,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,184,VAMI,2572.5,"Amort of Intangibles, Supplemental",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,185,VRXP,840.0,"Rental Expense, Supplemental",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,187,VADV,12644.4,"Advertising Expense, Supplemental",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,188,VEIA,80.9,"Equity in Affiliates, Supplemental",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,189,VMIN,-74475.7,"Minority Interest, Supplemental",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,191,VTAU,42.0,Audit Fees,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,192,VTAR,5.6,Audit-Related Fees,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,193,VTTF,4.3,Tax Fees,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,194,VTOF,3.2,All Other Fees,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,211,SPTM,19.63867,Pretax Margin,M,0,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,211,SPTM,90.55621,Pretax Margin,M,0,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,212,SETR,23.86982,Effective Tax Rate,M,0,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,212,SETR,27.03935,Effective Tax Rate,M,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,213,SNPM,7.48592,Net Profit Margin,M,0,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,213,SNPM,68.94061,Net Profit Margin,M,0,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,217,VCTD,58113.3,Current Tax - Domestic,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,220,VCTO,-85.0,Current Tax - Other,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,221,VCTR,3666.1,Current Tax - Total,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,222,VCTC,3666.1,Current Tax - Total,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,222,VCTC,58028.3,Current Tax - Total,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,227,VDTR,-231.6,Deferred Tax - Total,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,227,VDTR,2.5,Deferred Tax - Total,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,228,VDTC,2.5,Deferred Tax - Total,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,228,VDTC,-231.6,Deferred Tax - Total,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,233,VITT,57796.7,Income Tax - Total,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,233,VITT,3668.6,Income Tax - Total,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,239,VICD,0.0,Interest Cost - Domestic,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,240,VSCD,958.5,Service Cost - Domestic,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,241,VTPS,0.0,Prior Service Cost - Domestic,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,247,VDPP,1080.6,Domestic Pension Plan Expense,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,266,VDCD,807.3,Defined Contribution Expense - Domestic,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,269,VTPE,1887.9,Total Pension Expense,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,282,STPI,0.0,Total Plan Interest Cost,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,283,STPS,958.5,Total Plan Service Cost,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,341,MIBF,26.1,"Expense Ratio, Total -%",M,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,342,MIBH,73.8,"Loss Ratio, Total -%",M,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,343,MIBL,99.9,"Combined Ratio, Total -%",M,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,346,MIBZ,-1660.0,Underwriting Profit or Loss,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,348,MIGO,114940.0,New Business Annual Premium Equiv. (APE),M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,436,ACSH,49986.4,Cash, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,437,ACAE,7663.8,Cash & Equivalents, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,437,ACAE,209.7,Cash & Equivalents, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,444,AORC,834.4,Receivables - Other, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,444,AORC,13.4,Receivables - Other, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,445,ATRC,13.4,"Total Receivables, Net", ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,445,ATRC,834.4,"Total Receivables, Net", ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,480,APBC,7941.5,Buildings - Gross, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,481,ALIC,6744.8,Land/Improvements - Gross, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,483,ACPC,821.2,Construction in Progress - Gross, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,486,AOPC,48214.0,Other Property/Plant/Equipment - Gross, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,487,APTC,63721.5,"Property/Plant/Equipment, Total - Gross", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,488,ADEP,-25449.1,"Accumulated Depreciation, Total", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,489,APPN,38272.4,"Property/Plant/Equipment, Total - Net", ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,489,APPN,1125.2,"Property/Plant/Equipment, Total - Net", ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,492,AGWI,6893.4,"Goodwill, Net", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,493,AING,18193.2,Intangibles - Gross, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,494,AAMT,-8285.7,Accumulated Intangible Amortization, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,495,AINT,11287.1,"Intangibles, Net", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,502,AEQI,3827.6,LT Investment - Affiliate Companies, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,502,AEQI,41715.5,LT Investment - Affiliate Companies, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,503,ALTI,22028.5,LT Investments - Other, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,503,ALTI,4947741.3,LT Investments - Other, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,504,SINV,4951568.9,Long Term Investments, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,504,SINV,63744.0,Long Term Investments, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,505,APRE,7.9,Insurance Receivables, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,505,APRE,59738.6,Insurance Receivables, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,506,ALTR,146664.7,Note Receivable - Long Term, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,506,ALTR,517.2,Note Receivable - Long Term, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,509,ADTA,10281.7,Defered Income Tax - Long Term Asset, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,511,ARCL,66216.4,Restricted Cash - Long Term, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,511,ARCL,5.6,Restricted Cash - Long Term, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,513,SOLA,5.6,"Other Long Term Assets, Total", ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,513,SOLA,76498.1,"Other Long Term Assets, Total", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,516,AAII,17486.7,Accrued Investment Income, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,521,AOAT,13222.8,Other Assets, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,521,AOAT,61.3,Other Assets, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,522,SOAT,61.3,"Other Assets, Total", ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,522,SOAT,30709.5,"Other Assets, Total", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,523,ATOT,5379296.3,Total Assets, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,523,ATOT,66505.3,Total Assets, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,524,LAPB,27.8,Accounts Payable, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,524,LAPB,39694.5,Accounts Payable, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,526,LAEX,1034.3,Accrued Expenses, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,533,LRII,23079.7,Reinsurance - Liability, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,534,SPOL,23079.7,Policy Liabilities, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,547,LSTD,887246.4,Notes Payable/Short Term Debt, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,547,LSTD,0.0,Notes Payable/Short Term Debt, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,548,LCLD,434475.4,Current Port. of  LT Debt/Capital Leases, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,549,LDPB,36.3,Dividends Payable, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,551,LSDP,1511.1,Security Deposits, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,552,LTXP,14243.7,Income Taxes Payable, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,552,LTXP,174.1,Income Taxes Payable, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,553,LOPB,19236.3,Other Payables, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,557,SOCL,35027.4,"Other Current liabilities, Total", ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,557,SOCL,174.1,"Other Current liabilities, Total", ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,559,LLTD,1554266.5,Long Term Debt, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,560,LCLO,13337.9,Capital Lease Obligations, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,561,LTTD,1567604.4,Total Long Term Debt, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,561,LTTD,0.0,Total Long Term Debt, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,562,STLD,0.0,Total Debt, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,562,STLD,2889326.2,Total Debt, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,563,LBDT,5144.9,Deferred Income Tax - LT Liability, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,563,LBDT,39.5,Deferred Income Tax - LT Liability, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,565,SBDT,39.5,Deferred Income Tax, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,565,SBDT,5144.9,Deferred Income Tax, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,566,LMIN,434472.1,Minority Interest, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,568,LPBL,3067.7,Pension Benefits - Underfunded, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,571,LOLB,1345163.1,Other Liabilities, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,571,LOLB,574.2,Other Liabilities, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,572,SLTL,574.2,"Other Liabilities, Total", ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,572,SLTL,1348230.8,"Other Liabilities, Total", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,573,LTLL,4776009.9,Total Liabilities, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,573,LTLL,815.6,Total Liabilities, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,582,QCMS,1594.1,Common Stock, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,582,QCMS,1594.1,Common Stock, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,584,SCMS,1594.1,"Common Stock, Total", ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,584,SCMS,1594.1,"Common Stock, Total", ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,585,QPIC,143996.5,Additional Paid-In Capital, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,586,QRED,448573.4,Retained Earnings (Accumulated Deficit), ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,586,QRED,64095.6,Retained Earnings (Accumulated Deficit), ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,587,QTSC,-1043.1,Treasury Stock - Common, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,589,QUGL,5348.3,Unrealized Gain (Loss), ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,593,QCOM,4817.2,Other Comprehensive Income, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,594,SOTE,4817.2,"Other Equity, Total", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,595,QTLE,603286.4,Total Equity, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,595,QTLE,65689.7,Total Equity, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,596,QTEL,66505.3,Total Liabilities & Shareholders' Equity, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,596,QTEL,5379296.3,Total Liabilities & Shareholders' Equity, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,597,QCSO1,1592.56437,Shares Outs - Common Stock Primary Issue, ,0,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,597,QCSO1,1595.48881,Shares Outs - Common Stock Primary Issue, ,0,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,601,QTCO,1595.48881,Total Common Shares Outstanding, ,0,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,601,QTCO,1592.56437,Total Common Shares Outstanding, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,602,QTSN1,2.92444,Treas Shares - Common Stock Prmry Issue, ,0,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,619,METL,125.0,Employees, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,621,MNOS,586118.0,Number of Common Shareholders, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,623,VAIA,8285.7,"Accumulated Intangible Amort, Suppl.", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,626,VRWC,3151097.6909,Total Risk-Weighted Capital, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,627,VRTO,21.51,Capital Adequacy-Tier 1 Capital %, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,628,VRTC,22.52,Total Capital %, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,632,VRUZ,3306150.0,Assets under Management, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,637,STBV,585105.9,Tangible Book Value, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,637,STBV,65689.7,Tangible Book Value, ,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,638,STBP,41.17215,Tangible Book Value per Share, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,638,STBP,367.39859,Tangible Book Value per Share, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,691,VAPD,7413.9,Pension Obligation - Domestic, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,694,VPAD,4352.6,Plan Assets - Domestic, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,697,VPPD,-3061.3,Funded Status - Domestic, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,704,VFSS,-3061.3,Total Funded Status, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,705,VDRD,7.2,Discount Rate - Domestic, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,711,VRCD,10.0,Compensation Rate - Domestic, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,723,VALD,-3061.3,Accrued Liabilities - Domestic, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,732,VARS,-3061.3,Net Assets Recognized on Balance Sheet, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,745,VXID,100.0,Other Investments % - Domestic, ,0,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,749,STPO,7413.9,Total Plan Obligations, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,750,STPA,4352.6,Total Plan Assets, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,759,MIEV,217260.0,Embedded Value, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,834,ONET,15369.2,Net Income/Starting Line,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,834,ONET,213750.3,Net Income/Starting Line,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,835,SDEP,9001.3,Depreciation,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,835,SDEP,34.8,Depreciation,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,837,SDED,34.8,Depreciation/Depletion,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,837,SDED,9001.3,Depreciation/Depletion,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,846,OUIE,18093.8,Unusual Items,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,846,OUIE,-1.3,Unusual Items,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,848,OEIA,-58.1,Equity in Net Earnings (Loss),M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,849,ONCI,-67793.9,Other Non-Cash Items,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,849,ONCI,-213.1,Other Non-Cash Items,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,850,SNCI,-214.4,Non-Cash Items,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,850,SNCI,-49758.2,Non-Cash Items,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,853,SCTP,59751.7,Cash Taxes Paid,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,853,SCTP,3693.6,Cash Taxes Paid,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,856,OACR,0.3,Accounts Receivable,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,856,OACR,-899892.7,Accounts Receivable,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,859,OOAS,-45849.2,Other Assets,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,859,OOAS,-270.1,Other Assets,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,860,OAPB,13819.1,Accounts Payable,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,864,OOLB,167641.5,Other Liabilities,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,864,OOLB,88.0,Other Liabilities,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,865,OOAL,-248.5,"Other Assets & Liabilities, Net",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,866,OOCF,-59751.7,Other Operating Cash Flow,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,866,OOCF,-1799.8,Other Operating Cash Flow,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,867,OINV,-90.0,"Investment Securities, Gains/Losses",M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,877,OREP,-35453.9,Reinsurance Payable,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,880,SOCF,-859735.4,Changes in Working Capital,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,880,SOCF,-2071.6,Changes in Working Capital,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,881,OTLO,13118.0,Cash from Operating Activities,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,881,OTLO,-686742.0,Cash from Operating Activities,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,882,ICEX,-9612.9,Purchase of Fixed Assets,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,882,ICEX,-28.4,Purchase of Fixed Assets,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,883,IIAQ,-4741.8,Purchase/Acquisition of Intangibles,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,885,SCEX,-14354.7,Capital Expenditures,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,885,SCEX,-28.4,Capital Expenditures,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,886,IBAQ,-2674.6,Acquisition of Business,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,888,ISFA,1234.1,Sale of Fixed Assets,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,888,ISFA,13.6,Sale of Fixed Assets,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,889,IINS,26834.8,Sale/Maturity of Investment,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,889,IINS,2532871.9,Sale/Maturity of Investment,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,891,IINP,-2695959.8,Purchase of Investments,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,891,IINP,-39546.5,Purchase of Investments,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,899,IICF,69286.2,Other Investing Cash Flow,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,900,SICF,-95242.2,"Other Investing Cash Flow Items, Total",M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,900,SICF,-12698.1,"Other Investing Cash Flow Items, Total",M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,901,ITLI,-12726.5,Cash from Investing Activities,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,901,ITLI,-109596.9,Cash from Investing Activities,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,905,FFCF,147254.1,Other Financing Cash Flow,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,905,FFCF,0.0,Other Financing Cash Flow,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,906,SFCF,0.0,Financing Cash Flow Items,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,906,SFCF,147254.1,Financing Cash Flow Items,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,907,FDPC,-11834.0,Cash Dividends Paid - Common,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,907,FDPC,-1273.4,Cash Dividends Paid - Common,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,909,FCDP,-1273.4,Total Cash Dividends Paid,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,909,FCDP,-11834.0,Total Cash Dividends Paid,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,910,FSIC,91690.9,Sale/Issuance of Common,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,910,FSIC,1019.2,Sale/Issuance of Common,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,912,FCSN,1019.2,"Common Stock, Net",M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,912,FCSN,91690.9,"Common Stock, Net",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,921,FPSS,91690.9,"Issuance (Retirement) of Stock, Net",M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,921,FPSS,1019.2,"Issuance (Retirement) of Stock, Net",M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,924,FSDN,220237.7,"Short Term Debt, Net",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,925,FLDI,726661.2,Long Term Debt Issued,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,926,FLDR,-346922.8,Long Term Debt Reduction,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,927,FLDN,379738.4,"Long Term Debt, Net",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,930,FPRD,599976.1,"Issuance (Retirement) of Debt, Net",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,931,FTLF,827087.1,Cash from Financing Activities,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,931,FTLF,-254.2,Cash from Financing Activities,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,933,SNCC,137.3,Net Change in Cash,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,933,SNCC,30748.2,Net Change in Cash,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,934,SNCB,55043.9,Net Cash - Beginning Balance,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,934,SNCB,72.4,Net Cash - Beginning Balance,M,1,0
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,935,SNCE,209.7,Net Cash - Ending Balance,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,935,SNCE,85792.1,Net Cash - Ending Balance,M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,999,SNIN,-0.1,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,999,SNIN,-168302.1,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1056,QTLL,1037758.5,Total Equity & Minority Interest, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,1056,QTLL,65689.7,Total Equity & Minority Interest, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1057,VMNR,434472.1,Minority Interest - Non Redeemable, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1059,VGWI,6893.4,Goodwill - Net, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1060,VINT,1379.6,Intangibles - Net, ,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,1061,VPPN,1125.2,Other Property/Plant/Equipment - Net, ,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1078,VDNI,122.1,Net Interest Cost - Domestic,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1086,VDVL,61.2,"Non-Curr Derivative Liab. Hedging, Suppl", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1088,VRT2,1.01,Capital Adequacy - Tier 2 Capital %, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1089,VRV1,677961.1,Capital Adequacy -Tier 1 Capital (Value), ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1090,VRV2,31666.1,Capital Adequacy -Tier 2 Capital (Value), ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1091,VRVT,709627.2,Capital Adequacy - Total Capital (Value), ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1115,VNMS,750474.6,Non-Current Marketable Securities Suppl, ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1124,VUCD,7211.6,"Right-of-Use Assets-Cap.Lease,Depr.-Sup.", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1128,VUCG,19374.6,"Right-of-Use Assets-Cap.Lease,Gross-Sup.", ,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1130,VDRU,2702.9,"Depreciation of Right-of-Use Assets,Sup.",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1132,VIEL,864.7,"Interest Expense on Lease Liabs., Suppl.",M,1,1
+,Bajaj Finserv Ltd (Parent),2024-03-31 00:00:00.000,1140,SCWC,-271.8,Net Changes in Working Capital,M,1,0
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1140,SCWC,-799983.7,Net Changes in Working Capital,M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1172,VLLR,-3163.8,"Lease liability Reduced, Supplemental",M,1,1
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03-31 00:00:00.000,1174,VSPY,3925.2,"Share Based Payments,  Supplemental",M,1,1
