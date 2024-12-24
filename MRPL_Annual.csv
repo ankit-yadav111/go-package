@@ -1,0 +1,405 @@
+"Ticker","Name","Period","ITEM","COA","Value_","Desc_","Unit","IsCurrency","Consolidated"
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1,RNTS,360.8,Net Sales,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,2,RREV,1051896.8,Gross Revenue,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,2,RREV,1052232.78,Gross Revenue,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,10,SREV,1052232.78,Revenue,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,10,SREV,1052257.6,Revenue,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,31,RTLR,1052257.6,Total Revenue,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,31,RTLR,1052232.78,Total Revenue,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,34,ECOR,797198.68,Cost of Revenue,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,34,ECOR,804859.67,Cost of Revenue,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,35,EEXT,148165.97,Excise Taxes Payments,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,35,EEXT,148165.97,Excise Taxes Payments,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,36,SCOR,945364.65,"Cost of Revenue, Total",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,36,SCOR,953025.64,"Cost of Revenue, Total",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,37,SGRP,99231.96,Gross Profit,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,37,SGRP,106868.13,Gross Profit,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,52,ESGA,8419.07,Selling/General/Administrative Expense,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,53,ELAR,7724.89,Labor & Related Expense,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,53,ELAR,7720.63,Labor & Related Expense,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,55,SSGA,7720.63,"Selling/General/Admin. Expenses, Total",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,55,SSGA,16143.96,"Selling/General/Admin. Expenses, Total",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,57,EDEP,12550.0,Depreciation,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,57,EDEP,12550.0,Depreciation,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,58,EAMI,22.85,Amortization of Intangibles,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,58,EAMI,22.85,Amortization of Intangibles,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,60,SDPR,12572.85,Depreciation/Amortization,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,60,SDPR,12572.85,Depreciation/Amortization,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,73,EUIE,82.9,Other Unusual Expense (Income),M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,73,EUIE,82.9,Other Unusual Expense (Income),M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,74,SUIE,82.9,Unusual Expense (Income),M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,74,SUIE,82.9,Unusual Expense (Income),M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,80,EOOE,20756.52,Other Operating Expense,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,80,EOOE,3346.26,Other Operating Expense,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,81,EONT,-8.71,"Other, Net",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,82,SOOE,3337.55,"Other Operating Expenses, Total",M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,82,SOOE,20756.52,"Other Operating Expenses, Total",M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,83,ETOE,986497.55,Total Operating Expense,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,83,ETOE,985162.9,Total Operating Expense,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,84,SOPI,67094.7,Operating Income,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,84,SOPI,65735.23,Operating Income,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,85,NIEN,-10812.81,Interest Expense - Non-Operating,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,85,NIEN,-10812.81,Interest Expense - Non-Operating,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,87,SIEN,-10812.81,"Interest Expense, Net Non-Operating",M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,87,SIEN,-10812.81,"Interest Expense, Net Non-Operating",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,88,NIIN,149.44,Interest Income - Non-Operating,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,89,NINV,-1468.17,Investment Income - Non-Operating,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,89,NINV,-299.53,Investment Income - Non-Operating,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,90,SIIN,-299.53,Interest/Invest Income -  Non-Operating,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,90,SIIN,-1318.73,Interest/Invest Income -  Non-Operating,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,92,NGLA,-1433.49,Gain (Loss) on Sale of Assets,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,92,NGLA,-1433.49,Gain (Loss) on Sale of Assets,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,126,NONT,2024.73,Other Non-Operating Income (Expense),M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,126,NONT,1695.69,Other Non-Operating Income (Expense),M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,127,SONT,1695.69,"Other, Net",M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,127,SONT,2024.73,"Other, Net",M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,128,EIBT,55214.13,Net Income Before Taxes,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,128,EIBT,55225.36,Net Income Before Taxes,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,129,TTAX,19254.76,Provision for Income Taxes,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,129,TTAX,19254.76,Provision for Income Taxes,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,130,TIAT,35959.37,Net Income After Taxes,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,130,TIAT,35970.6,Net Income After Taxes,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,131,CMIN,0.0,Minority Interest,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,134,NIBX,35970.6,Net Income Before Extra. Items,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,134,NIBX,35959.37,Net Income Before Extra. Items,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,140,NINC,35959.37,Net Income,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,140,NINC,35970.6,Net Income,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,147,CIAC,35970.6,Income Available to Com Excl ExtraOrd,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,147,CIAC,35959.37,Income Available to Com Excl ExtraOrd,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,148,XNIC,35959.37,Income Available to Com Incl ExtraOrd,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,148,XNIC,35970.6,Income Available to Com Incl ExtraOrd,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,149,SBAS,1752.6,Basic Weighted Average Shares,M,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,149,SBAS,1752.6,Basic Weighted Average Shares,M,0,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,150,SBBF,20.51773,Basic EPS Excluding Extraordinary Items,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,150,SBBF,20.52414,Basic EPS Excluding Extraordinary Items,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,151,SBAI,20.52414,Basic EPS Including Extraordinary Items,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,151,SBAI,20.51773,Basic EPS Including Extraordinary Items,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,153,SDNI,35959.37,Diluted Net Income,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,153,SDNI,35970.6,Diluted Net Income,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,154,SDWS,1752.6,Diluted Weighted Average Shares,M,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,154,SDWS,1752.6,Diluted Weighted Average Shares,M,0,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,155,SDBF,20.51773,Diluted EPS Excluding ExtraOrd Items,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,155,SDBF,20.52414,Diluted EPS Excluding ExtraOrd Items,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,156,SDAI,20.52414,Diluted EPS Including ExtraOrd Items,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,156,SDAI,20.51773,Diluted EPS Including ExtraOrd Items,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,157,DDPS1,3.0,DPS - Common Stock Primary Issue,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,157,DDPS1,3.0,DPS - Common Stock Primary Issue,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,165,DCGD,3505.2,Gross Dividends - Common Stock,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,171,VIEX,10812.81,"Interest Expense, Supplemental",M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,171,VIEX,10812.81,"Interest Expense, Supplemental",M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,173,VDEP,12550.0,"Depreciation, Supplemental",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,173,VDEP,12550.0,"Depreciation, Supplemental",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,175,STSI,1516.39,Total Special Items,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,175,STSI,1516.39,Total Special Items,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,176,VPTI,56730.52,Normalized Income Before Taxes,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,176,VPTI,56741.75,Normalized Income Before Taxes,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,177,STEC,528.70141,Effect of Special Items on Income Taxes,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,177,STEC,528.80894,Effect of Special Items on Income Taxes,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,178,VITN,19783.56894,Inc Tax Ex Impact of Sp Items,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,178,VITN,19783.46141,Inc Tax Ex Impact of Sp Items,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,179,VIAT,36958.28859,Normalized Income After Taxes,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,179,VIAT,36946.95106,Normalized Income After Taxes,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,180,VIAC,36946.95106,Normalized Inc. Avail to Com.,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,180,VIAC,36958.28859,Normalized Inc. Avail to Com.,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,181,VBES,21.08769,Basic Normalized EPS,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,181,VBES,21.08122,Basic Normalized EPS,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,182,VDES,21.08122,Diluted Normalized EPS,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,182,VDES,21.08769,Diluted Normalized EPS,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,184,VAMI,22.85,"Amort of Intangibles, Supplemental",M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,184,VAMI,22.85,"Amort of Intangibles, Supplemental",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,185,VRXP,72.51,"Rental Expense, Supplemental",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,188,VEIA,146.23,"Equity in Affiliates, Supplemental",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,189,VMIN,0.0,"Minority Interest, Supplemental",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,190,VRAD,22.1,"Research & Development Exp, Supplemental",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,191,VTAU,3.48,Audit Fees,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,193,VTTF,0.92,Tax Fees,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,194,VTOF,2.83,All Other Fees,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,209,SGPP,9.43039,Gross Margin,M,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,209,SGPP,10.15632,Gross Margin,M,0,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,210,SOPP,6.24721,Operating Margin,M,0,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,210,SOPP,6.37626,Operating Margin,M,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,211,SPTM,5.24827,Pretax Margin,M,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,211,SPTM,5.24733,Pretax Margin,M,0,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,212,SETR,34.87288,Effective Tax Rate,M,0,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,212,SETR,34.86579,Effective Tax Rate,M,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,213,SNPM,3.41842,Net Profit Margin,M,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,213,SNPM,3.41743,Net Profit Margin,M,0,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,214,SBIT,65818.13,Normalized EBIT,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,214,SBIT,67177.6,Normalized EBIT,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,215,SBDA,79750.45,Normalized EBITDA,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,215,SBDA,78390.98,Normalized EBITDA,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,221,VCTR,9647.9,Current Tax - Total,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,221,VCTR,9647.9,Current Tax - Total,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,222,VCTC,9647.9,Current Tax - Total,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,222,VCTC,9647.9,Current Tax - Total,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,227,VDTR,9612.65,Deferred Tax - Total,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,227,VDTR,9612.65,Deferred Tax - Total,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,228,VDTC,9612.65,Deferred Tax - Total,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,228,VDTC,9612.65,Deferred Tax - Total,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,232,VOTO,-5.79,Other Tax,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,232,VOTO,-5.79,Other Tax,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,233,VITT,19254.76,Income Tax - Total,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,233,VITT,19254.76,Income Tax - Total,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,240,VSCD,71.33,Service Cost - Domestic,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,247,VDPP,88.04,Domestic Pension Plan Expense,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,257,VPIC,9.33,Interest Cost - Post-Retirement,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,258,VPSC,8.2,Service Cost - Post-Retirement,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,265,VRPE,17.53,Post-Retirement Plan Expense,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,269,VTPE,105.57,Total Pension Expense,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,282,STPI,9.33,Total Plan Interest Cost,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,283,STPS,79.53,Total Plan Service Cost,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,436,ACSH,97.28,Cash, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,436,ACSH,97.28,Cash, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,437,ACAE,288.78,Cash & Equivalents, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,438,ASTI,29.14,Short Term Investments, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,439,SCSI,415.2,Cash and Short Term Investments, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,439,SCSI,97.28,Cash and Short Term Investments, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,440,AARG,39538.55,"Accounts Receivable - Trade, Gross", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,440,AARG,38601.42,"Accounts Receivable - Trade, Gross", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,441,APDA,-920.97,Provision for Doubtful Accounts, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,442,AACR,38617.58,"Accounts Receivable - Trade, Net", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,442,AACR,38601.42,"Accounts Receivable - Trade, Net", ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,443,ASTR,251.64,Notes Receivable - Short Term, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,443,ASTR,251.64,Notes Receivable - Short Term, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,444,AORC,4664.66,Receivables - Other, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,444,AORC,0.0,Receivables - Other, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,445,ATRC,38853.06,"Total Receivables, Net", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,445,ATRC,43533.88,"Total Receivables, Net", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,446,AIFG,30665.82,Inventories - Finished Goods, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,447,AIWP,13562.0,Inventories - Work In Progress, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,448,AIRM,38832.39,Inventories - Raw Materials, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,449,AIOT,0.08,Inventories - Other, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,453,AITL,83060.29,Total Inventory, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,453,AITL,83060.29,Total Inventory, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,454,APPY,185.01,Prepaid Expenses, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,455,ARCA,288.78,Restricted Cash - Current, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,459,ADCA,98.55,Discontinued Operations - Current Asset, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,459,ADCA,98.55,Discontinued Operations - Current Asset, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,460,AOCA,4850.58,Other Current Assets, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,460,AOCA,13.89,Other Current Assets, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,461,SOCA,401.22,"Other Current Assets, Total", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,461,SOCA,4949.13,"Other Current Assets, Total", ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,462,ATCA,127277.68,Total Current Assets, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,462,ATCA,127277.68,Total Current Assets, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,480,APBC,9976.58,Buildings - Gross, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,481,ALIC,1607.5,Land/Improvements - Gross, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,482,AMEC,272389.15,Machinery/Equipment - Gross, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,483,ACPC,7214.08,Construction in Progress - Gross, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,486,AOPC,9155.48,Other Property/Plant/Equipment - Gross, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,487,APTC,300342.79,"Property/Plant/Equipment, Total - Gross", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,488,ADEP,-92909.95,"Accumulated Depreciation, Total", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,489,APPN,207432.84,"Property/Plant/Equipment, Total - Net", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,489,APPN,207432.84,"Property/Plant/Equipment, Total - Net", ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,492,AGWI,3772.78,"Goodwill, Net", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,492,AGWI,3772.78,"Goodwill, Net", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,493,AING,485.33,Intangibles - Gross, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,494,AAMT,-231.01,Accumulated Intangible Amortization, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,495,AINT,254.32,"Intangibles, Net", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,495,AINT,254.32,"Intangibles, Net", ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,502,AEQI,150.0,LT Investment - Affiliate Companies, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,502,AEQI,460.19,LT Investment - Affiliate Companies, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,503,ALTI,101.14,LT Investments - Other, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,503,ALTI,1147.9,LT Investments - Other, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,504,SINV,1297.9,Long Term Investments, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,504,SINV,561.33,Long Term Investments, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,506,ALTR,11380.96,Note Receivable - Long Term, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,506,ALTR,3478.31,Note Receivable - Long Term, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,507,ADFC,181.64,Deferred Charges, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,509,ADTA,2845.32,Defered Income Tax - Long Term Asset, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,509,ADTA,2845.32,Defered Income Tax - Long Term Asset, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,512,AOAS,7630.9,Other Long Term Assets, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,512,AOAS,593.46,Other Long Term Assets, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,513,SOLA,3620.42,"Other Long Term Assets, Total", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,513,SOLA,10476.22,"Other Long Term Assets, Total", ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,523,ATOT,353990.05,Total Assets, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,523,ATOT,354300.33,Total Assets, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,524,LAPB,72035.98,Accounts Payable, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,524,LAPB,72035.98,Accounts Payable, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,526,LAEX,6115.03,Accrued Expenses, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,547,LSTD,24904.36,Notes Payable/Short Term Debt, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,547,LSTD,24904.36,Notes Payable/Short Term Debt, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,548,LCLD,10733.75,Current Port. of  LT Debt/Capital Leases, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,548,LCLD,10733.75,Current Port. of  LT Debt/Capital Leases, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,549,LDPB,262.47,Dividends Payable, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,550,LCAV,584.18,Customer Advances, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,551,LSDP,669.43,Security Deposits, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,552,LTXP,727.03,Income Taxes Payable, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,552,LTXP,727.03,Income Taxes Payable, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,553,LOPB,2698.86,Other Payables, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,556,LOCL,4927.15,Other Current Liabilities, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,556,LOCL,15257.12,Other Current Liabilities, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,557,SOCL,15984.15,"Other Current liabilities, Total", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,557,SOCL,9869.12,"Other Current liabilities, Total", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,558,LTCL,123658.24,Total Current Liabilities, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,558,LTCL,123658.24,Total Current Liabilities, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,559,LLTD,89121.88,Long Term Debt, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,559,LLTD,89121.88,Long Term Debt, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,560,LCLO,2110.28,Capital Lease Obligations, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,560,LCLO,2110.28,Capital Lease Obligations, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,561,LTTD,91232.16,Total Long Term Debt, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,561,LTTD,91232.16,Total Long Term Debt, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,562,STLD,126870.27,Total Debt, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,562,STLD,126870.27,Total Debt, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,567,LRSV,1971.09,Reserves, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,567,LRSV,1814.5,Reserves, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,568,LPBL,156.59,Pension Benefits - Underfunded, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,569,LLTL,4613.68,Other Long Term Liabilities, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,569,LLTL,4613.68,Other Long Term Liabilities, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,572,SLTL,6584.77,"Other Liabilities, Total", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,572,SLTL,6584.77,"Other Liabilities, Total", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,573,LTLL,221475.17,Total Liabilities, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,573,LTLL,221475.17,Total Liabilities, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,582,QCMS,17526.64,Common Stock, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,582,QCMS,17526.64,Common Stock, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,584,SCMS,17526.64,"Common Stock, Total", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,584,SCMS,17526.64,"Common Stock, Total", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,585,QPIC,3463.9,Additional Paid-In Capital, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,586,QRED,111770.86,Retained Earnings (Accumulated Deficit), ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,586,QRED,114988.24,Retained Earnings (Accumulated Deficit), ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,591,QOTE,63.76,Other Equity, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,594,SOTE,63.76,"Other Equity, Total", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,595,QTLE,132825.16,Total Equity, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,595,QTLE,132514.88,Total Equity, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,596,QTEL,353990.05,Total Liabilities & Shareholders' Equity, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,596,QTEL,354300.33,Total Liabilities & Shareholders' Equity, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,597,QCSO1,1752.59878,Shares Outs - Common Stock Primary Issue, ,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,597,QCSO1,1752.59878,Shares Outs - Common Stock Primary Issue, ,0,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,601,QTCO,1752.59878,Total Common Shares Outstanding, ,0,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,601,QTCO,1752.59878,Total Common Shares Outstanding, ,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,602,QTSN1,0.0,Treas Shares - Common Stock Prmry Issue, ,0,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,619,METL,2548.0,Employees, ,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,621,MNOS,448138.0,Number of Common Shareholders, ,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,623,VAIA,231.01,"Accumulated Intangible Amort, Suppl.", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,624,VADC,584.18,Deferred Revenue - Current, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,633,SCUI,44217.39,Total Current Assets less Inventory, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,633,SCUI,44217.39,Total Current Assets less Inventory, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,634,SQCK,0.35758,Quick Ratio, ,0,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,634,SQCK,0.35758,Quick Ratio, ,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,635,SCUR,1.02927,Current Ratio, ,0,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,635,SCUR,1.02927,Current Ratio, ,0,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,636,SNTD,126455.07,Net Debt, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,636,SNTD,126772.99,Net Debt, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,637,STBV,128798.06,Tangible Book Value, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,637,STBV,128487.78,Tangible Book Value, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,638,STBP,73.31272,Tangible Book Value per Share, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,638,STBP,73.48976,Tangible Book Value per Share, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,647,VTLD,102504.79,"Total Long Term Debt, Supplemental", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,648,SLD1,10491.19,Long Term Debt Maturing within 1 Year, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,649,SLD2,18732.535,Long Term Debt Maturing in Year 2, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,650,SLD3,18732.535,Long Term Debt Maturing in Year 3, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,658,SLD23,37465.07,Long Term Debt Maturing in 2-3 Years, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,660,SLD6B,54548.53,Long Term Debt Matur. in Year 6 & Beyond, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,663,VTCL,5632.37,"Total Capital Leases, Supplemental", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,664,SCL1,242.56,Capital Lease Payments Due in Year 1, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,665,SCL2,365.925,Capital Lease Payments Due in Year 2, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,666,SCL3,365.925,Capital Lease Payments Due in Year 3, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,674,SCL23,731.85,Capital Lease Payments Due in 2-3 Years, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,676,SCL6B,4657.96,Cap. Lease Pymts. Due in Year 6 & Beyond, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,691,VAPD,1998.6,Pension Obligation - Domestic, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,694,VPAD,1848.0,Plan Assets - Domestic, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,697,VPPD,-150.6,Funded Status - Domestic, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,703,VPUF,161.52,Unfunded Plan Obligations, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,704,VFSS,-312.12,Total Funded Status, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,707,VDRP,7.24,Discount Rate - Post-Retirement, ,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,708,VERD,7.24,Expected Rate of Return - Domestic, ,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,723,VALD,-150.6,Accrued Liabilities - Domestic, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,732,VARS,-150.6,Net Assets Recognized on Balance Sheet, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,749,STPO,2160.12,Total Plan Obligations, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,750,STPA,1848.0,Total Plan Assets, ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,828,MTHQ,101.0,"Number of Stores, End of Period", ,0,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,834,ONET,35970.6,Net Income/Starting Line,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,834,ONET,35959.37,Net Income/Starting Line,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,835,SDEP,12572.85,Depreciation,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,835,SDEP,12572.85,Depreciation,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,837,SDED,12572.85,Depreciation/Depletion,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,837,SDED,12572.85,Depreciation/Depletion,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,846,OUIE,1433.49,Unusual Items,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,846,OUIE,1433.49,Unusual Items,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,848,OEIA,-146.23,Equity in Net Earnings (Loss),M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,849,ONCI,28989.7,Other Non-Cash Items,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,849,ONCI,28854.7,Other Non-Cash Items,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,850,SNCI,30288.19,Non-Cash Items,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,850,SNCI,30276.96,Non-Cash Items,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,853,SCTP,9501.5,Cash Taxes Paid,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,853,SCTP,9501.5,Cash Taxes Paid,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,854,SCIP,10425.65,Cash Interest Paid,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,854,SCIP,10425.65,Cash Interest Paid,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,856,OACR,5852.29,Accounts Receivable,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,856,OACR,5852.29,Accounts Receivable,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,857,OITL,-15762.48,Inventories,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,857,OITL,-15762.48,Inventories,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,859,OOAS,-264.78,Other Assets,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,859,OOAS,-264.78,Other Assets,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,860,OAPB,11306.5,Accounts Payable,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,860,OAPB,11306.5,Accounts Payable,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,866,OOCF,-9501.5,Other Operating Cash Flow,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,866,OOCF,-9501.5,Other Operating Cash Flow,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,880,SOCF,-8369.97,Changes in Working Capital,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,880,SOCF,-8369.97,Changes in Working Capital,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,881,OTLO,70450.44,Cash from Operating Activities,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,881,OTLO,70450.44,Cash from Operating Activities,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,882,ICEX,-15560.43,Purchase of Fixed Assets,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,882,ICEX,-15560.43,Purchase of Fixed Assets,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,885,SCEX,-15560.43,Capital Expenditures,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,885,SCEX,-15560.43,Capital Expenditures,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,888,ISFA,144.59,Sale of Fixed Assets,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,888,ISFA,144.59,Sale of Fixed Assets,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,899,IICF,237.04,Other Investing Cash Flow,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,899,IICF,237.04,Other Investing Cash Flow,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,900,SICF,381.63,"Other Investing Cash Flow Items, Total",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,900,SICF,381.63,"Other Investing Cash Flow Items, Total",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,901,ITLI,-15178.8,Cash from Investing Activities,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,901,ITLI,-15178.8,Cash from Investing Activities,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,905,FFCF,-10425.65,Other Financing Cash Flow,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,905,FFCF,-10425.65,Other Financing Cash Flow,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,906,SFCF,-10425.65,Financing Cash Flow Items,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,906,SFCF,-10425.65,Financing Cash Flow Items,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,907,FDPC,-1752.6,Cash Dividends Paid - Common,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,907,FDPC,-1752.6,Cash Dividends Paid - Common,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,909,FCDP,-1752.6,Total Cash Dividends Paid,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,909,FCDP,-1752.6,Total Cash Dividends Paid,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,924,FSDN,6517.09,"Short Term Debt, Net",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,924,FSDN,6517.09,"Short Term Debt, Net",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,925,FLDI,1858.12,Long Term Debt Issued,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,925,FLDI,1858.12,Long Term Debt Issued,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,926,FLDR,-89.64,Long Term Debt Reduction,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,926,FLDR,-51439.33,Long Term Debt Reduction,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,927,FLDN,-49581.21,"Long Term Debt, Net",M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,927,FLDN,-49581.21,"Long Term Debt, Net",M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,930,FPRD,-43064.12,"Issuance (Retirement) of Debt, Net",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,930,FPRD,-43064.12,"Issuance (Retirement) of Debt, Net",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,931,FTLF,-55242.37,Cash from Financing Activities,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,931,FTLF,-55242.37,Cash from Financing Activities,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,933,SNCC,29.27,Net Change in Cash,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,933,SNCC,29.27,Net Change in Cash,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,934,SNCB,68.01,Net Cash - Beginning Balance,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,934,SNCB,68.01,Net Cash - Beginning Balance,M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,935,SNCE,97.28,Net Cash - Ending Balance,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,935,SNCE,97.28,Net Cash - Ending Balance,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,999,SNIN,-11112.34,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,999,SNIN,-12131.54,"Interest Inc.(Exp.),Net-Non-Op., Total",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1056,QTLL,132825.16,Total Equity & Minority Interest, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1056,QTLL,132514.88,Total Equity & Minority Interest, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1059,VGWI,3772.78,Goodwill - Net, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1059,VGWI,3772.78,Goodwill - Net, ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1060,VINT,254.32,Intangibles - Net, ,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1061,VPPN,207432.84,Other Property/Plant/Equipment - Net, ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1068,VLAR,7724.89,Labor & Related Expense Suppl.,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1068,VLAR,7720.63,Labor & Related Expense Suppl.,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1078,VDNI,16.71,Net Interest Cost - Domestic,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1123,VLCC,242.56,"Curr. Port. of LT Capital Leases, Suppl.", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1123,VLCC,242.56,"Curr. Port. of LT Capital Leases, Suppl.", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1124,VUCD,1316.79,"Right-of-Use Assets-Cap.Lease,Depr.-Sup.", ,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1126,VUCN,7188.49,"Right-of-Use Assets-Cap.Lease,Net-Suppl.", ,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1128,VUCG,8505.28,"Right-of-Use Assets-Cap.Lease,Gross-Sup.", ,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1130,VDRU,278.71,"Depreciation of Right-of-Use Assets,Sup.",M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1130,VDRU,278.71,"Depreciation of Right-of-Use Assets,Sup.",M,1,0
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1132,VIEL,189.03,"Interest Expense on Lease Liabs., Suppl.",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1132,VIEL,189.03,"Interest Expense on Lease Liabs., Suppl.",M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1140,SCWC,1131.53,Net Changes in Working Capital,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1140,SCWC,1131.53,Net Changes in Working Capital,M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1156,VSLC,13.47,Lease Expense -Total,M,1,1
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1167,VFLE,59.04,Variable Financial Lease Expenses,M,1,1
+,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1172,VLLR,-89.64,"Lease liability Reduced, Supplemental",M,1,0
+MRPL,Mangalore Refinery and Petrochmcls Ltd,2024-03-31 00:00:00.000,1172,VLLR,-89.64,"Lease liability Reduced, Supplemental",M,1,1
