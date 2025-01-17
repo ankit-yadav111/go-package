@@ -1,0 +1,232 @@
+package transcript_doc
+
+import (
+	// "encoding/base64"
+	"encoding/json"
+	"fmt"
+	"io"
+	"iprudpl/internal/connection/db"
+	"iprudpl/internal/helper"
+	"net/http"
+	"os"
+	"strings"
+)
+
+type details struct {
+	Title      string `json:"title"`
+	Concall    string `json:"concall_file"`
+	Transcript string `json:"autoTranscripted"`
+}
+
+func processAPIRequest(id int, det details, authToken string) error {
+	if det.Concall == "" && det.Transcript == "" {
+		query := fmt.Sprintf(`update company_events set is_upload=1,updated_at=now() where id=%d`, id)
+		_, err := db.Exec(query)
+		if err != nil {
+			return fmt.Errorf("error updating company_events table: %v", err)
+		}
+		return nil
+	}
+
+	filename1 := det.Concall
+	filename2 := det.Transcript
+	if filename1 != "" {
+		blob := "DD/Concall/" + filename1
+		err := uploadFile(filename1, "ddnotes", blob, authToken)
+		if err != nil {
+			return err
+		}
+		det.Concall = blob
+	}
+
+	if filename2 != "" {
+		blob := "DD/Transcript/" + filename2
+		err := uploadFile(filename2, "dd-transcript", blob, authToken)
+		if err != nil {
+			return err
+		}
+		det.Transcript = blob
+	}
+
+	data := fmt.Sprintf(`{"title":"%s","concall_file":"%s","autoTranscripted":"%s"}`, det.Title, det.Concall, det.Transcript)
+	query := fmt.Sprintf(`update company_events set is_upload=1,concall_details='%v',updated_at=now() where id=%d`, data, id)
+	_, err := db.Exec(query)
+	if err != nil {
+		return fmt.Errorf("error updating company_events table: %v", err)
+	}
+	return nil
+}
+
+func SyncConcallDocuments() {
+	fmt.Println("Transcription Doc")
+	authToken := helper.GetDDAuthToken()
+	query := `Select count(*) from company_events where is_upload=0 and concall_details is not null and concall_details!='""';`
+	rows, err := db.Query(query)
+	if err != nil {
+		helper.InsertCronLog("company_event_docs", 0, 0, 0, err.Error())
+		return
+	}
+	defer rows.Close()
+
+	count := 0
+
+	if rows.Next() {
+		err = rows.Scan(&count)
+		if err != nil {
+			helper.InsertCronLog("company_event_docs", 0, 0, 0, err.Error())
+			return
+		}
+	}
+	fmt.Print(count)
+	limit := 100
+	updatedCount := 0
+	for i := 0; i < count; i += limit {
+		query = fmt.Sprintf(`Select concall_details,id from company_events where is_upload=0 and concall_details is not null and concall_details!='""'  order by startdate desc limit %d;`, limit)
+		rows, err = db.Query(query)
+		var concall_details json.RawMessage
+		var id int
+		if err == nil {
+			defer rows.Close()
+			for rows.Next() {
+				err = rows.Scan(&concall_details, &id)
+				if err == nil {
+					var concall details
+					err = json.Unmarshal(concall_details, &concall)
+					if err != nil {
+						helper.InsertCronLog("company_event_docs", updatedCount, 0, 0, err.Error())
+					}
+					err = processAPIRequest(id, concall, authToken)
+					updatedCount = updatedCount + 1
+					if err != nil {
+						query := fmt.Sprintf(`update company_events set is_upload=2,updated_at=now() where id=%d`, id)
+						_, _ = db.Exec(query)
+						payload := fmt.Sprintf(`ID:%d; Details:%v`, id, string(concall_details))
+						helper.InsertDocumentLog("company_event_docs", 0, 0, err.Error(), payload)
+					}
+				}
+			}
+		}
+	}
+	helper.InsertCronLog("company_event_docs", updatedCount, 1, 0, "Run Successfully")
+}
+
+func uploadFile(filename string, bucket string, blobpath string, authToken string) error {
+	apiUrl := helper.GetDDBaseUrl() + "api/s3-get"
+	payload := strings.NewReader(fmt.Sprintf(`{"file": "%s/%s", "bucket": "%s"}`, bucket, filename, bucket))
+	filepath := helper.GetBasePath() + "/uploads/temp/" + filename
+
+	client := &http.Client{}
+	req, err := http.NewRequest("POST", apiUrl, payload)
+	if err != nil {
+		return fmt.Errorf("error creating request: %v", err)
+	}
+
+	req.Header.Set("Authorization", authToken)
+	req.Header.Set("Accept", "application/octet-stream")
+	req.Header.Set("Content-Type", "application/json")
+
+	resp, err := client.Do(req)
+	if err != nil {
+		return fmt.Errorf("error making request: %v", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("error: status code %v", resp.StatusCode)
+	}
+
+	data, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return fmt.Errorf("error reading response body: %v", err)
+	}
+
+	type responseData struct {
+		Data struct {
+			Body struct {
+				Data []byte `json:"Data"`
+			} `json:"Body"`
+		} `json:"Data"`
+	}
+
+	var respData responseData
+	err = json.Unmarshal(data, &respData)
+	if err != nil {
+		return err
+	}
+
+	bodyData := respData.Data.Body.Data
+
+	err = os.WriteFile(filepath, bodyData, 0644)
+	if err != nil {
+		return fmt.Errorf("error writing file: %v", err)
+	}
+	defer os.Remove(filepath)
+
+	err = helper.UploadFileOnAzure(filepath, blobpath)
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
+// func uploadConcallFile(filename string,authToken string)error{
+// 	filename = "cfile-1723211268090.mpga"
+// 	apiUrl := helper.GetDDBaseUrl() + "api/s3-get"
+// 	payload := strings.NewReader(fmt.Sprintf(`{"file": "ddnotes/%s", "bucket": "ddnotes"}`,filename))
+// 	filepath := helper.GetBasePath()+"/uploads/temp/" + filename
+// 	filepath := "../.."+basepath
+// 	blobpath := "DD/Concall/"+filename
+
+// 	client := &http.Client{}
+// 	req, err := http.NewRequest("POST", apiUrl, payload)
+// 	if err != nil {
+// 		return fmt.Errorf("error creating request: %v", err)
+// 	}
+
+// 	req.Header.Set("Authorization", authToken)
+// 	req.Header.Set("Accept", "application/octet-stream")
+// 	req.Header.Set("Content-Type", "application/json")
+
+// 	resp, err := client.Do(req)
+// 	if err != nil {
+// 		return fmt.Errorf("error making request: %v", err)
+// 	}
+// 	defer resp.Body.Close()
+
+// 	if resp.StatusCode != http.StatusOK {
+// 		return fmt.Errorf("error: status code %v", resp.StatusCode)
+// 	}
+
+// 	data, err := io.ReadAll(resp.Body)
+// 	if err != nil {
+// 		return fmt.Errorf("error reading response body: %v", err)
+// 	}
+
+// 	type responseData struct {
+// 		Data struct {
+// 			Body struct {
+// 				Data []byte `json:"Data"`
+// 			}`json:"Body"`
+// 		}`json:"Data"`
+// 	}
+
+// 	var respData responseData
+// 	err = json.Unmarshal(data,&respData)
+// 	if err!=nil{
+// 		return err
+// 	}
+
+// 	bodyData := respData.Data.Body.Data
+
+// 	err = os.WriteFile(filepath, bodyData, 0644)
+// 	if err != nil {
+// 		return fmt.Errorf("error writing file: %v", err)
+// 	}
+// 	defer os.Remove(filepath)
+
+// 	err = helper.UploadFileOnAzure(basepath,blobpath)
+// 	if err != nil {
+// 		return err
+// 	}
+// 	return nil
+// }
