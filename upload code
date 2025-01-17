@@ -230,3 +230,9 @@ func uploadFile(filename string, bucket string, blobpath string, authToken strin
 // 	}
 // 	return nil
 // }
+
+
+"file":"ddnotes/cfile-1736785915347.mpga",
+    "bucket":"ddnotes"
+
+    cfile-1736856533799.wav
