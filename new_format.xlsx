@@ -1,0 +1,8 @@
+ISIN / NSE	Company name	Analyst Email	1 year Base Value	 4 Year FV	Risk  -   %	Skewness Factor (negative/positive/neutral)	ESG Score 	Reco	Conviction 	Model p/f OW/(UW) bps	Alpha	Comments	 Core EPS-23/ BVPS-23	Core EPS-24/ BVPS-24 	Core EPS-25/ BVPS-25 	Core EPS-26/ BVPS-26 	Core EPS-27/ BVPS-27
+													           The EPS or BV used for calculating the PE and PB    				
+AARTIIND	abc	EXTA5587	131	411	1	Negative	2.2	OW			1		23	24	12	67	11
+HONASA	abc	EXTA5587	131	411	1	Negative	2.2	OW			1		23	24	12	67	11
+BIKAJI	abc	EXTA5587	131	411	1	Negative	2.2	OW			1		23	24	12	67	11
+CCL	abc	EXTA5587	131	411	1	Negative	2.2	OW			1		23	24	12	67	11
+EMAMILTD	abc	EXTA5587	131	411	1	Negative	2.2	OW			1		23	24	12	67	11
+BAJAJCON	abc	EXTA5587	131	411	1	Negative	2.2	OW			1		23	24	12	67	11
