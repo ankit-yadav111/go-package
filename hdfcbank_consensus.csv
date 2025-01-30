@@ -1,0 +1,229 @@
+"Code","Type_","Period_","Measure_Code","Measure_Desc","UnitType","Curr","Value_","Consolidated","Code","Consolidated"
+26006,Year,2025,EPSCASH,Cash EPS,Currency,INR,91.872,1,26006,Standalone
+26006,Year,2026,EPSCASH,Cash EPS,Currency,INR,103.404,1,26006,Standalone
+26006,Year,2027,EPSCASH,Cash EPS,Currency,INR,119.333,1,26006,Standalone
+26006,Year,2028,DPS,Dividend Per Share,Currency,INR,26.0,0,26006,Consolidated
+26006,Year,2025,DPS,Dividend Per Share,Currency,INR,19.91617,0,26006,Consolidated
+26006,Year,2026,DPS,Dividend Per Share,Currency,INR,22.18954,0,26006,Consolidated
+26006,Year,2027,DPS,Dividend Per Share,Currency,INR,25.61786,0,26006,Consolidated
+26006,Year,2025,TOTDIV,Total Dividends,Currency,INR,166000.0,0,26006,Consolidated
+26006,Year,2026,TOTDIV,Total Dividends,Currency,INR,189000.0,0,26006,Consolidated
+26006,Year,2028,PPROFITREP,Reported Pretax Profit,Currency,INR,1256251.0,1,26006,Standalone
+26006,Year,2025,PPROFITREP,Reported Pretax Profit,Currency,INR,879174.50419,1,26006,Standalone
+26006,Year,2026,PPROFITREP,Reported Pretax Profit,Currency,INR,982564.04404,1,26006,Standalone
+26006,Year,2027,PPROFITREP,Reported Pretax Profit,Currency,INR,1127103.06154,1,26006,Standalone
+26006,Year,2025,TAXPROV,Tax Provision,Currency,INR,211846.36,1,26006,Standalone
+26006,Year,2026,TAXPROV,Tax Provision,Currency,INR,238977.88,1,26006,Standalone
+26006,Year,2026,TAXRATE,Tax Rate,Percentage,,20.25333,1,26006,Standalone
+26006,Year,2025,TAXRATE,Tax Rate,Percentage,,20.83267,1,26006,Standalone
+26006,Year,2025,CURRASSETS,Current Assets,Currency,INR,2277151.0,1,26006,Standalone
+26006,Year,2026,CURRASSETS,Current Assets,Currency,INR,2480667.0,1,26006,Standalone
+26006,Year,2027,CURRASSETS,Current Assets,Currency,INR,2657696.5,1,26006,Standalone
+26006,Year,2028,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,3114854.0,1,26006,Standalone
+26006,Year,2027,TAXRATE,Tax Rate,Percentage,,24.50714,1,26006,Standalone
+26006,Year,2027,TAXPROV,Tax Provision,Currency,INR,277412.36,1,26006,Standalone
+26006,Year,2025,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,2261890.05,1,26006,Standalone
+26006,Year,2026,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,2474859.5,1,26006,Standalone
+26006,Year,2027,MKTBLSEC,Cash & Mktbl. Sec.,Currency,INR,2759542.25,1,26006,Standalone
+26006,Year,2025,INTINC,Interest Income,Currency,INR,2669935.77778,1,26006,Standalone
+26006,Year,2026,INTINC,Interest Income,Currency,INR,2895820.55556,1,26006,Standalone
+26006,Year,2027,INTINC,Interest Income,Currency,INR,3183077.875,1,26006,Standalone
+26006,Year,2028,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,1473637.0,1,26006,Standalone
+26006,Year,2025,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,997994.19231,1,26006,Standalone
+26006,Year,2026,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,1125271.19231,1,26006,Standalone
+26006,Year,2028,EPS,Earnings Per Share,Currency,INR,124.0,1,26006,Standalone
+26006,Year,2027,EBIT,EARNINGS BEFORE INTEREST AND TAXES,Currency,INR,1294325.33204,1,26006,Standalone
+26006,Year,2025,EPS,Earnings Per Share,Currency,INR,87.74203,1,26006,Standalone
+26006,Year,2026,EPS,Earnings Per Share,Currency,INR,97.52024,1,26006,Standalone
+26006,Year,2025,AVGEASSET,Average Earning Assets,Currency,INR,37467980,1,26006,Standalone
+26006,Year,2026,AVGEASSET,Average Earning Assets,Currency,INR,42524524,1,26006,Standalone
+26006,Year,2027,AVGEASSET,Average Earning Assets,Currency,INR,49326212,1,26006,Standalone
+26006,Year,2025,AVGIBL,Average Interest Bearing Liabilities,Currency,INR,31436000,1,26006,Standalone
+26006,Year,2025,COSTFUNDS,Cost of Funds ,Percentage,,5.44,1,26006,Standalone
+26006,Year,2026,COSTFUNDS,Cost of Funds ,Percentage,,5.22,1,26006,Standalone
+26006,Year,2027,COSTFUNDS,Cost of Funds ,Percentage,,5.02222,1,26006,Standalone
+26006,Year,2027,EPS,Earnings Per Share,Currency,INR,112.01788,1,26006,Standalone
+26006,Year,2025,TCRATIO,Total Capital Ratio,Percentage,,17.9,1,26006,Standalone
+26006,Year,2025,EASSETYLD,Earning Asset Yield,Percentage,,8.6,1,26006,Standalone
+26006,Year,2026,EASSETYLD,Earning Asset Yield,Percentage,,8.5,1,26006,Standalone
+26006,Year,2026,AVGIBL,Average Interest Bearing Liabilities,Currency,INR,34018000,1,26006,Standalone
+26006,Year,2027,AVGIBL,Average Interest Bearing Liabilities,Currency,INR,39927.0,1,26006,Standalone
+26006,Year,2025,CAPADRAT,Capital Adequacy Ratio,Percentage,,18.32857,1,26006,Standalone
+26006,Year,2026,CAPADRAT,Capital Adequacy Ratio,Percentage,,18.2,1,26006,Standalone
+26006,Year,2027,CAPADRAT,Capital Adequacy Ratio,Percentage,,18.0375,1,26006,Standalone
+26006,Year,2025,TOTALLIAB,Total Liabilities ,Currency,INR,38236435.35714,1,26006,Standalone
+26006,Year,2026,TOTALLIAB,Total Liabilities ,Currency,INR,42432401.85714,1,26006,Standalone
+26006,Year,2027,TOTALLIAB,Total Liabilities ,Currency,INR,47761683.28571,1,26006,Standalone
+26006,Year,2025,CIRATIO,Cost per Income Ratio,Percentage,,40.76154,1,26006,Standalone
+26006,Year,2026,CIRATIO,Cost per Income Ratio,Percentage,,40.28571,1,26006,Standalone
+26006,Year,2027,CIRATIO,Cost per Income Ratio,Percentage,,39.56429,1,26006,Standalone
+26006,Year,2025,CASARAT,CASA Ratio,Percentage,,34.51539,1,26006,Standalone
+26006,Year,2026,CASARAT,CASA Ratio,Percentage,,34.18462,1,26006,Standalone
+26006,Year,2025,NPLTOTLN,NPL % of Total Loans,Percentage,,1.2,1,26006,Standalone
+26006,Year,2026,NPLTOTLN,NPL % of Total Loans,Percentage,,1.1,1,26006,Standalone
+26006,Year,2027,NPLTOTLN,NPL % of Total Loans,Percentage,,1.1,1,26006,Standalone
+26006,Year,2026,OTHINCEXP,Other Income/Expense,Currency,INR,122918.5,1,26006,Standalone
+26006,Year,2025,OTHINCEXP,Other Income/Expense,Currency,INR,243724.66667,1,26006,Standalone
+26006,Year,2027,OTHINCEXP,Other Income/Expense,Currency,INR,290418.33333,1,26006,Standalone
+26006,Year,2027,CASARAT,CASA Ratio,Percentage,,34.36923,1,26006,Standalone
+26006,Year,2025,NETINCMRG,Net Income Margin,Percentage,,9.0,1,26006,Standalone
+26006,Year,2026,NETINCMRG,Net Income Margin,Percentage,,9.5,1,26006,Standalone
+26006,Year,2027,NETINCMRG,Net Income Margin,Percentage,,16.2,1,26006,Standalone
+26006,Year,2028,BVPS,Book Value Per Share,Currency,INR,905.0,1,26006,Standalone
+26006,Year,2025,BVPS,Book Value Per Share,Currency,INR,643.44661,1,26006,Standalone
+26006,Year,2026,BVPS,Book Value Per Share,Currency,INR,720.64433,1,26006,Standalone
+26006,Year,2028,EPSREP,As Reported EPS,Currency,INR,124.0,1,26006,Standalone
+26006,Year,2027,BVPS,Book Value Per Share,Currency,INR,809.08971,1,26006,Standalone
+26006,Year,2025,EPSREP,As Reported EPS,Currency,INR,87.58328,1,26006,Standalone
+26006,Year,2026,EPSREP,As Reported EPS,Currency,INR,97.03116,1,26006,Standalone
+26006,Year,2028,NAV,Net Assets Value,Currency,INR,6921819.0,1,26006,Standalone
+26006,Year,2028,NPROFIT,Net Income,Currency,INR,948470.0,1,26006,Standalone
+26006,Year,2027,EPSREP,As Reported EPS,Currency,INR,110.95717,1,26006,Standalone
+26006,Year,2025,NAV,Net Assets Value,Currency,INR,4925886.1394,1,26006,Standalone
+26006,Year,2026,NAV,Net Assets Value,Currency,INR,5514015.26636,1,26006,Standalone
+26006,Year,2027,NAV,Net Assets Value,Currency,INR,6178350.30604,1,26006,Standalone
+26006,Year,2025,NPROFIT,Net Income,Currency,INR,668157.27697,1,26006,Standalone
+26006,Year,2026,NPROFIT,Net Income,Currency,INR,743716.40997,1,26006,Standalone
+26006,Year,2028,ROA,Return on Assets,Percentage,,1.9,1,26006,Standalone
+26006,Year,2026,OPROFIT,Operating Profit,Currency,INR,2.12,1,26006,Standalone
+26006,Year,2028,PPROFIT,Pretax Profit,Currency,INR,1256251.0,1,26006,Standalone
+26006,Year,2028,ROE,Return On Equity,Percentage,,14.5,1,26006,Standalone
+26006,Year,2028,REV,Sales,Currency,INR,2366423.0,1,26006,Standalone
+26006,Year,2025,ROA,Return on Assets,Percentage,,1.78863,1,26006,Standalone
+26006,Year,2027,NPROFIT,Net Income,Currency,INR,858105.96823,1,26006,Standalone
+26006,Year,2025,PPROFIT,Pretax Profit,Currency,INR,878744.49126,1,26006,Standalone
+26006,Year,2026,PPROFIT,Pretax Profit,Currency,INR,984108.40897,1,26006,Standalone
+26006,Year,2027,PPROFIT,Pretax Profit,Currency,INR,1139607.59612,1,26006,Standalone
+26006,Year,2026,ROA,Return on Assets,Percentage,,1.8029,1,26006,Standalone
+26006,Year,2027,ROA,Return on Assets,Percentage,,1.84431,1,26006,Standalone
+26006,Year,2025,ROE,Return On Equity,Percentage,,14.28191,1,26006,Standalone
+26006,Year,2026,ROE,Return On Equity,Percentage,,14.11909,1,26006,Standalone
+26006,Year,2027,ROE,Return On Equity,Percentage,,14.48707,1,26006,Standalone
+26006,Year,2025,REV,Sales,Currency,INR,1687320.52435,1,26006,Standalone
+26006,Year,2026,AUM,Assets Under Management,Currency,INR,46000.0,1,26006,Standalone
+26006,Year,2029,TOTDEP,Total Deposits,Currency,INR,53.0,1,26006,Standalone
+26006,Year,2029,LOANS,Loans,Currency,INR,321.0,1,26006,Standalone
+26006,Year,2025,AUM,Assets Under Management,Currency,INR,823000.0,1,26006,Standalone
+26006,Year,2027,AUM,Assets Under Management,Currency,INR,56000.0,1,26006,Standalone
+26006,Year,2026,TIER1,Core Tier 1 Capital,Currency,INR,12372.2,1,26006,Standalone
+26006,Year,2025,TIER1,Core Tier 1 Capital,Currency,INR,9308.225,1,26006,Standalone
+26006,Year,2026,CAPEX,Capital Expenditures,Currency,INR,2600.0,1,26006,Standalone
+26006,Year,2027,TIER1,Core Tier 1 Capital,Currency,INR,9779.1,1,26006,Standalone
+26006,Year,2028,NPROFITREP,Reported Net Profit,Currency,INR,948470.0,1,26006,Standalone
+26006,Year,2028,TBVPS,Tangible Book Value Per Share,Currency,INR,889.0,1,26006,Standalone
+26006,Year,2028,OPREXP,Operating Expense,Currency,INR,892786.0,1,26006,Standalone
+26006,Year,2028,TOTDEP,Total Deposits,Currency,INR,40056896,1,26006,Standalone
+26006,Year,2028,LOANS,Loans,Currency,INR,35450352,1,26006,Standalone
+26006,Year,2025,CAPEX,Capital Expenditures,Currency,INR,35.0,1,26006,Standalone
+26006,Year,2026,REV,Sales,Currency,INR,1897623.12397,1,26006,Standalone
+26006,Year,2027,REV,Sales,Currency,INR,2173440.64406,1,26006,Standalone
+26006,Year,2025,NPROFITREP,Reported Net Profit,Currency,INR,667000.72138,1,26006,Standalone
+26006,Year,2026,NPROFITREP,Reported Net Profit,Currency,INR,741682.51848,1,26006,Standalone
+26006,Year,2027,NPROFITREP,Reported Net Profit,Currency,INR,848300.31396,1,26006,Standalone
+26006,Year,2025,TBVPS,Tangible Book Value Per Share,Currency,INR,629.95652,1,26006,Standalone
+26006,Year,2026,TBVPS,Tangible Book Value Per Share,Currency,INR,703.02174,1,26006,Standalone
+26006,Year,2027,TBVPS,Tangible Book Value Per Share,Currency,INR,783.02652,1,26006,Standalone
+26006,Year,2025,OPREXP,Operating Expense,Currency,INR,687167.52,1,26006,Standalone
+26006,Year,2026,OPREXP,Operating Expense,Currency,INR,762752.28,1,26006,Standalone
+26006,Year,2027,OPREXP,Operating Expense,Currency,INR,857346.68,1,26006,Standalone
+26006,Year,2025,TOTDEP,Total Deposits,Currency,INR,27349045.2963,1,26006,Standalone
+26006,Year,2026,TOTDEP,Total Deposits,Currency,INR,31678995.51852,1,26006,Standalone
+26006,Year,2027,TOTDEP,Total Deposits,Currency,INR,36685934,1,26006,Standalone
+26006,Year,2025,INTEXP,Interest Expense,Currency,INR,1772914.05882,1,26006,Standalone
+26006,Year,2026,INTEXP,Interest Expense,Currency,INR,2095809.35294,1,26006,Standalone
+26006,Year,2027,INTEXP,Interest Expense,Currency,INR,1934746.07778,1,26006,Standalone
+26006,Year,2027,SIC,Securities in Issue under Total Deposits,Currency,INR,8898019.0,1,26006,Standalone
+26006,Year,2025,NIS,Net Interest Spread,Percentage,,3.27,1,26006,Standalone
+26006,Year,2025,AVGLOAN,Net Charge-offs/Average Loans,Percentage,,0.5,1,26006,Standalone
+26006,Year,2026,AVGLOAN,Net Charge-offs/Average Loans,Percentage,,0.8,1,26006,Standalone
+26006,Year,2027,AVGLOAN,Net Charge-offs/Average Loans,Percentage,,0.7,1,26006,Standalone
+26006,Year,2025,NPL,Non-Performing Loans,Currency,INR,166889.2,1,26006,Standalone
+26006,Year,2026,NPL,Non-Performing Loans,Currency,INR,178803.35,1,26006,Standalone
+26006,Year,2027,NPL,Non-Performing Loans,Currency,INR,196105.8,1,26006,Standalone
+26006,Year,2025,RWA,Risk Weighted Assets,Currency,INR,26261000,1,26006,Standalone
+26006,Year,2026,RWA,Risk Weighted Assets,Currency,INR,28849000,1,26006,Standalone
+26006,Year,2027,RWA,Risk Weighted Assets,Currency,INR,32327000,1,26006,Standalone
+26006,Year,2025,NRECITEM,Non-recurring items,Currency,INR,0.0,1,26006,Standalone
+26006,Year,2026,NRECITEM,Non-recurring items,Currency,INR,0.0,1,26006,Standalone
+26006,Year,2025,CUSDEP,Customer Deposits under Total Deposits,Currency,INR,1153000.0,1,26006,Standalone
+26006,Year,2026,CUSDEP,Customer Deposits under Total Deposits,Currency,INR,1304000.0,1,26006,Standalone
+26006,Year,2027,CUSDEP,Customer Deposits under Total Deposits,Currency,INR,1461000.0,1,26006,Standalone
+26006,Year,2025,TBV,Tangible Book Value,Currency,INR,311.525,1,26006,Standalone
+26006,Year,2026,NIS,Net Interest Spread,Percentage,,3.25,1,26006,Standalone
+26006,Year,2027,NIS,Net Interest Spread,Percentage,,3.36667,1,26006,Standalone
+26006,Year,2025,SIC,Securities in Issue under Total Deposits,Currency,INR,3631916.0,1,26006,Standalone
+26006,Year,2026,SIC,Securities in Issue under Total Deposits,Currency,INR,4009116.5,1,26006,Standalone
+26006,Year,2028,NII,Net Interest Income,Currency,INR,1735214.0,1,26006,Standalone
+26006,Year,2028,FCI,Fees & Commissions Income,Currency,INR,552418.0,1,26006,Standalone
+26006,Year,2028,TNIR,Total non-interest Revenue,Currency,INR,631209.0,1,26006,Standalone
+26006,Year,2025,TRAINC,Trading Income,Currency,INR,12706.66667,1,26006,Standalone
+26006,Year,2026,TRAINC,Trading Income,Currency,INR,18594.66667,1,26006,Standalone
+26006,Year,2027,TRAINC,Trading Income,Currency,INR,21302.66667,1,26006,Standalone
+26006,Year,2028,TRAINC,Trading Income,Currency,INR,15791.0,1,26006,Standalone
+26006,Year,2028,SEQUITY,Shareholders Equity,Currency,INR,6921819.0,1,26006,Standalone
+26006,Year,2028,TA,Total Assets,Currency,INR,53404392,1,26006,Standalone
+26006,Year,2028,TOTINC,Total Income,Currency,INR,2366423.0,1,26006,Standalone
+26006,Year,2025,NPA,Non-Performing Assets,Currency,INR,58672.14286,1,26006,Standalone
+26006,Year,2026,NPA,Non-Performing Assets,Currency,INR,60786.42857,1,26006,Standalone
+26006,Year,2027,NPA,Non-Performing Assets,Currency,INR,62334.16667,1,26006,Standalone
+26006,Year,2025,SEQUITY,Shareholders Equity,Currency,INR,4791688.59183,1,26006,Standalone
+26006,Year,2026,SEQUITY,Shareholders Equity,Currency,INR,5383458.53311,1,26006,Standalone
+26006,Year,2027,SEQUITY,Shareholders Equity,Currency,INR,6069140.97289,1,26006,Standalone
+26006,Year,2025,LOANS,Loans,Currency,INR,26122451.6,1,26006,Standalone
+26006,Year,2026,LOANS,Loans,Currency,INR,28831424.2,1,26006,Standalone
+26006,Year,2027,LOANS,Loans,Currency,INR,32580141.08,1,26006,Standalone
+26006,Year,2025,NII,Net Interest Income,Currency,INR,1223220.44444,1,26006,Standalone
+26006,Year,2026,NII,Net Interest Income,Currency,INR,1358592.92593,1,26006,Standalone
+26006,Year,2027,NII,Net Interest Income,Currency,INR,1554330.73077,1,26006,Standalone
+26006,Year,2025,TNIR,Total non-interest Revenue,Currency,INR,463021.56522,1,26006,Standalone
+26006,Year,2026,TNIR,Total non-interest Revenue,Currency,INR,534843.82609,1,26006,Standalone
+26006,Year,2027,TNIR,Total non-interest Revenue,Currency,INR,609442.40909,1,26006,Standalone
+26006,Year,2025,TA,Total Assets,Currency,INR,39126867,1,26006,Standalone
+26006,Year,2026,TA,Total Assets,Currency,INR,43559952.24,1,26006,Standalone
+26006,Year,2027,TA,Total Assets,Currency,INR,49220015.4,1,26006,Standalone
+26006,Year,2025,TOTINC,Total Income,Currency,INR,1693599.88889,1,26006,Standalone
+26006,Year,2026,TOTINC,Total Income,Currency,INR,1906064.96296,1,26006,Standalone
+26006,Year,2027,TOTINC,Total Income,Currency,INR,2169905.91304,1,26006,Standalone
+26006,Year,2025,EFFRATIO,Efficiency Ratio,Percentage,,40.52778,1,26006,Standalone
+26006,Year,2026,EFFRATIO,Efficiency Ratio,Percentage,,39.90556,1,26006,Standalone
+26006,Year,2027,EFFRATIO,Efficiency Ratio,Percentage,,39.19375,1,26006,Standalone
+26006,Year,2025,NIE,Non-Interest Expense,Currency,INR,683599.0,1,26006,Standalone
+26006,Year,2026,NIE,Non-Interest Expense,Currency,INR,743145.66667,1,26006,Standalone
+26006,Year,2027,NIE,Non-Interest Expense,Currency,INR,826228.66667,1,26006,Standalone
+26006,Year,2027,FCI,Fees & Commissions Income,Currency,INR,366155.2875,1,26006,Standalone
+26006,Year,2025,FCI,Fees & Commissions Income,Currency,INR,372681.5,1,26006,Standalone
+26006,Year,2026,FCI,Fees & Commissions Income,Currency,INR,427514.75,1,26006,Standalone
+26006,Year,2025,T1C,Tier 1 Capital Ratio,Percentage,,17.58333,1,26006,Standalone
+26006,Year,2026,T1C,Tier 1 Capital Ratio,Percentage,,17.78333,1,26006,Standalone
+26006,Year,2027,T1C,Tier 1 Capital Ratio,Percentage,,17.71667,1,26006,Standalone
+26006,Year,2025,INVENTORY,Inventory,Currency,INR,21107.5,1,26006,Standalone
+26006,Year,2025,NWC,Net Working Capital,Currency,INR,612280.0,1,26006,Standalone
+26006,Year,2025,ROC,Return on Capital,Percentage,,19.3,1,26006,Standalone
+26006,Year,2026,INVENTORY,Inventory,Currency,INR,0.0,1,26006,Standalone
+26006,Year,2025,DEPAMORT,Depreciation & Amortization,Currency,INR,0.01,1,26006,Standalone
+26006,Year,2026,DEPAMORT,Depreciation & Amortization,Currency,INR,0.01,1,26006,Standalone
+26006,Year,2027,DEPAMORT,Depreciation & Amortization,Currency,INR,0.01,1,26006,Standalone
+26006,Year,2028,NIM,Net Interest Margin,Percentage,,3.8,1,26006,Standalone
+26006,Year,2025,FCF,Free Cash Flow,Currency,INR,1300.0,0,26006,Consolidated
+26006,Year,2026,FCF,Free Cash Flow,Currency,INR,1100.0,0,26006,Consolidated
+26006,Year,2025,PSR,Price/Sales Ratio,Percentage,,7.08,1,26006,Standalone
+26006,Year,2026,PSR,Price/Sales Ratio,Percentage,,6.06,1,26006,Standalone
+26006,Year,2027,PSR,Price/Sales Ratio,Percentage,,5.56,1,26006,Standalone
+26006,Year,2025,NAVPS,NAV per Share,Currency,INR,643.55,1,26006,Standalone
+26006,Year,2026,NAVPS,NAV per Share,Currency,INR,718.22,1,26006,Standalone
+26006,Year,2027,NAVPS,NAV per Share,Currency,INR,806.978,1,26006,Standalone
+26006,Year,2027,NRECITEM,Non-recurring items,Currency,INR,0.0,1,26006,Standalone
+26006,Year,2028,LLP,Loan Loss Provisions,Currency,INR,217386.0,1,26006,Standalone
+26006,Year,2028,NOSHAREOUT,Number of Shares Outstanding,Shares,,7648.0,1,26006,Standalone
+26006,Year,2025,TCOMPRATIO,Total Compensation Expense,Currency,INR,241293.46667,1,26006,Standalone
+26006,Year,2026,TCOMPRATIO,Total Compensation Expense,Currency,INR,267453.93333,1,26006,Standalone
+26006,Year,2027,TCOMPRATIO,Total Compensation Expense,Currency,INR,298258.2,1,26006,Standalone
+26006,Year,2025,NIM,Net Interest Margin,Percentage,,3.52154,1,26006,Standalone
+26006,Year,2027,NIM,Net Interest Margin,Percentage,,3.644,1,26006,Standalone
+26006,Year,2027,NOSHAREOUT,Number of Shares Outstanding,Shares,,7665.01125,1,26006,Standalone
+26006,Year,2026,NIM,Net Interest Margin,Percentage,,3.57741,1,26006,Standalone
+26006,Year,2025,LLP,Loan Loss Provisions,Currency,INR,119959.84615,1,26006,Standalone
+26006,Year,2026,LLP,Loan Loss Provisions,Currency,INR,148750.23077,1,26006,Standalone
+26006,Year,2027,LLP,Loan Loss Provisions,Currency,INR,175955.36,1,26006,Standalone
+26006,Year,2025,NOSHAREOUT,Number of Shares Outstanding,Shares,,7636.935,1,26006,Standalone
+26006,Year,2026,NOSHAREOUT,Number of Shares Outstanding,Shares,,7651.9125,1,26006,Standalone
